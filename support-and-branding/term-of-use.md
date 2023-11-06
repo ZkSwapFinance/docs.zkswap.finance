@@ -1,0 +1,7 @@
+# Term Of Use
+
+Our website provides access to a decentralized protocol for trading digital assets on various public blockchains. However, the information provided on the site is for educational purposes only and should not be construed as investment advice. By connecting your non-custodial wallet to our website, you agree to be bound by our terms of use. Please note that wallets are not operated or maintained by us, and we have no control over their contents.
+
+zkSwap does not guarantee the accuracy, completeness, timeliness, suitability, or validity of the information on this Site, and shall not be held liable for any errors, omissions, or delays in such information. Any loss, injury, or damage resulting from the display or use of such information shall not be the responsibility of zkSwap . Unless otherwise stated, all images on the Site are the property of zkSwap. Third-party links provided on the Site are for informational purposes only, and zkSwap has no control over the accuracy of the content on such sites.
+
+_**Participating in fraudulent activities during the airdrop program or campaign will result in disqualification from receiving rewards.**_ Additionally, any actions that involve gathering information in a harmful or threatening manner, engaging in abusive, harassing, or violent behavior, making defamatory or vulgar statements, invading another's privacy, inciting hatred or discrimination, or engaging in objectionable behavior are strictly prohibited.

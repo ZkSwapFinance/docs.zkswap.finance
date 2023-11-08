@@ -8,7 +8,7 @@
 
 <figure><img src="../.gitbook/assets/Tokenomics_-_Docs.png" alt=""><figcaption></figcaption></figure>
 
-### ZF Utilities
+### 2. ZF Token Utilities
 
 * Stake in the DAO Pool to get more $ZF (5% $ZF Total Supply). No stake fee, auto-compound, no lock, but 1% unstake fee distributed to other stakers still in the pool to encourage the platform loyalty.
 * Staked ZF holders get BOOST in our [Swap2Earn](../highlights/swap2earn.md) incentive (refer to [this](../highlights/swap2earn.md) or  [zkswap.finance/swapboard](https://zkswap.finance/swapboard))

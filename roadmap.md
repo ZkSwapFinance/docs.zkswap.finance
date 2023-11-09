@@ -30,7 +30,7 @@
 
 * [x] Smart Contract Audit
 * [x] Official Launch zkSwap on Mainnet
-* [ ] Web App Development
+* [x] Web App Development
   * [x] Bridge Page
   * [x] Earn Page
   * [x] Launchpad Page
@@ -38,7 +38,7 @@
   * [x] Vesting Mechanism
   * [x] Swap-to-Earn Campaign
   * [x] Analytics Page
-  * [ ] Governance
+  * [x] Governance
   * [x] zkFlow-v2
   * [x] zkBridge
 * [x] Partner with zkSync ecosystem projects
@@ -50,6 +50,8 @@
 * [ ] Community Expansion
 * [x] Retroactive Trading Rewards&#x20;
 * [x] Community-Driven Rewards&#x20;
+* [ ] Improve zkFlow-V2&#x20;
+* [ ] Enhance UI & UX for zkBridge
 
 ### **PHASE 3**
 

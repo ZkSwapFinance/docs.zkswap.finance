@@ -23,7 +23,7 @@ When you stake ZF in the DAO Pool, you will receive yZF according to the formula
 
 * Your yZF amount = (Your Staked ZF Amount \* Total yZF Supply) / Total ZF in the DAO Pool
 
-Example: let's assume User Bob wants to stake 20 ZF in the DAO Staking Pool.
+_**Example:**_ let's assume User Bob wants to stake 20 ZF in the DAO Staking Pool.
 
 * Before Staking: Bob has 20 ZF, 0 yZF&#x20;
 * After Staking: Bob has 0 ZF, 2 yZF
@@ -41,7 +41,7 @@ Example: let's assume User Bob wants to stake 20 ZF in the DAO Staking Pool.
 
 If you choose to unstake ZF from the DAO Staking Pool, you will incur a 1% unstake fee, which will be redistributed to others in the DAO Pool. So, if you hold for a longer period, you'll earn more.
 
-Example: let's consider User Ryan, who has 6 yZF and wishes to unstake their ZF from the DAO Staking Pool.
+_**Example:**_ let's consider User Ryan, who has 6 yZF and wishes to unstake their ZF from the DAO Staking Pool.
 
 * When Ryan unstakes 6 yZF, a 1% withdrawal fee will be deducted, leaving them with 59.4 ZF.&#x20;
 * The 0.6 ZF, derived from the 1% withdrawal fee, will be distributed among all users in the DAO Pool.&#x20;

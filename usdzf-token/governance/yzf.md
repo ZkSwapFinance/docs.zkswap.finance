@@ -1,14 +1,12 @@
 # yZF
 
-### What is yZF?&#x20;
+### 1. What is yZF?&#x20;
 
 yZF is a token that represents voting power. Its quantity is determined by the amount of ZF deposited into the DAO Staking Pool by the user.
 
 Verified Contract: [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer.zksync.io/address/0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987)
 
-
-
-### Why should you convert ZF to yZF?&#x20;
+### 2. Why should you convert ZF to yZF?&#x20;
 
 * Participate in Governance: Vote and propose changes.&#x20;
 * Earn Staking Rewards: 5% of Total Supply for DAO Staking Pool
@@ -17,9 +15,7 @@ Verified Contract: [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer
 * Join special campaigns hosted by zkSwap Finance
 * And more
 
-
-
-### How is yZF calculated?
+### 3. How is yZF calculated?
 
 You must stake ZF in the DAO Staking Pool to receive yZF.&#x20;
 
@@ -27,9 +23,7 @@ When you stake ZF in the DAO Pool, you will receive yZF according to the formula
 
 * Your yZF amount = (Your Staked ZF Amount \* Total yZF Supply) / Total ZF in the DAO Pool
 
-
-
-For example, let's assume User Bob wants to stake 20 ZF in the DAO Staking Pool.
+Example: let's assume User Bob wants to stake 20 ZF in the DAO Staking Pool.
 
 * Before Staking: Bob has 20 ZF, 0 yZF&#x20;
 * After Staking: Bob has 0 ZF, 2 yZF
@@ -43,15 +37,11 @@ For example, let's assume User Bob wants to stake 20 ZF in the DAO Staking Pool.
 | Bob's yZF            | 0              | 2             |
 | Bob's Shares         | 0%             | 16.67%        |
 
-
-
-### How to Unstake ZF from DAO Staking Pool?
+### 4. How to Unstake ZF from DAO Staking Pool?
 
 If you choose to unstake ZF from the DAO Staking Pool, you will incur a 1% unstake fee, which will be redistributed to others in the DAO Pool. So, if you hold for a longer period, you'll earn more.
 
-
-
-For example, let's consider User Ryan, who has 6 yZF and wishes to unstake their ZF from the DAO Staking Pool.
+Example: let's consider User Ryan, who has 6 yZF and wishes to unstake their ZF from the DAO Staking Pool.
 
 * When Ryan unstakes 6 yZF, a 1% withdrawal fee will be deducted, leaving them with 59.4 ZF.&#x20;
 * The 0.6 ZF, derived from the 1% withdrawal fee, will be distributed among all users in the DAO Pool.&#x20;

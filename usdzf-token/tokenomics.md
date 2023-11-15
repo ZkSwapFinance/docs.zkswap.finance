@@ -2,7 +2,7 @@
 
 ### 1. Token Information
 
-<table><thead><tr><th width="301"></th><th></th></tr></thead><tbody><tr><td>Token Name</td><td>zkSwap Finance</td></tr><tr><td>Token Symbol</td><td>ZF</td></tr><tr><td>Initial Supply</td><td>375,000,000 (37.5%)</td></tr><tr><td>Total Supply</td><td>1,000,000,000</td></tr><tr><td>Token Type</td><td>Utilities, Governance</td></tr><tr><td>Token Network</td><td>zkSync Era</td></tr><tr><td>Token Address</td><td><a href="https://explorer.zksync.io/address/0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A">0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A</a></td></tr></tbody></table>
+<table><thead><tr><th width="301"></th><th></th></tr></thead><tbody><tr><td>Token Name</td><td>zkSwap Finance</td></tr><tr><td>Token Symbol</td><td>ZF</td></tr><tr><td>Initial Supply</td><td>375,000,000 (37.5%)</td></tr><tr><td>Total Supply</td><td>1,000,000,000</td></tr><tr><td>Token Type</td><td>Utilities, Governance</td></tr><tr><td>Token Network</td><td>zkSync Era</td></tr><tr><td>Token Address</td><td><a href="https://explorer.zksync.io/address/0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A">0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A</a></td></tr><tr><td>Token Holder List</td><td><a href="https://www.oklink.com/zksync/token/0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a">https://www.oklink.com/zksync/token/0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a</a></td></tr><tr><td>Token Vesting Schedule</td><td><a href="https://defillama.com/protocol/zkswap-finance">https://defillama.com/protocol/zkswap-finance</a></td></tr></tbody></table>
 
 
 

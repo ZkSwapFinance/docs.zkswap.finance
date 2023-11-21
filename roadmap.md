@@ -39,25 +39,29 @@
   * [x] Swap-to-Earn Campaign
   * [x] Analytics Page
   * [x] Governance
-  * [x] zkFlow-v2
-  * [x] zkBridge
+  * [x] zkFlow-v1
+  * [x] zkBridge-v1
 * [x] Partner with zkSync ecosystem projects
 * [x] zkSwap Liquidity Generation Event (LGE)
 * [x] zkSwap Token Generation Event (TGE)
 * [x] Start Competition Campaign
 * [x] Launch Farming & Staking&#x20;
 * [ ] More & More Partnerships
+* [ ] More & More Farming Pools
 * [ ] Community Expansion
 * [x] Retroactive Trading Rewards&#x20;
 * [x] Community-Driven Rewards&#x20;
-* [ ] Improve zkFlow-V2&#x20;
 * [ ] Enhance UI & UX for zkBridge
+* [ ] Improvement Earning Page UI & UX
 
 ### **PHASE 3**
 
 * [ ] Web App Development
-  * [ ] Launchpad
+  * [x] zkFlow-v2
+  * [x] zkBridge-v2
+  * [ ] Zap In - Zap Out
   * [ ] StableSwap
+  * [ ] Launchpad
   * [ ] Vault
   * [ ] Integrate SwapBoard for StableSwap and Vault
   * [ ] Mobile App&#x20;

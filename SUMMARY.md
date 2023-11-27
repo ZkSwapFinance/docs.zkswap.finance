@@ -16,6 +16,7 @@
 * [Incentive Farming & Liquidity](highlights/incentive-farming-and-liquidity.md)
 * [Future Product](highlights/future-product.md)
 * [News](highlights/news.md)
+* [ZAP](highlights/zap.md)
 * [Fee](highlights/fee.md)
 
 ## $ZF token

@@ -47,7 +47,7 @@
 * [x] Start Competition Campaign
 * [x] Launch Farming & Staking&#x20;
 * [ ] More & More Partnerships
-* [ ] More & More Farming Pools
+* [x] More & More Farming Pools
 * [ ] Community Expansion
 * [x] Retroactive Trading Rewards&#x20;
 * [x] Community-Driven Rewards&#x20;
@@ -59,7 +59,7 @@
 * [ ] Web App Development
   * [x] zkFlow-v2
   * [x] zkBridge-v2
-  * [ ] Zap In - Zap Out
+  * [x] Zap In - Zap Out
   * [ ] StableSwap
   * [ ] Launchpad
   * [ ] Vault

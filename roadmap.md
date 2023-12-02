@@ -65,6 +65,7 @@
   * [ ] Vault
   * [ ] Integrate SwapBoard for StableSwap and Vault
   * [ ] Mobile App&#x20;
+* [ ] Audit Certik
 * [ ] Upgrade UI, UX and Performance
 * [ ] Partner with other DEX with Vault
 * [ ] Community Expansion Campaign

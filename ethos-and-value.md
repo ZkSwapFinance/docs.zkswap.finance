@@ -10,4 +10,4 @@
 >
 > We are excited to invite you to join us on this journey toward innovation, sustainability, and transparency in the zkSwap protocol. Together, we can continue to learn, build, and innovate, and create a brighter future for all."
 >
-> "zkSwap CEO - Noah Edwards"
+> "zkSwap CEO - ThunderNoah"

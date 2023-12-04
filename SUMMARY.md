@@ -32,6 +32,7 @@
 ## Support & Branding
 
 * [Support & Collaboration](support-and-branding/support-and-collaboration.md)
+* [Community Resources](support-and-branding/community-resources.md)
 * [zkSwap Team](support-and-branding/zkswap-team.md)
 * [Branding](support-and-branding/branding.md)
 * [Term Of Use](support-and-branding/term-of-use.md)

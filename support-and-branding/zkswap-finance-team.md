@@ -1,16 +1,16 @@
-# zkSwap Team
+# zkSwap Finance Team
 
-#### **Founder & CEO: Noah Edwards**
+#### **Founder & CEO: ThunderNoah**
 
 * A deeply passionate advocate for blockchain technology and cryptocurrency. With an unbreakable determination and unwavering conviction, the ultimate goal is to infuse the crypto world with creativity, fairness, and transparency.
 * Contact: [Twitter](https://twitter.com/MegaBull\_Noah) | [Binance ](https://www.binance.com/en/feed/profile/Noah\_Edwards)| [Discord](https://discordapp.com/users/1039458159309361212)
 
-#### **CTO: Kailin Tan**
+#### **CTO: KailinKool**
 
 * An enthusiast of innovative technology and real-world problem solving, with a firm belief in blockchain and cryptocurrency's transformative potential for fintech's future.
 * Contact: [Discord](https://discord.com/users/1140485299101761607)
 
-#### **Developer: Reshma Desai**
+#### **Developer: ReshMagic**
 
 * A dedicated developer with an innate ability to turn impossible challenges into tangible digital solutions, always striving to push the boundaries of innovation.
 * Contact: [Discord](https://discordapp.com/users/1079941397890740294)

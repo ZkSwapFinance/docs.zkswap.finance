@@ -11,7 +11,7 @@
   * [Fee](highlights/fee.md)
 * [zkBridge](key-products/zkbridge.md)
 * [zkFlow](key-products/zkflow.md)
-* [Future Product](highlights/future-product.md)
+* [Future Products](key-products/future-products.md)
 
 ## HIGHLIGHTS
 

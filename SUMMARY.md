@@ -6,9 +6,7 @@
 
 ## KEY PRODUCTS
 
-* [zkSwap](key-products/zkswap/README.md)
-  * [ZAP](highlights/zap.md)
-  * [Fee](highlights/fee.md)
+* [zkSwap](key-products/zkswap.md)
 * [zkBridge](key-products/zkbridge.md)
 * [zkFlow](key-products/zkflow.md)
 * [Future Products](key-products/future-products.md)
@@ -18,6 +16,8 @@
 * [Swap2Earn](highlights/swap2earn.md)
 * [Farm2Earn](highlights/incentive-farming-and-liquidity.md)
 * [Affiliate | Referral Program](highlights/affiliate-or-referral-program.md)
+* [ZAP](highlights/zap.md)
+* [Fee](highlights/fee.md)
 
 ## DAO & TOKENOMICS
 

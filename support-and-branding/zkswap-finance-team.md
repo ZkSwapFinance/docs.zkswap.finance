@@ -1,4 +1,4 @@
-# zkSwap Finance Team
+# About us
 
 #### **Founder & CEO: ThunderNoah**
 

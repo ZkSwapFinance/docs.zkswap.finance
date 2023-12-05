@@ -79,5 +79,5 @@
   * [ ] Expand zkSwap to multiple networks
   * [ ] Cross-chain Swap-to-Earn
 
-### [**Join Our Community For More Information**](resources/official-links.md) 
+### [**Join Our Community For More Information**](support-and-branding/support-and-collaboration.md) 
 

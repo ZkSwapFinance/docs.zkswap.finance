@@ -1,10 +1,8 @@
 ---
-description: >-
-  Syrup Pool is the project's gift to celebrate the success of the DAO staking
-  pool.
+description: Syrup Pool is the project's rewards for yZF Holders
 ---
 
-# yZF Syrup Pool FAQs
+# Syrup Pool FAQs
 
 {% hint style="info" %}
 **Syrup Pool End Time: Tuesday, December 3, 2023 14:00 UTC**

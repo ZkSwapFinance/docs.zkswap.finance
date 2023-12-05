@@ -7,7 +7,7 @@
 * Choose the token you want to swap.&#x20;
 * Click on Enable and then Swap.
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt="" width="350"><figcaption></figcaption></figure>
 
 ### Add Liquidity:
 
@@ -16,4 +16,4 @@
 * Choose the pair you want to add liquidity to.&#x20;
 * Click on Enable and then Supply.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>

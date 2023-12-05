@@ -28,3 +28,4 @@
 * [Zkswap Finance The next GEM From zkSync Era ecosystem](https://www.youtube.com/watch?v=oiKRpV5R-VE) - contributed by [CryptoProfeta.eth](https://twitter.com/Cryptoprofeta1)
 * [What is zkSwap Finance (ZF) Coin | Review About ZF Token](https://www.youtube.com/watch?v=Ip0n\_3EI4uk) - contributed by [Crypto Finance](https://www.youtube.com/@Crypto.Finance)
 * [Unlocking 100x Crypto Profits with ZKSwap Finance](https://www.youtube.com/watch?v=jZN9ZdfyjB8) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
+* [1000x Crypto Gem | Millionaires Will Be Made](https://www.youtube.com/watch?v=zSu60xN10m4) - contributed by [myDeFiLife.eth](https://twitter.com/Brusca)

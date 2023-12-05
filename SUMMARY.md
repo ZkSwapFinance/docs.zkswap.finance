@@ -3,40 +3,50 @@
 * [Introduction](README.md)
 * [Ethos & Value](ethos-and-value.md)
 * [Roadmap](roadmap.md)
-* [Get Started](get-started/README.md)
-  * [Get a Wallet](get-started/get-a-wallet.md)
-  * [Bridge to zkSync](get-started/bridge-to-zksync.md)
-  * [Swap & Add Liquidity](get-started/swap-and-add-liquidity.md)
-  * [SwapBoard Tutorial](get-started/swapboard-tutorial.md)
+
+## KEY PRODUCTS
+
+* [zkSwap](key-products/zkswap/README.md)
+  * [ZAP](key-products/zkswap/zap.md)
+  * [Fee](key-products/zkswap/fee.md)
+* [zkBridge](key-products/zkbridge.md)
+* [zkFlow](key-products/zkflow.md)
+* [Future Product](key-products/future-product.md)
 
 ## HIGHLIGHTS
 
 * [Swap2Earn](highlights/swap2earn.md)
+* [Farm2Earn](highlights/farm2earn.md)
 * [Affiliate | Referral Program](highlights/affiliate-or-referral-program.md)
-* [Incentive Farming & Liquidity](highlights/incentive-farming-and-liquidity.md)
-* [Future Product](highlights/future-product.md)
-* [News](highlights/news.md)
-* [ZAP](highlights/zap.md)
-* [Fee](highlights/fee.md)
 
-## $ZF token
+## DAO & TOKENOMICS
 
-* [Tokenomics](usdzf-token/tokenomics.md)
-* [Smart Contracts](usdzf-token/smart-contracts.md)
-* [Governance](usdzf-token/governance/README.md)
-  * [yZF](usdzf-token/governance/yzf.md)
-  * [yZF Syrup Pool FAQs](usdzf-token/governance/yzf-syrup-pool-faqs.md)
-  * [How to Vote & Create Proposal](usdzf-token/governance/how-to-vote-and-create-proposal.md)
-* [Security & Audits](usdzf-token/security-and-audits.md)
+* [Tokenomics](dao-and-tokenomics/tokenomics.md)
+* [Governance via yZF](dao-and-tokenomics/governance-via-yzf.md)
+* [Syrup Pool FAQs](dao-and-tokenomics/syrup-pool-faqs.md)
+* [How to Vote & Create Proposal](dao-and-tokenomics/how-to-vote-and-create-proposal.md)
 
-## Support & Branding
+## CONTRACTS & AUDITS
 
-* [Support & Collaboration](support-and-branding/support-and-collaboration.md)
-* [Community Resources](support-and-branding/community-resources.md)
-* [zkSwap Finance Team](support-and-branding/zkswap-finance-team.md)
-* [Branding](support-and-branding/branding.md)
-* [Term Of Use](support-and-branding/term-of-use.md)
-* [Disclaimer](support-and-branding/disclaimer.md)
+* [Smart Contracts](contracts-and-audits/smart-contracts.md)
+* [Security & Audits](contracts-and-audits/security-and-audits.md)
+
+## Tutorials / Guides
+
+* [Get Started](tutorials-guides/get-started/README.md)
+  * [Get a Wallet](tutorials-guides/get-started/get-a-wallet.md)
+  * [Bridge to zkSync](tutorials-guides/get-started/bridge-to-zksync.md)
+  * [Swap & Add Liquidity](tutorials-guides/get-started/swap-and-add-liquidity.md)
+  * [SwapBoard Tutorial](tutorials-guides/get-started/swapboard-tutorial.md)
+* [Community Resources](tutorials-guides/community-resources.md)
+
+## Resources
+
+* [Official Links](resources/official-links.md)
+* [News](resources/news.md)
+* [About us](resources/about-us.md)
+* [Term Of Use](resources/term-of-use.md)
+* [Disclaimer](resources/disclaimer.md)
 
 ***
 

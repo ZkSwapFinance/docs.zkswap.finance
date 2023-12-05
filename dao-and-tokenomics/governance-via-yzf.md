@@ -1,12 +1,27 @@
-# yZF
+---
+description: >-
+  Voting empowers the zkSwap Finance community, allowing members to shape the
+  platform's future direction. Your voice matters!
+---
 
-### 1. What is yZF?&#x20;
+# Governance via yZF
 
-yZF is a token that represents voting power. Its quantity is determined by the amount of ZF deposited into the DAO Staking Pool by the user.
+### 1. Governance Token & Voting Portal&#x20;
 
-Verified Contract: [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer.zksync.io/address/0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987)
+Governance token: yZF at [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer.zksync.io/address/0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987)
 
-### 2. Why should you convert ZF to yZF?&#x20;
+Our voting portal: [https://vote.zkswap.finance/](https://vote.zkswap.finance/). Within this portal, you'll find:
+
+* Core Proposals: These represent zkSwap Finance team's official propositions. The team will use the results as a reference to decide on their implementation.
+* Community Proposals: This is your platform! Share your innovative ideas and viewpoints. Our team carefully reviews and response every community vote, often incorporating fantastic ideas and designs with strong community support into future product releases and core voting proposals. Your input drives our development!
+
+### 2. yZF - the staked ZF in the DAO Staking Pool&#x20;
+
+yZF is a token that represents voting power. Its quantity is determined by the amount of ZF deposited into the DAO Staking Pool by the user and technically represent your share of the pool.&#x20;
+
+Verified DAO Staking Pool Contract: [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer.zksync.io/address/0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987)
+
+### 3. Why should you convert ZF to yZF?&#x20;
 
 * Participate in Governance: Vote and propose changes.&#x20;
 * Earn Staking Rewards: 5% of Total Supply for DAO Staking Pool
@@ -15,7 +30,7 @@ Verified Contract: [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer
 * Join special campaigns hosted by zkSwap Finance
 * And more
 
-### 3. How is yZF calculated?
+### 4. How is yZF calculated?
 
 You must stake ZF in the DAO Staking Pool to receive yZF.&#x20;
 
@@ -37,7 +52,7 @@ _**Example:**_ let's assume User Bob wants to stake 20 ZF in the DAO Staking Poo
 | Bob's yZF            | 0              | 2             |
 | Bob's Shares         | 0%             | 16.67%        |
 
-### 4. How to Unstake ZF from DAO Staking Pool?
+### 5. How to Unstake ZF from DAO Staking Pool?
 
 If you choose to unstake ZF from the DAO Staking Pool, you will incur a 1% unstake fee, which will be redistributed to others in the DAO Pool. So, if you hold for a longer period, you'll earn more.
 

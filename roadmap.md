@@ -46,13 +46,13 @@
 * [x] zkSwap Token Generation Event (TGE)
 * [x] Start Competition Campaign
 * [x] Launch Farming & Staking&#x20;
-* [ ] More & More Partnerships
 * [x] More & More Farming Pools
-* [ ] Community Expansion
 * [x] Retroactive Trading Rewards&#x20;
 * [x] Community-Driven Rewards&#x20;
-* [ ] Enhance UI & UX for zkBridge
-* [ ] Improvement Earning Page UI & UX
+* [x] Enhance UI & UX for zkBridge
+* [x] More & More Partnerships
+* [x] Community Expansion
+* [x] Improvement Earning Page UI & UX
 
 ### **PHASE 3**
 
@@ -61,12 +61,13 @@
   * [x] zkBridge-v2
   * [x] Zap In - Zap Out
   * [ ] StableSwap
+  * [ ] Dexs Aggregator
   * [ ] Launchpad
   * [ ] Vault
   * [ ] Integrate SwapBoard for StableSwap and Vault
   * [ ] Mobile App&#x20;
 * [ ] Certik Audit
-* [ ] Upgrade UI, UX and Performance
+* [ ] Continuous Improvement UI, UX and Performance
 * [ ] Partner with other DEX with Vault
 * [ ] Community Expansion Campaign
 * [ ] Listing on Top CEXs
@@ -78,5 +79,5 @@
   * [ ] Expand zkSwap to multiple networks
   * [ ] Cross-chain Swap-to-Earn
 
-### [**Join Our Community For More Information**](support-and-branding/support-and-collaboration.md) 
+### [**Join Our Community For More Information**](resources/official-links.md) 
 

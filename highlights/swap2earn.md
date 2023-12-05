@@ -43,7 +43,7 @@ $$
 ### How To Participate **Swap2Earn**&#x20;
 
 * Access to [https://zkswap.finance/swapboard](https://zkswap.finance/swapboard)
-* Click "Register" Button and create your profile ([tutorial](../get-started/swapboard-tutorial.md))
+* Click "Register" Button and create your profile ([tutorial](../tutorials-guides/get-started/swapboard-tutorial.md))
 
 ### **Example**:
 

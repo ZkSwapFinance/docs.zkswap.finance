@@ -30,7 +30,7 @@ ZF Token's codebase successfully PASSES security analysis conducted by MythX, Co
 
 Report: [https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf)
 
-### Token Audit #5 : [MythX](https://mythx.io/)
+### Farming Audit #5 : [MythX](https://mythx.io/)
 
 ZF Farm's codebase successfully PASSES security analysis conducted by MythX, ConsenSys's premier service.
 

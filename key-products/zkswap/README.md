@@ -18,7 +18,7 @@ zkSwap facilitates trading without the necessity of involving a Centralized Exch
 
 ### Liquidity Pools
 
-The ability to swap tokens on zkSwap relies on the presence of ample liquidity for those specific tokens. If sufficient liquidity hasn't been added for the desired tokens, executing a swap becomes challenging, costly, or even unfeasible. Users contributing liquidity receive LP Tokens, which, in turn, earn them rewards in the form of trading fees, ensuring a continuous availability of liquidity for the exchange.&#x20;
+The ability to swap tokens on zkSwap relies on the presence of ample liquidity for those specific tokens. If sufficient liquidity hasn't been added for the desired tokens, executing a swap becomes challenging, costly, or even unfeasible. Users contributing liquidity receive LP Tokens, which, in turn, earn them rewards in the form of trading fees, ensuring continuous availability of liquidity for the exchange.&#x20;
 
 ### Swap2Earn
 

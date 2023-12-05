@@ -30,7 +30,7 @@ To ensure a level playing field, the rankings will reset automatically at the en
 
 ### Reward:
 
-Total Reward: Total reward for the Swap2Earn is 20% (200.000.000 $ZF) of the total supply over 3 years.
+Total Reward: The total reward for the Swap2Earn is 20% (200.000.000 $ZF) of the total supply over 3 years.
 
 Claim Time: The reward will be distributed to users at the end of each cycle.
 

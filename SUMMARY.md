@@ -6,7 +6,7 @@
 
 ## KEY PRODUCTS
 
-* [zkSwap](key-products/zkswap.md)
+* [zkSwap](key-products/zkswap/README.md)
 * [zkBridge](key-products/zkbridge.md)
 * [zkFlow](key-products/zkflow.md)
 * [Future Products](key-products/future-products.md)

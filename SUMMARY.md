@@ -21,7 +21,7 @@
 
 ## DAO & TOKENOMICS
 
-* [Tokenomics](usdzf-token/tokenomics.md)
+* [ZF Tokenomics](dao-and-tokenomics/zf-tokenomics.md)
 * [Governance via yZF](usdzf-token/governance/yzf.md)
 * [Syrup Pool FAQs](usdzf-token/governance/yzf-syrup-pool-faqs.md)
 * [How to Vote & Create Proposal](usdzf-token/governance/how-to-vote-and-create-proposal.md)

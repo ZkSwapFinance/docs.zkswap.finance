@@ -44,7 +44,7 @@
 
 * [🌎 Official Links](support-and-branding/support-and-collaboration.md)
 * [📰 News](highlights/news.md)
-* [👬 About us](support-and-branding/zkswap-finance-team.md)
+* [👬 About Us](support-and-branding/zkswap-finance-team.md)
 * [📗 Term Of Use](support-and-branding/term-of-use.md)
 * [📙 Disclaimer](support-and-branding/disclaimer.md)
 

@@ -1,4 +1,4 @@
-# 📙 Term Of Use
+# 📗 Term Of Use
 
 Our website provides access to a decentralized protocol for trading digital assets on various public blockchains. However, the information provided on the site is for educational purposes only and should not be construed as investment advice. By connecting your non-custodial wallet to our website, you agree to be bound by our terms of use. Please note that wallets are not operated or maintained by us, and we have no control over their contents.
 

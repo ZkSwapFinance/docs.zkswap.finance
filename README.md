@@ -4,7 +4,7 @@
 
 On our platform on zkSync Era (Layer 2 of Ethereum), you can expect a novel, distinctive, and imaginative experience where any contribution to the project is valued and acknowledged. We prioritize user-centric features and strive for the sustainable growth of the ecosystem as a whole.
 
-We encourage you to read our [Ethos & Value](resources/ethos-and-value.md) to learn more about our commitments.
+We encourage you to read our [Ethos & Value](broken-reference) to learn more about our commitments.
 
 <figure><img src=".gitbook/assets/overview.png" alt=""><figcaption></figcaption></figure>
 

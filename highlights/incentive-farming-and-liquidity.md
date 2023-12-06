@@ -1,4 +1,4 @@
-# Farm2Earn
+# 🪙 Farm2Earn
 
 <figure><img src="../.gitbook/assets/8.jpg" alt=""><figcaption></figcaption></figure>
 

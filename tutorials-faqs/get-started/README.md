@@ -1,4 +1,4 @@
-# Get Started
+# 🔰 Get Started
 
 Here are beginner guides on your journey in zkSwap. Kindly follow the below step for instructions before interacting on our site:
 

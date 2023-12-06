@@ -1,4 +1,4 @@
-# Swap2Earn
+# 💡 Swap2Earn
 
 <figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -43,7 +43,7 @@ $$
 ### How To Participate **Swap2Earn**&#x20;
 
 * Access to [https://zkswap.finance/swapboard](https://zkswap.finance/swapboard)
-* Click "Register" Button and create your profile ([tutorial](../get-started/swapboard-tutorial.md))
+* Click "Register" Button and create your profile ([tutorial](../tutorials-faqs/get-started/swapboard-tutorial.md))
 
 ### **Example**:
 

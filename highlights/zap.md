@@ -1,4 +1,8 @@
-# ZAP
+---
+description: Zap in - Zap Out. Adding Liquidity becomes much simpler.
+---
+
+# ⚡ ZAP
 
 zkSwap Finance has recently unveiled ZAP, a significant enhancement to its decentralized finance (DeFi) protocol's Liquidity feature. Developed by zkSwap Finance, ZAP simplifies the process of adding and removing liquidity from zkSwap Finance, catering to users of all proficiency levels.
 

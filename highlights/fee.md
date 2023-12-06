@@ -1,4 +1,4 @@
-# Fee
+# 🍣 Fee
 
 Here, you'll find all the latest updates and changes related to protocol fees on zkSwap. We believe in transparency and keeping our community well-informed about any adjustments in fees that may occur.
 

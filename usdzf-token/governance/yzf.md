@@ -4,7 +4,7 @@ description: >-
   platform's future direction. Your voice matters!
 ---
 
-# Governance via yZF
+# 🤝 Governance via yZF
 
 ### 1. Governance Token & Voting Portal&#x20;
 

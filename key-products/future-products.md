@@ -1,4 +1,4 @@
-# Future Products
+# ☀ Future Products
 
 <figure><img src="../.gitbook/assets/9.jpg" alt=""><figcaption></figcaption></figure>
 

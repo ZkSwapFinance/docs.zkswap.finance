@@ -1,4 +1,4 @@
-# Ethos & Value
+# 📗 Ethos & Value
 
 ### Ethos & Value
 

@@ -1,4 +1,4 @@
-# How to Vote & Create Proposal
+# 🗳 How to Vote & Create Proposal
 
 Participating in governance voting and creating new proposals is easy, and it won't cost you a dime – no need to worry about gas fees.&#x20;
 

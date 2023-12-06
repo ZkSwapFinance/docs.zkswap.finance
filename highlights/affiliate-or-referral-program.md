@@ -2,7 +2,7 @@
 description: For Both Mainnet & Testnet
 ---
 
-# Affiliate | Referral Program
+# 👥 Affiliate | Referral Program
 
 <figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
@@ -23,5 +23,5 @@ The referral program will apply to both the testnet and mainnet.
 * Cycle n: You will continue to earn 5% of his total points in the same way as in cycle 2.
 
 {% hint style="info" %}
-Kindly refer to our [tutorial ](../get-started/swapboard-tutorial.md#invitation-mission)on how to get & use the referral links
+Kindly refer to our [tutorial ](../tutorials-faqs/get-started/swapboard-tutorial.md#invitation-mission)on how to get & use the referral links
 {% endhint %}

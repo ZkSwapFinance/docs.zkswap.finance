@@ -1,4 +1,4 @@
-# Disclaimer
+# 📕 Disclaimer
 
 ### **Token Whitelisting on zkSwap.Finance DEX**
 

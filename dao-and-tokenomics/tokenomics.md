@@ -1,4 +1,4 @@
-# Tokenomics
+# ♾ Tokenomics
 
 ### 1. Token Information
 
@@ -8,17 +8,9 @@
 
 <figure><img src="../.gitbook/assets/Tokenomics_-_Docs.png" alt=""><figcaption></figcaption></figure>
 
-### 2. ZF Token Utilities
+###
 
-* Stake in the DAO Pool to get more $ZF (5% $ZF Total Supply). No stake fee, auto-compound, no lock, but 1% unstake fee distributed to other stakers still in the pool to encourage the platform loyalty.
-* Staked ZF holders get BOOST in our [Swap2Earn](../highlights/swap2earn.md) incentive (refer to [this](../highlights/swap2earn.md) or  [zkswap.finance/swapboard](https://zkswap.finance/swapboard))
-* Enjoy special Syrup Pools (such as our recent Syrup Pool for staked ZF holders to celebrate the success of the DAO formation)&#x20;
-* Benefit from our Buying Back program (75% platform profit)&#x20;
-* Participate in Governance (Snapshot vote, only staked ZF holders can vote)&#x20;
-* Higher Privileges during special events (NFT, OAT, POAP, Giveaway, ...)
-* And more ...
-
-### 3. Token Allocation
+### 2. Token Allocation
 
 <table><thead><tr><th width="281">Category</th><th>Description</th></tr></thead><tbody><tr><td>Token Generation Event (TGE)</td><td><ul><li>250.000.000 tokens (25%)</li><li>Vesting: 100% After TGE</li></ul></td></tr><tr><td>Initial Liquidity</td><td><ul><li>125.000.000 tokens (12.5%)</li><li>Adding right after TGE</li></ul></td></tr><tr><td>TGE Participants Reward</td><td><ul><li>50.000.000 (5%)</li><li>Vesting: Daily release over 5 months</li></ul></td></tr><tr><td>Early Supporters Retroactive</td><td><ul><li>50.000.000 (5%)</li><li>Vesting: Daily release over 5 months</li></ul></td></tr><tr><td>Swap2Earn Incentive</td><td><ul><li>200.000.000 (20%)</li><li>Vesting: End of each <a href="../highlights/swap2earn.md#cycle">competition cycle</a> (15-30days) over 3 years</li></ul></td></tr><tr><td>Liquidity Providers Incentive</td><td><ul><li>200.000.000 (20%)</li><li>Vesting: real-time by seconds over 3 years</li></ul></td></tr><tr><td>Staking Reward</td><td><ul><li>50.000.000 (5%)</li><li>Vesting: real-time by seconds over 3 years.</li></ul></td></tr><tr><td>Team</td><td><ul><li>40.000.000 (4%)</li><li>Vesting: real-time by seconds over 3 years</li></ul></td></tr><tr><td>Treasury + Operation</td><td><ul><li>35.000.000 (3.5%)</li><li>Vesting: real-time by seconds over 3 years</li></ul></td></tr></tbody></table>
 

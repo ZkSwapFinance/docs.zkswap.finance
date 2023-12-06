@@ -4,7 +4,7 @@ description: >-
   blockchains
 ---
 
-# zkFlow
+# 📖 zkFlow
 
 zkFlow is a comprehensive wallet analytics platform that empowers users to track their on-chain activity across various protocols & blockchains. It provides a holistic view of user interactions, encompassing transaction history, volume traded, and network statistics.&#x20;
 

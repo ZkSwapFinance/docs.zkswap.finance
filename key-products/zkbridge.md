@@ -2,7 +2,7 @@
 description: Seamless token transfers between multiple blockchains
 ---
 
-# zkBridge
+# 🚃 zkBridge
 
 In the dynamic world of decentralized finance (DeFi), the ability to effortlessly transfer assets across diverse blockchain networks is crucial for maximizing user experience and driving adoption.&#x20;
 

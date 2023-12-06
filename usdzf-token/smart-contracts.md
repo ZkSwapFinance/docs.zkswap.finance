@@ -1,4 +1,4 @@
-# Smart Contracts
+# 🐧 Smart Contracts
 
 ### zkSync Era Mainnet
 

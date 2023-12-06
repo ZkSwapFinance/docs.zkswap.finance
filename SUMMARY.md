@@ -36,8 +36,8 @@
   * [Bridge to zkSync](tutorials-faqs/get-started/bridge-to-zksync.md)
   * [Swap & Add Liquidity](tutorials-faqs/get-started/swap-and-add-liquidity.md)
   * [SwapBoard Tutorial](tutorials-faqs/get-started/swapboard-tutorial.md)
-* [🍮 Syrup Pool FAQs](tutorials-faqs/syrup-pool-faqs.md)
 * [🗳 How to Vote & Create Proposal](tutorials-faqs/how-to-vote-and-create-proposal.md)
+* [🍮 Syrup Pool FAQs](tutorials-faqs/syrup-pool-faqs.md)
 
 ## Resources
 

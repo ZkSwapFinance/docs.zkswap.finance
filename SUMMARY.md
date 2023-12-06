@@ -38,11 +38,11 @@
   * [SwapBoard Tutorial](tutorials-faqs/get-started/swapboard-tutorial.md)
 * [🍮 Syrup Pool FAQs](tutorials-faqs/syrup-pool-faqs.md)
 * [🗳 How to Vote & Create Proposal](tutorials-faqs/how-to-vote-and-create-proposal.md)
-* [💪 Community Resources](tutorials-faqs/community-resources.md)
 
 ## Resources
 
 * [🌎 Official Links](support-and-branding/support-and-collaboration.md)
+* [💪 Community Resources](resources/community-resources.md)
 * [📰 News](highlights/news.md)
 * [👬 About Us](support-and-branding/zkswap-finance-team.md)
 * [📗 Term Of Use](support-and-branding/term-of-use.md)

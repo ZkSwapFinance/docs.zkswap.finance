@@ -1,6 +1,4 @@
-# Set up Wallet & Get Gas Token
-
-### Set Up Wallet
+# Set up Wallet
 
 Including the following procedures:
 

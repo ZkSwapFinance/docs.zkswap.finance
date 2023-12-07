@@ -33,7 +33,7 @@
 
 * [🔰 Get Started](tutorials-faqs/get-started/README.md)
   * [Create a Wallet](tutorials-faqs/get-started/create-a-wallet.md)
-  * [Set up Wallet & Get Gas Token](tutorials-faqs/get-started/set-up-wallet-and-get-gas-token.md)
+  * [Set up Wallet](tutorials-faqs/get-started/set-up-wallet.md)
 * [🚀 Onboarding zkSwap Finance](tutorials-faqs/onboarding-zkswap-finance/README.md)
   * [How to Buy $ZF](tutorials-faqs/onboarding-zkswap-finance/how-to-buy-usdzf.md)
   * [How to Farm & Stake](tutorials-faqs/onboarding-zkswap-finance/how-to-farm-and-stake.md)

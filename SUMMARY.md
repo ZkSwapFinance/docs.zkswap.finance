@@ -32,10 +32,13 @@
 ## Tutorials / FAQs
 
 * [🔰 Get Started](tutorials-faqs/get-started/README.md)
-  * [Get a Wallet](tutorials-faqs/get-started/get-a-wallet.md)
-  * [Bridge to zkSync](tutorials-faqs/get-started/bridge-to-zksync.md)
-  * [Swap & Add Liquidity](tutorials-faqs/get-started/swap-and-add-liquidity.md)
-  * [SwapBoard Tutorial](tutorials-faqs/get-started/swapboard-tutorial.md)
+  * [Create a Wallet](tutorials-faqs/get-started/create-a-wallet.md)
+  * [Set up Wallet & Get Gas Token](tutorials-faqs/get-started/set-up-wallet-and-get-gas-token.md)
+* [🚀 Onboarding zkSwap Finance](tutorials-faqs/onboarding-zkswap-finance/README.md)
+  * [How to Buy $ZF](tutorials-faqs/onboarding-zkswap-finance/how-to-buy-usdzf.md)
+  * [How to Farm & Stake](tutorials-faqs/onboarding-zkswap-finance/how-to-farm-and-stake.md)
+  * [How to Use zkBridge](tutorials-faqs/onboarding-zkswap-finance/how-to-use-zkbridge.md)
+  * [Join SwapBoard & Invite-to-Earn](tutorials-faqs/onboarding-zkswap-finance/join-swapboard-and-invite-to-earn.md)
 * [🗳 How to Vote & Create Proposal](tutorials-faqs/how-to-vote-and-create-proposal.md)
 * [🍮 Syrup Pool FAQs](tutorials-faqs/syrup-pool-faqs.md)
 

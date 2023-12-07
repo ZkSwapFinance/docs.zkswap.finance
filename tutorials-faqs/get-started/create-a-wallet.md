@@ -1,4 +1,4 @@
-# Get a Wallet
+# Create a Wallet
 
 Follow the link to set up your Metamask wallet (highly recommended for its popularity and reliable performance)
 

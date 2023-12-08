@@ -9,13 +9,13 @@
 * [🚃 zkBridge](key-products/zkbridge.md)
 * [📖 zkFlow](key-products/zkflow.md)
 * [☀ Future Products](key-products/future-products.md)
+* [🗺 Roadmap](key-products/roadmap.md)
 
 ## HIGHLIGHTS
 
 * [💡 Swap2Earn](highlights/swap2earn.md)
 * [🪙 Farm2Earn](highlights/incentive-farming-and-liquidity.md)
 * [👥 Affiliate | Referral Program](highlights/affiliate-or-referral-program.md)
-* [🗺 Roadmap](highlights/roadmap.md)
 * [⚡ ZAP](highlights/zap.md)
 * [🍣 Fee](highlights/fee.md)
 

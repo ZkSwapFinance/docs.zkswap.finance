@@ -42,6 +42,7 @@
   * [Swap & Add Liquidity](tutorials-faqs/onboarding-zkswap-finance/swap-and-add-liquidity.md)
   * [How to Farm & Stake](tutorials-faqs/onboarding-zkswap-finance/how-to-farm-and-stake.md)
   * [How to Use zkBridge](tutorials-faqs/onboarding-zkswap-finance/how-to-use-zkbridge.md)
+  * [How to Use zkFlow](tutorials-faqs/onboarding-zkswap-finance/how-to-use-zkflow.md)
   * [Join SwapBoard & Invite-to-Earn](tutorials-faqs/onboarding-zkswap-finance/join-swapboard-and-invite-to-earn.md)
 * [🗳 How to Vote & Create Proposal](tutorials-faqs/how-to-vote-and-create-proposal.md)
 * [🍮 Syrup Pool FAQs](tutorials-faqs/syrup-pool-faqs.md)

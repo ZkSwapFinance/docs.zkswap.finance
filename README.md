@@ -30,4 +30,5 @@ We encourage you to read our [Ethos & Value](broken-reference) to learn more abo
 * **Debank:** [**https://debank.com/official-account/111776**](https://debank.com/official-account/111776)
 * **Discord:** [**https://discord.gg/4eHMumaJDA**](https://discord.gg/4eHMumaJDA)
 * **Telegram:** [**https://t.me/zkSwap\_Announcement**](https://t.me/zkSwap\_Announcement)
+* **Linktree:** [https://linktr.ee/zkswap\_finance](https://linktr.ee/zkswap\_finance)
 

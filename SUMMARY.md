@@ -1,8 +1,7 @@
 # Table of contents
 
 * [👋 Introduction](README.md)
-* [🌎 Official Links](official-links.md)
-* [🗺 Roadmap](roadmap.md)
+* [🌎 Official Links](support-and-branding/support-and-collaboration.md)
 
 ## KEY PRODUCTS
 
@@ -16,6 +15,7 @@
 * [💡 Swap2Earn](highlights/swap2earn.md)
 * [🪙 Farm2Earn](highlights/incentive-farming-and-liquidity.md)
 * [👥 Affiliate | Referral Program](highlights/affiliate-or-referral-program.md)
+* [🗺 Roadmap](highlights/roadmap.md)
 * [⚡ ZAP](highlights/zap.md)
 * [🍣 Fee](highlights/fee.md)
 

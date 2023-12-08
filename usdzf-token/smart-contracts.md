@@ -2,7 +2,7 @@
 description: Comprehensive details of the zkSwap Finance smart contracts
 ---
 
-# 🐧 Smart Contracts
+# 🛡 Smart Contracts
 
 ###
 

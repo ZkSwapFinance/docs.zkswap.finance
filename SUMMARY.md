@@ -26,7 +26,8 @@
 
 ## CONTRACTS & AUDITS
 
-* [🐧 Smart Contracts](usdzf-token/smart-contracts.md)
+* [🛡 Smart Contracts](usdzf-token/smart-contracts.md)
+* [🔐 Multisig Wallets](contracts-and-audits/multisig-wallets.md)
 * [🔎 Security & Audits](usdzf-token/security-and-audits.md)
 
 ## Tutorials / FAQs

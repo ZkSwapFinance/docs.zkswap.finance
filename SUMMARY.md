@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Introduction](README.md)
+* [🌎 Official Links](official-links.md)
 * [🗺 Roadmap](roadmap.md)
 
 ## KEY PRODUCTS
@@ -46,7 +47,6 @@
 
 ## Resources
 
-* [🌎 Official Links](support-and-branding/support-and-collaboration.md)
 * [💪 Community Resources](resources/community-resources.md)
 * [📰 News](highlights/news.md)
 * [👬 About Us](support-and-branding/zkswap-finance-team.md)

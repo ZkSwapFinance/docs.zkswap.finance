@@ -1,4 +1,4 @@
-# 🔎 Security & Audits
+# 🛡 Security & Audits
 
 <figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p><a href="https://twitter.com/VB_Audit/status/1674643373574045696">https://twitter.com/VB_Audit/status/1674643373574045696</a></p></figcaption></figure>
 

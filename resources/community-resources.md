@@ -15,7 +15,7 @@
 ## Statistics, Calculators, Data Visualizations
 
 * [Unlock Schedule](https://defillama.com/unlocks/zkswap-finance) - contributed by [DefiLlama.com](https://defillama.com/)
-* [Yield calculator](https://defillama.com/yields?project=zkswap-finance) - contributed by [DefiLlama.com](https://defillama.com/)
+* [Yield Calculator](https://defillama.com/yields?project=zkswap-finance) - contributed by [DefiLlama.com](https://defillama.com/)
 
 ## Articles
 

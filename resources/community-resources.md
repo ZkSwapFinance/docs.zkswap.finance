@@ -7,8 +7,8 @@
 * How to Farming & Staking
 * How to join Swap2Earn & SwapBoard
 * [Swap2Earn Explained](https://www.youtube.com/watch?v=8mpOfk1291I)  - contributed by [CryptoWithZach](https://twitter.com/cryptowithzach)
-* [How to use zkBridge](https://www.youtube.com/watch?v=u6kpCe1aFF0) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
-* How to use zkFlow
+* [How to Use zkBridge](https://www.youtube.com/watch?v=u6kpCe1aFF0) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
+* How to Use zkFlow
 * How to Vote on zkSwap Finance
 * ....
 

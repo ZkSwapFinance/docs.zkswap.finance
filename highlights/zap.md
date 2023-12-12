@@ -4,6 +4,8 @@ description: Zap in - Zap Out. Adding Liquidity becomes much simpler.
 
 # ⚡ ZAP
 
+<figure><img src="../.gitbook/assets/image (81).png" alt="" width="563"><figcaption><p>Zap in - Zap Out. Seamlessly Adding Liquidity</p></figcaption></figure>
+
 zkSwap Finance has recently unveiled ZAP, a significant enhancement to its decentralized finance (DeFi) protocol's Liquidity feature. Developed by zkSwap Finance, ZAP simplifies the process of adding and removing liquidity from zkSwap Finance, catering to users of all proficiency levels.
 
 Prior to the introduction of ZAP, the provision of liquidity on zkSwap Finance posed challenges for DeFi novices. The previous method required users to navigate a complex sequence, involving token swapping to achieve a precise 50:50 split before accessing the Liquidity page. ZAP eliminates these complexities, enabling both seasoned yield farmers and beginners to seamlessly add liquidity with ease.

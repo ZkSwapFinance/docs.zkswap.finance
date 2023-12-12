@@ -10,6 +10,8 @@ zkSwap.Finance reserves the right to modify or revoke whitelisting status at its
 
 By using zkSwap.Finance DEX and engaging with whitelisted tokens, users acknowledge and accept these conditions and the associated risks involved.
 
+_**Apply To List:**_ [**https://forms.gle/ShkMMrjGYDDjZHPa6**](https://forms.gle/ShkMMrjGYDDjZHPa6)
 
+### **Ads on zkSwap.Finance**
 
-**Apply To List:** [**https://forms.gle/ShkMMrjGYDDjZHPa6**](https://forms.gle/ShkMMrjGYDDjZHPa6)
+The ads on zkSwap.finance site are provided by A-ads & Cointraffic. We do not endorse the products or services advertised. Please use your own discretion when interacting with these ads. Any issues with the ads should be addressed with the advertisers directly.

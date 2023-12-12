@@ -1,12 +1,12 @@
 ---
 description: >-
-  Powered by zkSync, zkSwap AMM protocol offers a superior user experience & a
-  revolutionary incentive program for both traders & liquidity providers.
+  Powered by zkSync Era, zkSwap AMM protocol offers a superior user experience &
+  a revolutionary incentive program for both traders & liquidity providers.
 ---
 
 # 💰 zkSwap
 
-<figure><img src="../../.gitbook/assets/zkswap_intro (1).webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cover 2.jpg" alt=""><figcaption></figcaption></figure>
 
 zkSwap stands as a premier Automated Market Maker (AMM), with its decentralized exchange serving as the core. Positioned as the leading AMM on the zkSync Era, zkSwap is the first Swap to Earn DeFi Platform on zkSync Era ecosystem, pioneering a unique incentive model that rewards both liquidity providers and traders.
 

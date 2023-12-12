@@ -6,7 +6,7 @@ description: >-
 
 # 🍄 Boost
 
-<figure><img src="../.gitbook/assets/image (80).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption><p>Stake ZF to DAO Staking Pool to Boost Swap2Earn Rewards</p></figcaption></figure>
 
 [DAO Staking Pool](https://zkswap.finance/earn/staking) (yZF) holdings serve as the key to amplify your **Swap2Earn** rewards manifold through **Boost**.
 

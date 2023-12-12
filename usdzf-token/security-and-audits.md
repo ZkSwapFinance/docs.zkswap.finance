@@ -36,6 +36,6 @@ MythX™ is a premier automatic security analysis service for Ethereum smart con
 
 Timelocks in smart contracts delay actions from contract owner to demonstrate commitment and reduce risks in DeFi.
 
-* Timelock 6 hours: Delay Transaction 6 hours. Utilized in the Farm Contract to manage emissions and the new incentive pool.&#x20;
-* Timelock 24 hours: Delay Transaction 24 hours. Utilized in the Token, TreasuryLock, and TeamFundLock Contracts to manage any changes voted on by users.
-* Timelock 7 days: Delay Transaction 7 days. Utilized in the Liquidity Lock Contracts to manage any changes voted on by users.
+* [Timelock 24 hours](https://docs.zkswap.finance/contracts-and-audits/smart-contracts): Delay Transaction 24 hours. Utilized for the ZF Farm, Treasury, Team Fund, Operation & Marketing Fund, to manage any possible  changes.
+* [Timelock 48 hours](https://docs.zkswap.finance/contracts-and-audits/smart-contracts): Delay Transaction 48 hours. Utilized for the Factory, ZF Token, yZF DAO staking pool, ZF Contribution Reward Pool, TGE Participants Rewards Pool to manage any possible changes.
+* [Timelock 7 days](https://docs.zkswap.finance/contracts-and-audits/smart-contracts): Delay Transaction 7 days. Utilized for the ZF/ETH Initial Liquidity contract to manage any possible changes.

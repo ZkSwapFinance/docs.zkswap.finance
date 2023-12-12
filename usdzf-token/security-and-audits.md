@@ -25,6 +25,7 @@ Report: [https://github.com/Vital-block/Smart-Contract-Audit/blob/main/ZKSWAP%20
 
 MythX™ is a premier automatic security analysis service for Ethereum smart contracts by _**ConsenSys Software Inc™**_. Its mission is to ensure development teams avoid costly errors and make smart contracts more secure and trustworthy.
 
+* MythX™ passed badge: [https://github.com/ZkSwapFinance/mainnet-contracts](https://github.com/ZkSwapFinance/mainnet-contracts)
 * Swap Router codebase successfully PASSES: [report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/2\_MythX\_DEX\_Full\_Report.pdf)
 * TGE Launchpad's codebase successfully PASSES: [report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/3\_MythX\_TGE\_Full\_Report.pdf)
 * ZF Token's codebase successfully PASSES: [report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf)

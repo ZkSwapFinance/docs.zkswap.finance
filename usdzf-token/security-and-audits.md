@@ -3,21 +3,21 @@
 At zkSwap Finance, we place a paramount emphasis on the security of our code and the safety of user funds. We recognize the pivotal role these elements play in establishing trust and fostering a secure environment for our users. To achieve this objective, we have implemented a stringent approach encompassing multiple audits and robust security measures.
 
 All contracts are verified on [zkSync Explorer](smart-contracts.md) \
-All audits: [https://github.com/ZkSwapFinance/Audit-Reports](https://github.com/ZkSwapFinance/Audit-Reports)
+All audits: [zkSwap Finance Github](https://github.com/ZkSwapFinance/Audit-Reports)
 
 ## Audited by Certik
 
-Our platform is **being undergone** a comprehensive audit conducted by Certik, a renowned security auditing firm. The preliminary results of this meticulous evaluation have positioned us in the top 10% of audited projects, attesting to the high level of security we maintain.
+Our platform is **being undergone** a comprehensive audit conducted by [Certik](https://www.certik.com/), a renowned security auditing firm. The preliminary results of this meticulous evaluation have positioned us in the top 10% of audited projects, attesting to the high level of security we maintain.
 
-&#x20;Certik's audit is widely acknowledged and esteemed in the blockchain and cryptocurrency industry. Their exhaustive review process involves a careful examination of our smart contracts, codebase, and overall system architecture. Through this rigorous assessment, we have showcased our unwavering commitment to upholding the highest standards of security and reliability for our users.
+[Certik](https://www.certik.com/)'s audit is widely acknowledged and esteemed in the blockchain and cryptocurrency industry. Their exhaustive review process involves a careful examination of our smart contracts, codebase, and overall system architecture. Through this rigorous assessment, we have showcased our unwavering commitment to upholding the highest standards of security and reliability for our users.
 
 For more details, please visit: [https://skynet.certik.com/projects/zkswap-finance](https://skynet.certik.com/projects/zkswap-finance)
 
 ## Audited by Vital Block
 
-Vital Block offers an extensive security evaluation for smart contracts and blockchain code, pinpointing vulnerabilities and suggesting effective solutions. The company also deliver a professional, thorough, swift, and easily comprehensible smart contract security audit. Vital Block's approach involves in-depth, penetrative analyses encompassing static, manual, automated, and intelligent methods to ensure comprehensive coverage.
+[Vital Block](https://vitalblock.org/) offers an extensive security evaluation for smart contracts and blockchain code, pinpointing vulnerabilities and suggesting effective solutions. The company also deliver a professional, thorough, swift, and easily comprehensible smart contract security audit. Vital Block's approach involves in-depth, penetrative analyses encompassing static, manual, automated, and intelligent methods to ensure comprehensive coverage.
 
-Report: [https://github.com/Vital-block/Smart-Contract-Audit/blob/main/ZKSWAP%20FINANCE%20AUDIT%20REPORT.pdf](https://github.com/Vital-block/Smart-Contract-Audit/blob/main/ZKSWAP%20FINANCE%20AUDIT%20REPORT.pdf)
+Detailed Report: [Vital Block Github](https://github.com/Vital-block/Smart-Contract-Audit/blob/main/ZKSWAP%20FINANCE%20AUDIT%20REPORT.pdf)
 
 <figure><img src="../.gitbook/assets/image (42).png" alt="" width="563"><figcaption><p><a href="https://twitter.com/VB_Audit/status/1674643373574045696">https://twitter.com/VB_Audit/status/1674643373574045696</a></p></figcaption></figure>
 

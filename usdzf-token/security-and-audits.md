@@ -1,50 +1,37 @@
 # 🛡 Security & Audits
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p><a href="https://twitter.com/VB_Audit/status/1674643373574045696">https://twitter.com/VB_Audit/status/1674643373574045696</a></p></figcaption></figure>
+At zkSwap Finance, we place a paramount emphasis on the security of our code and the safety of user funds. We recognize the pivotal role these elements play in establishing trust and fostering a secure environment for our users. To achieve this objective, we have implemented a stringent approach encompassing multiple audits and robust security measures.
 
-All contracts are verified on [zkSync Explorer](smart-contracts.md)&#x20;
-
+All contracts are verified on [zkSync Explorer](smart-contracts.md) \
 All audits: [https://github.com/ZkSwapFinance/Audit-Reports](https://github.com/ZkSwapFinance/Audit-Reports)
 
-### DEX Audit #1 : [Vital Block](https://vitalblock.org/)
+## Audited by Certik
 
-zkSwap Finance is backed by Vital Block for security.&#x20;
+Our platform is **being undergone** a comprehensive audit conducted by Certik, a renowned security auditing firm. The preliminary results of this meticulous evaluation have positioned us in the top 10% of audited projects, attesting to the high level of security we maintain.
+
+&#x20;Certik's audit is widely acknowledged and esteemed in the blockchain and cryptocurrency industry. Their exhaustive review process involves a careful examination of our smart contracts, codebase, and overall system architecture. Through this rigorous assessment, we have showcased our unwavering commitment to upholding the highest standards of security and reliability for our users.
+
+For more details, please visit: [https://skynet.certik.com/projects/zkswap-finance](https://skynet.certik.com/projects/zkswap-finance)
+
+## Audited by Vital Block
+
+Vital Block offers an extensive security evaluation for smart contracts and blockchain code, pinpointing vulnerabilities and suggesting effective solutions. The company also deliver a professional, thorough, swift, and easily comprehensible smart contract security audit. Vital Block's approach involves in-depth, penetrative analyses encompassing static, manual, automated, and intelligent methods to ensure comprehensive coverage.
 
 Report: [https://github.com/Vital-block/Smart-Contract-Audit/blob/main/ZKSWAP%20FINANCE%20AUDIT%20REPORT.pdf](https://github.com/Vital-block/Smart-Contract-Audit/blob/main/ZKSWAP%20FINANCE%20AUDIT%20REPORT.pdf)
 
-### DEX Audit #2 : [MythX](https://mythx.io/)
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p><a href="https://twitter.com/VB_Audit/status/1674643373574045696">https://twitter.com/VB_Audit/status/1674643373574045696</a></p></figcaption></figure>
 
-zkSwap Finance's codebase successfully PASSES security analysis by MythX, ConsenSys's premier service.
+## Audited by MythX
 
-Report: [https://github.com/ZkSwapFinance/Audit-Reports/blob/main/2\_MythX\_DEX\_Full\_Report.pdf](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/2\_MythX\_DEX\_Full\_Report.pdf)
+MythX™ is a premier automatic security analysis service for Ethereum smart contracts by _**ConsenSys Software Inc™**_. Its mission is to ensure development teams avoid costly errors and make smart contracts more secure and trustworthy.
 
-### TGE Audit #3 : [MythX](https://mythx.io/)
+* Swap Router codebase successfully PASSES: [report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/2\_MythX\_DEX\_Full\_Report.pdf)
+* TGE Launchpad's codebase successfully PASSES: [report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/3\_MythX\_TGE\_Full\_Report.pdf)
+* ZF Token's codebase successfully PASSES: [report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf)
+* ZF Farm's codebase successfully PASSES: [report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/5\_MythX\_Farm\_Full\_Report.pdf)
+* Galxe Campaign Pool's codebase: [report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/6\_MythX\_Galxe\_Campaign\_Pool\_Full\_Report.pdf)
 
-TGE Launchpad's codebase successfully PASSES security analysis conducted by MythX, ConsenSys's premier service.
-
-Report: [https://github.com/ZkSwapFinance/Audit-Reports/blob/main/3\_MythX\_TGE\_Full\_Report.pdf](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/3\_MythX\_TGE\_Full\_Report.pdf)
-
-### Token Audit #4 : [MythX](https://mythx.io/)
-
-ZF Token's codebase successfully PASSES security analysis conducted by MythX, ConsenSys's premier service.
-
-Report: [https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf)
-
-### Farming Audit #5 : [MythX](https://mythx.io/)
-
-ZF Farm's codebase successfully PASSES security analysis conducted by MythX, ConsenSys's premier service.
-
-Report: [https://github.com/ZkSwapFinance/Audit-Reports/blob/main/5\_MythX\_Farm\_Full\_Report.pdf](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/5\_MythX\_Farm\_Full\_Report.pdf)
-
-### Galxe Campaign Pool Audit #6 : [MythX](https://mythx.io/)
-
-Galxe Campaign Pool's codebase successfully PASSES security analysis conducted by MythX, ConsenSys's premier service.
-
-Report: [https://github.com/ZkSwapFinance/Audit-Reports/blob/main/6\_MythX\_Galxe\_Campaign\_Pool\_Full\_Report.pdf](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/6\_MythX\_Galxe\_Campaign\_Pool\_Full\_Report.pdf)
-
-
-
-### Timelock Security Mechanism
+## Timelock Security Mechanism
 
 Timelocks in smart contracts delay actions from contract owner to demonstrate commitment and reduce risks in DeFi.
 

@@ -46,7 +46,7 @@
   * [How to Use zkFlow](tutorials-faqs/onboarding-zkswap-finance/how-to-use-zkflow.md)
   * [Join SwapBoard & Invite-to-Earn](tutorials-faqs/onboarding-zkswap-finance/join-swapboard-and-invite-to-earn.md)
 * [🗳 How to Vote & Create Proposal](tutorials-faqs/how-to-vote-and-create-proposal.md)
-* [🍮 Syrup Pool FAQs](tutorials-faqs/syrup-pool-faqs.md)
+* [🍮 Syrup Pools FAQs](tutorials-faqs/syrup-pools-faqs.md)
 
 ## Resources
 

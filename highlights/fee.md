@@ -1,6 +1,6 @@
 # 🍣 Fee
 
-<figure><img src="../.gitbook/assets/zkswap_intro.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cover 5.jpg" alt=""><figcaption></figcaption></figure>
 
 Here, you'll find all the latest updates and changes related to protocol fees on zkSwap. We believe in transparency and keeping our community well-informed about any adjustments in fees that may occur.
 

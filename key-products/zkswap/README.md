@@ -6,7 +6,7 @@ description: >-
 
 # 💰 zkSwap
 
-<figure><img src="../../.gitbook/assets/spaces_8zLMvv1j0EUlJNi2O9e2_uploads_mir282WfGueYSa29pIjG_image.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/zkswap_intro (1).webp" alt=""><figcaption></figcaption></figure>
 
 zkSwap stands as a premier Automated Market Maker (AMM), with its decentralized exchange serving as the core. Positioned as the leading AMM on the zkSync Era, zkSwap is the first Swap to Earn DeFi Platform on zkSync Era ecosystem, pioneering a unique incentive model that rewards both liquidity providers and traders.
 

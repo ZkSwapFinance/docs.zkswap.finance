@@ -32,9 +32,9 @@ MythX™ is a premier automatic security analysis service for Ethereum smart con
 * ZF Farm's codebase successfully PASSES: [report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/5\_MythX\_Farm\_Full\_Report.pdf)
 * Galxe Campaign Pool's codebase: [report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/6\_MythX\_Galxe\_Campaign\_Pool\_Full\_Report.pdf)
 
-## Timelock Security Mechanism
+## Timelock Controllers & Multisig Wallets Security Mechanism
 
-Timelocks in smart contracts delay actions from contract owner to demonstrate commitment and reduce risks in DeFi.
+Utilized for safeguarding the platform's smart contracts, [Timelock Controllers](https://docs.zkswap.finance/contracts-and-audits/smart-contracts) and [Multisig Wallets](https://docs.zkswap.finance/contracts-and-audits/multisig-wallets) serve to introduce delays in actions by the contract owner, showcasing commitment and mitigating risks within the realm of DeFi.
 
 * [Timelock 24 hours](https://docs.zkswap.finance/contracts-and-audits/smart-contracts): Delay Transaction 24 hours. Utilized for the ZF Farm, Treasury, Team Fund, Operation & Marketing Fund, to manage any possible  changes.
 * [Timelock 48 hours](https://docs.zkswap.finance/contracts-and-audits/smart-contracts): Delay Transaction 48 hours. Utilized for the Factory, ZF Token, yZF DAO staking pool, ZF Contribution Reward Pool, TGE Participants Rewards Pool to manage any possible changes.

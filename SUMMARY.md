@@ -16,6 +16,7 @@
 * [💡 Swap2Earn](highlights/swap2earn.md)
 * [🪙 Farm2Earn](highlights/incentive-farming-and-liquidity.md)
 * [👥 Affiliate | Referral Program](highlights/affiliate-or-referral-program.md)
+* [🍄 Boost](highlights/boost.md)
 * [⚡ ZAP](highlights/zap.md)
 * [🍣 Fee](highlights/fee.md)
 

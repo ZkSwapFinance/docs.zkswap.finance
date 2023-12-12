@@ -12,7 +12,7 @@ Our motto is "the more you contribute, the more rewards you receive." The [SwapB
 Remember to Register for the [Swap2Earn ](https://zkswap.finance/swapboard)campaign. Register only once for a lifetime
 {% endhint %}
 
-Scroring Structure:
+Scoring Structure:
 
 <table><thead><tr><th width="213.33333333333331">Acitivity</th><th>Description</th></tr></thead><tbody><tr><td>Swapping</td><td><ul><li>Swap 1$ = 1 zkPoint * Your Boost</li><li>Max zkPoint : Unlimited</li></ul></td></tr><tr><td>Invitation Mission</td><td><ul><li>20% of all invitees zkPoint during active cycle </li><li>5% for lifetime</li><li>Max referral: Unlimited</li></ul></td></tr></tbody></table>
 

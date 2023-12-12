@@ -39,3 +39,4 @@ Utilized for safeguarding the platform's smart contracts, [Timelock Controllers]
 * [Timelock 24 hours](https://docs.zkswap.finance/contracts-and-audits/smart-contracts): Delay Transaction 24 hours. Utilized for the ZF Farm, Treasury, Team Fund, Operation & Marketing Fund, to manage any possible  changes.
 * [Timelock 48 hours](https://docs.zkswap.finance/contracts-and-audits/smart-contracts): Delay Transaction 48 hours. Utilized for the Factory, ZF Token, yZF DAO staking pool, ZF Contribution Reward Pool, TGE Participants Rewards Pool to manage any possible changes.
 * [Timelock 7 days](https://docs.zkswap.finance/contracts-and-audits/smart-contracts): Delay Transaction 7 days. Utilized for the ZF/ETH Initial Liquidity contract to manage any possible changes.
+* [Multisig Wallets](https://docs.zkswap.finance/contracts-and-audits/multisig-wallets) is used to control the above timelock controllers and mitigate the risk of any private key leakage.

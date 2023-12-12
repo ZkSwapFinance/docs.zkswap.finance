@@ -19,7 +19,7 @@ Vital Block offers an extensive security evaluation for smart contracts and bloc
 
 Report: [https://github.com/Vital-block/Smart-Contract-Audit/blob/main/ZKSWAP%20FINANCE%20AUDIT%20REPORT.pdf](https://github.com/Vital-block/Smart-Contract-Audit/blob/main/ZKSWAP%20FINANCE%20AUDIT%20REPORT.pdf)
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p><a href="https://twitter.com/VB_Audit/status/1674643373574045696">https://twitter.com/VB_Audit/status/1674643373574045696</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42).png" alt="" width="563"><figcaption><p><a href="https://twitter.com/VB_Audit/status/1674643373574045696">https://twitter.com/VB_Audit/status/1674643373574045696</a></p></figcaption></figure>
 
 ## Audited by MythX
 

@@ -53,8 +53,7 @@
 * [💪 Community Resources](resources/community-resources.md)
 * [📰 News Digest](resources/news-digest.md)
 * [👬 About Us](support-and-branding/zkswap-finance-team.md)
-* [📗 Term Of Use](support-and-branding/term-of-use.md)
-* [📙 Disclaimer](support-and-branding/disclaimer.md)
+* [📗 Terms & Disclaimers](resources/terms-and-disclaimers.md)
 
 ***
 

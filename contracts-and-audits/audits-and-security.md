@@ -1,8 +1,8 @@
-# 🛡 Security & Audits
+# 🛡 Audits & Security
 
 At zkSwap Finance, we place a paramount emphasis on the security of our code and the safety of user funds. We recognize the pivotal role these elements play in establishing trust and fostering a secure environment for our users. To achieve this objective, we have implemented a stringent approach encompassing multiple audits and robust security measures.
 
-All contracts are verified on [zkSync Explorer](smart-contracts.md) \
+All contracts are verified on [zkSync Explorer](../usdzf-token/smart-contracts.md) \
 All audits: [zkSwap Finance Github](https://github.com/ZkSwapFinance/Audit-Reports)
 
 ## Audited by Certik

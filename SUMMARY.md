@@ -30,7 +30,7 @@
 
 * [🔎 Smart Contracts](usdzf-token/smart-contracts.md)
 * [🔐 Multisig Wallets](contracts-and-audits/multisig-wallets.md)
-* [🛡 Security & Audits](usdzf-token/security-and-audits.md)
+* [🛡 Audits & Security](contracts-and-audits/audits-and-security.md)
 
 ## Tutorials / FAQs
 

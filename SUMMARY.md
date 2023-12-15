@@ -25,6 +25,7 @@
 * [♾ Tokenomics](dao-and-tokenomics/tokenomics.md)
 * [🔆 Token Utilities](dao-and-tokenomics/token-utilities.md)
 * [🤝 Governance via yZF](usdzf-token/governance/yzf.md)
+* [🗒 DAO Proposal Guidelines](dao-and-tokenomics/dao-proposal-guidelines.md)
 
 ## CONTRACTS & AUDITS
 

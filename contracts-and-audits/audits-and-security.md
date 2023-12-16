@@ -2,8 +2,8 @@
 
 At zkSwap Finance, we place a paramount emphasis on the security of our code and the safety of user funds. We recognize the pivotal role these elements play in establishing trust and fostering a secure environment for our users. To achieve this objective, we have implemented a stringent approach encompassing multiple audits and robust security measures.
 
-All contracts are verified on [zkSync Explorer](../usdzf-token/smart-contracts.md) \
-All audits: [zkSwap Finance Github](https://github.com/ZkSwapFinance/Audit-Reports)
+All contracts are VERIFIED on [zkSync Explorer](../usdzf-token/smart-contracts.md) \
+All Audits: [zkSwap Finance Github](https://github.com/ZkSwapFinance/Audit-Reports)
 
 ## Audited by Certik
 
@@ -26,11 +26,11 @@ Detailed Report: [Vital Block Github](https://github.com/Vital-block/Smart-Contr
 MythX™ is a premier automatic security analysis service for Ethereum smart contracts by _**ConsenSys Software Inc™**_. Its mission is to ensure development teams avoid costly errors and make smart contracts more secure and trustworthy.
 
 * MythX™ passed badge: [https://github.com/ZkSwapFinance/mainnet-contracts](https://github.com/ZkSwapFinance/mainnet-contracts)
-* Swap Router codebase successfully PASSES: [report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/2\_MythX\_DEX\_Full\_Report.pdf)
-* TGE Launchpad's codebase successfully PASSES: [report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/3\_MythX\_TGE\_Full\_Report.pdf)
-* ZF Token's codebase successfully PASSES: [report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf)
-* ZF Farm's codebase successfully PASSES: [report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/5\_MythX\_Farm\_Full\_Report.pdf)
-* Galxe Campaign Pool's codebase: [report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/6\_MythX\_Galxe\_Campaign\_Pool\_Full\_Report.pdf)
+* Swap Router codebase successfully PASSES: [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/2\_MythX\_DEX\_Full\_Report.pdf)
+* TGE Launchpad's codebase successfully PASSES: [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/3\_MythX\_TGE\_Full\_Report.pdf)
+* ZF Token's codebase successfully PASSES: [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf)
+* ZF Farm's codebase successfully PASSES: [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/5\_MythX\_Farm\_Full\_Report.pdf)
+* Galxe Campaign Pool's codebase: [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/6\_MythX\_Galxe\_Campaign\_Pool\_Full\_Report.pdf)
 
 ## Timelock Controllers & Multisig Wallets Security Mechanism
 

@@ -6,4 +6,18 @@ Here, you'll find all the latest updates and changes related to protocol fees on
 
 Fee for a swap can be broken down into two kinds: 1) Rewards for Liquidity Providers 2) Protocol Fee
 
-<table><thead><tr><th width="154">Pool</th><th>Rewards for Liquidity Providers</th><th>Protocol Fee</th></tr></thead><tbody><tr><td>ETH/USDC</td><td>0.04%</td><td>0.04%</td></tr><tr><td>USDC/USDT</td><td>0.04%</td><td>0.04%</td></tr><tr><td>ZF/ETH</td><td>0.04%</td><td>0.04%</td></tr><tr><td>WBTC/ETH</td><td>0.04%</td><td>0.04%</td></tr><tr><td>CAKE/ETH</td><td>0.04%</td><td>0.04%</td></tr><tr><td>MAV/ETH</td><td>0.04%</td><td>0.04%</td></tr><tr><td>MUTE/ETH</td><td>0.04%</td><td>0.04%</td></tr><tr><td>SPACE/ETH</td><td>0.04%</td><td>0.04%</td></tr><tr><td>VC/ETH</td><td>0.04%</td><td>0.04%</td></tr><tr><td>RF/ETH</td><td>0.04%</td><td>0.04%</td></tr><tr><td>ZKPEPE/ETH</td><td>0.04%</td><td>0.04%</td></tr><tr><td>HOLD/ETH</td><td>0.04%</td><td>0.04%</td></tr><tr><td>OTHERS</td><td>0.04%</td><td>0.04%</td></tr></tbody></table>
+| Pool       | Rewards for Liquidity Providers | Protocol Fee |
+| ---------- | ------------------------------- | ------------ |
+| ETH/USDC   | 0.04%                           | 0.04%        |
+| USDC/USDT  | 0.04%                           | 0.04%        |
+| ZF/ETH     | 0.04%                           | 0.04%        |
+| WBTC/ETH   | 0.04%                           | 0.04%        |
+| CAKE/ETH   | 0.04%                           | 0.04%        |
+| MAV/ETH    | 0.04%                           | 0.04%        |
+| MUTE/ETH   | 0.04%                           | 0.04%        |
+| SPACE/ETH  | 0.04%                           | 0.04%        |
+| VC/ETH     | 0.04%                           | 0.04%        |
+| RF/ETH     | 0.04%                           | 0.04%        |
+| ZKPEPE/ETH | 0.04%                           | 0.04%        |
+| HOLD/ETH   | 0.04%                           | 0.04%        |
+| OTHERS     | 0.04%                           | 0.04%        |

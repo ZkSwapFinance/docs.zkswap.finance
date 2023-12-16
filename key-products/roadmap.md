@@ -2,6 +2,8 @@
 
 <figure><img src="../.gitbook/assets/roadmap.jpg" alt=""><figcaption></figcaption></figure>
 
+Welcome to our project roadmap! This document outlines the primary steps in our plans, providing a main trajectory for our collective efforts. It's important to note that this roadmap is a flexible guide, and revisions may be made as needed. We value adaptability and welcome any adjustments that will contribute to the success of our project. Let's embark on this journey together, confident in our ability to navigate and refine our path to success.
+
 ### **PHASE 1**
 
 * [x] Core team assembled

@@ -4,9 +4,9 @@
 
 ### 1. Overview
 
-The **Swap2Earn** offered by ZkSwap Finance is a unique and distinctive feature that encourages users to engage with our platform, creating a competitive atmosphere for traders and honoring ALL user participation.
+The **Swap2Earn** offered by zkSwap Finance is a unique and distinctive feature that encourages users to engage with our platform, creating a competitive atmosphere for traders and honoring ALL user participation.
 
-Our motto is "the more you contribute, the more rewards you receive." The [SwapBoard ](https://zkswap.finance/swapboard)tracks all activities on the platform and rewards all participants accordingly. All activities are consolidated in a personalized dashboard.
+Our motto is "the more you contribute, the more rewards you receive." The [SwapBoard ](https://zkswap.finance/swapboard)tracks all trading activities on the platform and rewards all participants accordingly. Activities are consolidated in a personalized dashboard.
 
 {% hint style="info" %}
 Remember to Register for the [Swap2Earn ](https://zkswap.finance/swapboard)campaign. Register only once for a lifetime
@@ -22,17 +22,17 @@ Your Boost = 1 + 400 \* (Your staked ZF in the DAO Pool)/(Total ZF Supply)
 
 ### Cycle
 
-The **Swap2Earn** will run with each cycle, which typically lasts between 15-30 days. The first mainnet cycle will start after Token Generation Event (TGE).
+Each cycle starts on the 1st and 16th of each month and ends just before the beginning of a new cycle.&#x20;
 
-Cycle rewards are determined by time and emission rate, and distributed proportionally based on zkSwap zkPoint.
-
-To ensure a level playing field, the rankings will reset automatically at the end of each cycle. This gives all users an equal opportunity to earn rewards every cycle.
+To ensure a level playing field, the rankings and zkPoint will be reset automatically at the end of each cycle. This gives all users an equal opportunity to earn rewards every cycle.
 
 ### Reward:
 
 Total Reward: The total reward for the Swap2Earn is 20% (200.000.000 $ZF) of the total supply over 3 years.
 
-Claim Time: The reward will be distributed to users at the end of each cycle.
+Cycle rewards are determined by time and emission rate, and distributed proportionally based on zkSwap zkPoint.
+
+Claim Time: rewards are distributed on the 1st and 16th of every month and can be claimed at [https://zkswap.finance/earn/rewards](https://zkswap.finance/earn/rewards)
 
 Here is how the reward amount is calculated:
 

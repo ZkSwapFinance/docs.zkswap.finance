@@ -12,7 +12,7 @@ zkSwap stands as a premier Automated Market Maker (AMM), with its decentralized 
 
 Try: [https://zkswap.finance/swap](https://zkswap.finance/swap)
 
-The zkSwap Exchange incorporates various features that bolster decentralized trading:
+The zkSwap Finance Exchange incorporates various features that bolster decentralized trading:
 
 ### Swapping/Trading
 

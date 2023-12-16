@@ -5,7 +5,7 @@ description: >-
   backgrounds and possess a wide range of skill
 ---
 
-# 👬 About us
+# 👬 About Us
 
 ## Ethos & Value
 
@@ -17,7 +17,7 @@ description: >-
 >
 > We are excited to invite you to join us on this journey toward innovation, sustainability, and transparency in the zkSwap Finance protocol. Together, we can continue to learn, build, and innovate, and create a brighter future for all."
 >
-> "zkSwap CEO - ThunderNoah"
+> "zkSwap Finance CEO - ThunderNoah"
 
 ## Team Members
 

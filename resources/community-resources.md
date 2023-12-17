@@ -20,6 +20,7 @@
 ## Articles
 
 * [How to Buy zkSwap Finance (ZF)](https://www.gate.io/how-to-buy/zkswap-finance-zf) - contributed by [Gate.io](https://www.gate.io/)
+* [METAMASK KURULUMU VE ZF TOKEN ALIMI](https://kriptoproje.medium.com/metamask-kurulumu-ve-zf-token-alimi-d378000a9cc8) (Turkish) - contributed by [cihan0xeth](https://twitter.com/cihan0xeth)
 
 ## From Enthusiasts
 
@@ -30,3 +31,4 @@
 * [Unlocking 100x Crypto Profits with ZKSwap Finance](https://www.youtube.com/watch?v=jZN9ZdfyjB8) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
 * [1000x Crypto Gem | Millionaires Will Be Made](https://www.youtube.com/watch?v=zSu60xN10m4) - contributed by [myDeFiLife.eth](https://twitter.com/Brusca)
 * [ZKSWAP is making me RICH!](https://www.youtube.com/watch?v=lqWo\_WAl-YE) - contributed by [Crypto Danks](https://twitter.com/CryptoDanksX)
+*

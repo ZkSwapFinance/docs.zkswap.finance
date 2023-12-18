@@ -4,7 +4,7 @@
 
 * [How to Buy $ZF](https://www.youtube.com/watch?v=ieXwXEwiMFY) - contributed by [Crypto Danks](https://twitter.com/CryptoDanksX)
 * [How to Swap & Add liquidity](https://www.youtube.com/watch?v=ggrnMBdNfJo) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
-* How to Farming & Staking
+* [How to Farming & Staking](https://www.youtube.com/watch?v=lTm30DVXwec) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
 * How to join Swap2Earn & SwapBoard
 * [Swap2Earn Explained](https://www.youtube.com/watch?v=8mpOfk1291I)  - contributed by [CryptoWithZach](https://twitter.com/cryptowithzach)
 * [How to Use zkBridge](https://www.youtube.com/watch?v=u6kpCe1aFF0) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
@@ -31,4 +31,3 @@
 * [Unlocking 100x Crypto Profits with ZKSwap Finance](https://www.youtube.com/watch?v=jZN9ZdfyjB8) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
 * [1000x Crypto Gem | Millionaires Will Be Made](https://www.youtube.com/watch?v=zSu60xN10m4) - contributed by [myDeFiLife.eth](https://twitter.com/Brusca)
 * [ZKSWAP is making me RICH!](https://www.youtube.com/watch?v=lqWo\_WAl-YE) - contributed by [Crypto Danks](https://twitter.com/CryptoDanksX)
-*

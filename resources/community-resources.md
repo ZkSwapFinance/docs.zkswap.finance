@@ -31,3 +31,4 @@
 * [Unlocking 100x Crypto Profits with ZKSwap Finance](https://www.youtube.com/watch?v=jZN9ZdfyjB8) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
 * [1000x Crypto Gem | Millionaires Will Be Made](https://www.youtube.com/watch?v=zSu60xN10m4) - contributed by [myDeFiLife.eth](https://twitter.com/Brusca)
 * [ZKSWAP is making me RICH!](https://www.youtube.com/watch?v=lqWo\_WAl-YE) - contributed by [Crypto Danks](https://twitter.com/CryptoDanksX)
+* [ZF zkSwap Finance Review - Movin' On Up zkSync](https://www.youtube.com/watch?v=629EDPhITN4) - contributed by [Crypto Lush](https://twitter.com/kylekrason)

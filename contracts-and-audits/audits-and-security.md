@@ -25,12 +25,18 @@ Detailed Report: [Vital Block Github](https://github.com/Vital-block/Smart-Contr
 
 MythX™ is a premier automatic security analysis service for Ethereum smart contracts by _**ConsenSys Software Inc™**_. Its mission is to ensure development teams avoid costly errors and make smart contracts more secure and trustworthy.
 
-* MythX™ passed badge: [https://github.com/ZkSwapFinance/mainnet-contracts](https://github.com/ZkSwapFinance/mainnet-contracts)
-* Swap Router codebase successfully PASSES: [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/2\_MythX\_DEX\_Full\_Report.pdf)
-* TGE Launchpad's codebase successfully PASSES: [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/3\_MythX\_TGE\_Full\_Report.pdf)
-* ZF Token's codebase successfully PASSES: [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf)
-* ZF Farm's codebase successfully PASSES: [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/5\_MythX\_Farm\_Full\_Report.pdf)
-* Galxe Campaign Pool's codebase: [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/6\_MythX\_Galxe\_Campaign\_Pool\_Full\_Report.pdf)
+**MythX™ passed badge:**&#x20;
+
+* mainnet-contracts: [https://github.com/ZkSwapFinance/mainnet-contracts](https://github.com/ZkSwapFinance/mainnet-contracts)
+* zf-periphery: [https://github.com/ZkSwapFinance/zf-periphery](https://github.com/ZkSwapFinance/zf-periphery)
+
+| Smart Contract      | Address                                                                                                                              | Audit Report                                                                                                         |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| Router              | [0x18381c0f738146Fb694DE18D1106BdE2BE040Fa4](https://explorer.zksync.io/address/0x18381c0f738146Fb694DE18D1106BdE2BE040Fa4#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/2\_MythX\_DEX\_Full\_Report.pdf)                   |
+| ZF Token            | [0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A](https://explorer.zksync.io/address/0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf)                 |
+| ZF Farm             | [0x9F9D043fB77A194b4216784Eb5985c471b979D67](https://explorer.zksync.io/address/0x9F9D043fB77A194b4216784Eb5985c471b979D67#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/5\_MythX\_Farm\_Full\_Report.pdf)                  |
+| TGE Launchpad       | [0x723b715987b7E1B6C7872809b5B694dA153eAdD6](https://explorer.zksync.io/address/0x723b715987b7E1B6C7872809b5B694dA153eAdD6#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf)                 |
+| Galxe Campaign Pool | [0x3Cd6A09A60867643C80A2e6e22ab4D83368e0F89](https://explorer.zksync.io/address/0x3Cd6A09A60867643C80A2e6e22ab4D83368e0F89)          | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/6\_MythX\_Galxe\_Campaign\_Pool\_Full\_Report.pdf) |
 
 ## Timelock Controllers & Multisig Wallets Security Mechanism
 

@@ -37,6 +37,9 @@ MythX™ is a premier automatic security analysis service for Ethereum smart con
 |       ZF Farm       | [0x9F9D043fB77A194b4216784Eb5985c471b979D67](https://explorer.zksync.io/address/0x9F9D043fB77A194b4216784Eb5985c471b979D67#contract) |          [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/5\_MythX\_Farm\_Full\_Report.pdf)         |
 |    TGE Launchpad    | [0x723b715987b7E1B6C7872809b5B694dA153eAdD6](https://explorer.zksync.io/address/0x723b715987b7E1B6C7872809b5B694dA153eAdD6#contract) |         [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf)         |
 | Galxe Campaign Pool |      [0x3Cd6A09A60867643C80A2e6e22ab4D83368e0F89](https://explorer.zksync.io/address/0x3Cd6A09A60867643C80A2e6e22ab4D83368e0F89)     | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/6\_MythX\_Galxe\_Campaign\_Pool\_Full\_Report.pdf) |
+|         yZF         |      [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer.zksync.io/address/0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987)     |        [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/7\_MythX\_yZFToken\_Full\_Report.pdf)       |
+|  Governance Staking |      [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer.zksync.io/address/0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987)     |  [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/8\_MythX\_ZFGovernanceStaking\_Full\_Report.pdf)  |
+|  Swap2Earn Rewarder | [0xF4dAc6647f4c56DE2a8BE120e5a830B5bD5Aae91](https://explorer.zksync.io/address/0xF4dAc6647f4c56DE2a8BE120e5a830B5bD5Aae91#contract) |  [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/9\_MythX\_ZFSwap2EarnRewarder\_Full\_Report.pdf)  |
 
 ## Timelock Controllers & Multisig Wallets Security Mechanism
 

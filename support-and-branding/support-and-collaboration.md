@@ -16,7 +16,6 @@ Kindly reach out to us via these platforms:
 * [x] Linktree: [https://linktr.ee/zkswap\_finance](https://linktr.ee/zkswap\_finance)
 * [x] Youtube: [https://www.youtube.com/@zkSwap\_finance](https://www.youtube.com/@zkSwap\_finance)
 * [x] Tiktok: [https://www.tiktok.com/@zkswap\_finance](https://www.tiktok.com/@zkswap\_finance)
-* [x] Instagram: [https://www.instagram.com/zkswap\_finance\_official/](https://www.instagram.com/zkswap\_finance\_official/)
 * [x] Lenster: [https://hey.xyz/u/zkswap\_finance](https://hey.xyz/u/zkswap\_finance)
 * [x] Zealy: [https://zealy.io/c/zkswapfinance](https://zealy.io/c/zkswapfinance)
 * [x] Galxe: [https://galxe.com/zkSwapFinance](https://galxe.com/zkSwapFinance)

@@ -7,7 +7,7 @@ At zkSwap Finance, we place a paramount emphasis on the security of our code and
 
 ## Audited by Certik
 
-Our platform is **being undergone** a comprehensive audit conducted by [Certik](https://www.certik.com/), a renowned security auditing firm. The preliminary results of this meticulous evaluation have positioned us in the top 10% of audited projects, attesting to the high level of security we maintain.
+Our platform is undergone comprehensive audit conducted by [Certik](https://www.certik.com/), a renowned security auditing firm. The results of this meticulous evaluation gives us a code security category score of **95/100**, positioned us in the top of audited projects, attesting to the high level of security we maintain.
 
 [Certik](https://www.certik.com/)'s audit is widely acknowledged and esteemed in the blockchain and cryptocurrency industry. Their exhaustive review process involves a careful examination of our smart contracts, codebase, and overall system architecture. Through this rigorous assessment, we have showcased our unwavering commitment to upholding the highest standards of security and reliability for our users.
 

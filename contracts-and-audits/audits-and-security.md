@@ -4,7 +4,7 @@ At zkSwap Finance, we place a paramount emphasis on the security of our code and
 
 **All contracts are VERIFIED on** [**zkSync Explorer**](../usdzf-token/smart-contracts.md) \
 **All Audits:** [**zkSwap Finance Github**](https://github.com/ZkSwapFinance/Audit-Reports)\
-**Certik Audit:** [**https://skynet.certik.com/projects/zkswap-finance**](https://skynet.certik.com/projects/zkswap-finance)
+**Certik Audit:** [**Report**](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/0\_\[Certik]\_zkSwap\_Finance\_Audit\_Report.pdf)
 
 ## Audited by Certik
 
@@ -12,7 +12,7 @@ Our platform is undergone comprehensive audit conducted by [Certik](https://www.
 
 [Certik](https://www.certik.com/)'s audit is widely acknowledged and esteemed in the blockchain and cryptocurrency industry. Their exhaustive review process involves a careful examination of our smart contracts, codebase, and overall system architecture. Through this rigorous assessment, we have showcased our unwavering commitment to upholding the highest standards of security and reliability for our users.
 
-**For more details, please visit:** [**https://skynet.certik.com/projects/zkswap-finance**](https://skynet.certik.com/projects/zkswap-finance)
+**For more details:** [**Report**](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/0\_\[Certik]\_zkSwap\_Finance\_Audit\_Report.pdf)
 
 ## Audited by Vital Block
 

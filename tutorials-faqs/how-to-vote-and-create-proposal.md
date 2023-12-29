@@ -4,7 +4,7 @@ Participating in governance voting and creating new proposals is easy, and it wo
 
 Learn how to vote, stay updated on upcoming proposals, and make your voice heard!
 
-
+<figure><img src="https://lh7-us.googleusercontent.com/Oii3bYBN9T9rBqElh---PQadmDXheLL3Pj0hDQDUkuUgeWI0L03x-kTxgrWGG8scsxC9I2sN13cBdu1NYNPo4Zvq__0bE1vAOL3xc8VcLwiTgyBu9wsDCt9i07NL25C0Vs8OzZValVS7gWgDETYgFcZlig=s2048" alt=""><figcaption></figcaption></figure>
 
 ### How to Vote:
 

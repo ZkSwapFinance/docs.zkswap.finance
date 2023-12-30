@@ -1,6 +1,6 @@
 # 💪 Community Resources
 
-<figure><img src="https://lh7-us.googleusercontent.com/EZm5g5yJSKPENWJ-NGkVm1K6Y8YhYAko-lydwezvZHW1C4I-iSoV8tU_9TpH7uMfvzzVrwiDqYegtfjuURDlndF6FN3P284UdrjjARPuubdd3iyAqd0goltDFUOkRgKgf6PoBBCkwxmb-ufzvuDEBaJGUw=s2048" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/community resources.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Guides, Tutorials, Introductions
 

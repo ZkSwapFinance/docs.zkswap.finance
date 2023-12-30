@@ -68,7 +68,7 @@ Welcome to zkSwap Finance roadmap! This document outlines the primary steps in o
   * [ ] Vault
   * [ ] Integrate SwapBoard for StableSwap and Vault
   * [ ] Mobile App&#x20;
-* [ ] Certik Audit
+* [x] Certik Audit
 * [ ] Continuous Improvement UI, UX and Performance
 * [ ] Partner with other DEX with Vault
 * [ ] Community Expansion Campaign

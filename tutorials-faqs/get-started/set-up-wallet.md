@@ -1,6 +1,6 @@
 # Set up Wallet
 
-Including the following procedures:
+#### Including the following procedures:
 
 * Creating a Metamask wallet: [https://metamask.io/](https://metamask.io/)
 * Add zkSync Era network to Metamask wallet by either:&#x20;
@@ -9,7 +9,7 @@ Including the following procedures:
   * Manually add a new network in Metamask using the info below
 * Add $ZF token to your Metamask wallet by either clicking Metamask icon in our swap token list or visiting [Coinmarketcap](https://coinmarketcap.com/currencies/zkswap-finance/) then looking for the Metamask icon on the left then click it)
 
-Official zkSync RPC: [https://era.zksync.io/docs/dev/building-on-zksync/interacting.html#connecting-to-zksync-era-on-metamask](https://era.zksync.io/docs/dev/building-on-zksync/interacting.html#connecting-to-zksync-era-on-metamask)
+#### Official zkSync RPC: [https://era.zksync.io/docs/dev/building-on-zksync/interacting.html#connecting-to-zksync-era-on-metamask](https://era.zksync.io/docs/dev/building-on-zksync/interacting.html#connecting-to-zksync-era-on-metamask)
 
 * Network Name: zkSync Era Mainnet&#x20;
 * RPC URL: https://mainnet.era.zksync.io&#x20;

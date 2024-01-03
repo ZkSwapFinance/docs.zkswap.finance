@@ -31,20 +31,36 @@ description: >-
 * An enthusiast of innovative technology and real-world problem solving, with a firm belief in blockchain and cryptocurrency's transformative potential for fintech's future.
 * Contact: [Discord](https://discord.com/users/1140485299101761607)
 
-#### **Developer: ReshMagic**
-
-* A dedicated developer with an innate ability to turn impossible challenges into tangible digital solutions, always striving to push the boundaries of innovation.
-* Contact: [Discord](https://discordapp.com/users/1079941397890740294)
-
 #### **CMO: Ryan Yang**
 
 * A marketing professional experienced in both traditional finance and the crypto industry., adept at scaling projects from ideation to execution, with a strong focus on marketing.
 * Contact: [Telegram ](https://t.me/zkSwap\_Ryan)| [Discord](https://discordapp.com/users/1012326171398131722)
 
+#### **Developer: ReshMagic**
+
+* A dedicated developer with an innate ability to turn impossible challenges into tangible digital solutions, always striving to push the boundaries of innovation.
+* Contact: [Discord](https://discordapp.com/users/1079941397890740294)
+
+#### Front-end Developer**:** Jason Goh
+
+* Bringing seamless user interfaces to life, Jason Goh combines design finesse with technical expertise.
+
+#### Intern Developer**:** Ethan Lim
+
+* Contributes fresh perspectives and a thirst for learning, embodying innovation and growth.
+
 #### Business Development: Christ Lang
 
 * Driving growth through strategic partnerships and opportunities.
 * Contact: [Telegram](https://t.me/zkSwap\_Christ)
+
+#### Content Writer**:** Hannah Tan
+
+* Crafting engaging narratives, Hannah Tan communicates our brand message effectively through blog posts and marketing materials.
+
+#### Designer**:** Nathan Wong
+
+* Elevates projects with artistic vision, enhancing our brand image and user experience.
 
 #### Community Moderator: Jenko
 

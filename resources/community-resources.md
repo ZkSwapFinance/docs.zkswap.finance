@@ -7,11 +7,13 @@
 * [How to Buy $ZF](https://www.youtube.com/watch?v=ieXwXEwiMFY) - contributed by [Crypto Danks](https://twitter.com/CryptoDanksX)
 * [How to Swap & Add liquidity](https://www.youtube.com/watch?v=ggrnMBdNfJo) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
 * [How to Farming & Staking](https://www.youtube.com/watch?v=lTm30DVXwec) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
-* How to join Swap2Earn & SwapBoard
+* [SwapBoard & Bridge](https://www.youtube.com/watch?v=nJ-s4RFfwmc) - contributed by [Crypto Danks](https://twitter.com/CryptoDanksX)
+* [How to join Swap2Earn & SwapBoard](https://www.youtube.com/watch?v=4H7Y3oe\_riM) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
 * [Swap2Earn Explained](https://www.youtube.com/watch?v=8mpOfk1291I)  - contributed by [CryptoWithZach](https://twitter.com/cryptowithzach)
 * [How to Use zkBridge](https://www.youtube.com/watch?v=u6kpCe1aFF0) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
 * How to Use zkFlow
 * How to Vote on zkSwap Finance
+* How to Use Paymaster
 * ....
 
 ## Statistics, Calculators, Data Visualizations
@@ -34,4 +36,4 @@
 * [1000x Crypto Gem | Millionaires Will Be Made](https://www.youtube.com/watch?v=zSu60xN10m4) - contributed by [myDeFiLife.eth](https://twitter.com/Brusca)
 * [ZKSWAP is making me RICH!](https://www.youtube.com/watch?v=lqWo\_WAl-YE) - contributed by [Crypto Danks](https://twitter.com/CryptoDanksX)
 * [ZF zkSwap Finance Review - Movin' On Up zkSync](https://www.youtube.com/watch?v=629EDPhITN4) - contributed by [Crypto Lush](https://twitter.com/kylekrason)
-* [zkSWAP $ZF SwapBoard & Bridge](https://www.youtube.com/watch?v=nJ-s4RFfwmc) - contributed by [Crypto Danks](https://twitter.com/CryptoDanksX)
+* [Nuevas CRIPTOMONEDAS que te pueden hacer ganar MUCHO DINERO en 2024](https://www.youtube.com/watch?v=4mhtMObhF3E)  - contributed by [AdelinBTC](https://www.youtube.com/@AdelinBTC)

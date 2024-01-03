@@ -43,7 +43,7 @@ description: >-
 
 #### Front-end Developer**:** Jason Goh
 
-* Bringing seamless user interfaces to life, Jason Goh combines design finesse with technical expertise.
+* Bringing seamless user interfaces to life, combining design finesse with technical expertise.
 
 #### Intern Developer**:** Ethan Lim
 

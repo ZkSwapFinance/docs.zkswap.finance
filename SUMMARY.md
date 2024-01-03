@@ -9,7 +9,7 @@
 * [🚃 zkBridge](key-products/zkbridge.md)
 * [📖 zkFlow](key-products/zkflow.md)
 * [🎇 ZF Paymaster](key-products/zf-paymaster.md)
-* [Page](key-products/page.md)
+* [zkAggregator](key-products/zkaggregator.md)
 * [☀ Future Products](key-products/future-products.md)
 * [🗺 Roadmap](key-products/roadmap.md)
 

@@ -37,3 +37,5 @@
 * [ZKSWAP is making me RICH!](https://www.youtube.com/watch?v=lqWo\_WAl-YE) - contributed by [Crypto Danks](https://twitter.com/CryptoDanksX)
 * [ZF zkSwap Finance Review - Movin' On Up zkSync](https://www.youtube.com/watch?v=629EDPhITN4) - contributed by [Crypto Lush](https://twitter.com/kylekrason)
 * [Nuevas CRIPTOMONEDAS que te pueden hacer ganar MUCHO DINERO en 2024](https://www.youtube.com/watch?v=4mhtMObhF3E)  - contributed by [AdelinBTC](https://www.youtube.com/@AdelinBTC)
+* [Micro Cap GEM! Why YOU need this Crypto Dex _Uni Swap Killer_](https://www.youtube.com/watch?v=NdcpOQ73kMc)  - contributed by [Drakes Domain](https://www.youtube.com/@Drakes\_Domain)
+* [Earn While Farming the zkSync Airdrop! zkSwap Finance](https://www.youtube.com/watch?v=7QWAfHWZCek) - contributed by [The Brown Gent](https://www.youtube.com/@TheBrownGent)

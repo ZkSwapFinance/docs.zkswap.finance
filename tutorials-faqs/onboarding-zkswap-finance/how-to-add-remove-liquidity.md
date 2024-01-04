@@ -15,7 +15,7 @@ How to add liquidity on zkSwap Finance
 
 ***
 
-### 2. Remove liquidity
+### 2.Remove liquidity
 
 1. Head to liquidity page at [https://zkswap.finance/add](https://zkswap.finance/add) and connect your wallet
 2. Now "click" on the liquidity pair on the right, that you wish to remove liquidity from

@@ -1,16 +1,6 @@
-# Swap & Add Liquidity
+# How to Add/Remove Liquidity
 
-### 1. Swap
-
-The process is similar to buying $ZF. Simply select the token to swap and token you wish to receive and proceed like you do with buying $ZF
-
-Kindly refer to our guide on buying $ZF for step-by-step instructions
-
-{% embed url="https://youtu.be/ApafAsLRzwo" %}
-Swap tutorial video
-{% endembed %}
-
-### 2. Add Liquidity
+### 1. Add Liquidity
 
 1. Head to liquidity page at [https://zkswap.finance/add](https://zkswap.finance/add) and connect your wallet
 2. Now select the pair of token you wish to form an LP token (refer to the board at the bottom left for info on what pair of token you can form a liquidity pair)
@@ -25,7 +15,7 @@ How to add liquidity on zkSwap Finance
 
 ***
 
-### 2.1) Remove liquidity
+### 2) Remove liquidity
 
 1. Head to liquidity page at [https://zkswap.finance/add](https://zkswap.finance/add) and connect your wallet
 2. Now "click" on the liquidity pair on the right, that you wish to remove liquidity from

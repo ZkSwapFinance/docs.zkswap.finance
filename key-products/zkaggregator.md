@@ -2,7 +2,7 @@
 description: Unlocking Optimal Cryptocurrency Swaps & a superior User Experience
 ---
 
-# zkAggregator
+# 🌿 zkAggregator
 
 #### What is zkAggregator?
 

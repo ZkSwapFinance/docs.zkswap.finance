@@ -43,6 +43,7 @@
   * [Get Gas Token ($ETH)](tutorials-faqs/get-started/get-gas-token-usdeth.md)
 * [🚀 Onboarding zkSwap Finance](tutorials-faqs/onboarding-zkswap-finance/README.md)
   * [How to Buy $ZF](tutorials-faqs/onboarding-zkswap-finance/how-to-buy-usdzf.md)
+  * [How to use Paymaster](tutorials-faqs/onboarding-zkswap-finance/how-to-use-paymaster.md)
   * [Swap & Add Liquidity](tutorials-faqs/onboarding-zkswap-finance/swap-and-add-liquidity.md)
   * [How to Farm & Stake](tutorials-faqs/onboarding-zkswap-finance/how-to-farm-and-stake.md)
   * [How to Use zkBridge](tutorials-faqs/onboarding-zkswap-finance/how-to-use-zkbridge.md)

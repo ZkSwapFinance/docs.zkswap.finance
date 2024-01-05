@@ -18,4 +18,4 @@ description: >-
 2. Click "Switch to zkSync"; a Metamask window will appear
 3. Click Approve
 
-[https://www.youtube.com/watch?v=BreZhuxT9sk](https://www.youtube.com/watch?v=BreZhuxT9sk)
+{% embed url="https://www.youtube.com/watch?v=BreZhuxT9sk" %}

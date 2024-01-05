@@ -40,6 +40,7 @@
 * [🔰 Get Started](tutorials-faqs/get-started/README.md)
   * [Create a Wallet](tutorials-faqs/get-started/create-a-wallet.md)
   * [Set up Wallet](tutorials-faqs/get-started/set-up-wallet.md)
+  * [Add Official zkSync Era RPC](tutorials-faqs/get-started/add-official-zksync-era-rpc.md)
   * [Get Gas Token ($ETH)](tutorials-faqs/get-started/get-gas-token-usdeth.md)
 * [🚀 Onboarding zkSwap Finance](tutorials-faqs/onboarding-zkswap-finance/README.md)
   * [How to Buy $ZF](tutorials-faqs/onboarding-zkswap-finance/how-to-buy-usdzf.md)

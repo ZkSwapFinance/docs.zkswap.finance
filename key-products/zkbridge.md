@@ -6,11 +6,11 @@ description: Seamless token transfers between multiple blockchains
 
 <figure><img src="../.gitbook/assets/banner_zk_birdge.jpg" alt=""><figcaption><p>zkBridge - Seamless token transfers between multiple blockchains</p></figcaption></figure>
 
+Try at [https://zkswap.finance/zkbridge](https://zkswap.finance/zkbridge)
+
 In the dynamic world of decentralized finance (DeFi), the ability to effortlessly transfer assets across diverse blockchain networks is crucial for maximizing user experience and driving adoption.&#x20;
 
 However, the current DeFi landscape is overwhelmed by the multitude of bridges. Hence, to serve our platform users better, zkBridge emerges as a beacon of simplicity, offering a unified solution that caters to most of your cross-network transfer needs. Eliminate the hassle of navigating between platforms and experience the convenience of a single, comprehensive bridging solution.
-
-Try: [https://zkswap.finance/zkbridge/bridge](https://zkswap.finance/zkbridge/bridge)
 
 ### Key Features:
 

@@ -62,24 +62,32 @@ Welcome to zkSwap Finance roadmap! This document outlines the primary steps in o
   * [x] zkFlow-v2
   * [x] zkBridge-v2
   * [x] Zap In - Zap Out
+  * [x] Dexs zkAggregator
+  * [ ] 1st Subsidiary product
+  * [ ] UI v1.5
   * [ ] StableSwap
-  * [ ] Dexs Aggregator
+  * [ ] Integrate SwapBoard for StableSwap
+  * [ ] 2nd Subsidiary product
+  * [ ] 3rd Subsidiary product
+  * [ ] Smart DEXs
+  * [ ] 4rd Subsidiary product
   * [ ] Launchpad
-  * [ ] Vault
-  * [ ] Integrate SwapBoard for StableSwap and Vault
-  * [ ] Mobile App&#x20;
+  * [ ] 5rd Subsidiary product
+  * [ ] Continuous Improvement UI, UX and Performance
+  * [ ] Mobile App
 * [x] Certik Audit
-* [ ] Continuous Improvement UI, UX and Performance
-* [ ] Partner with other DEX with Vault
+* [ ] Certik KYC
+* [ ] Certik Bounty
+* [ ] Partner with other DEXs with Vault
 * [ ] Community Expansion Campaign
 * [ ] Listing on Top CEXs
 
 ### **PHASE 4**
 
+* [ ] Keep building, keep improving as repeat evolution -> revolution
 * [ ] Web App Development
-  * [ ] Aggregator
   * [ ] Expand zkSwap to multiple networks
-  * [ ] Cross-chain Swap-to-Earn
+  * [ ] Cross-chain Token, Cross-chain Swap-to-Earn
 
-### [**Join Our Community For More Information**](../support-and-branding/support-and-collaboration.md) 
+### [**Join Our Community For More Information**](../official-links.md) 
 

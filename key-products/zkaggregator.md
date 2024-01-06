@@ -4,6 +4,8 @@ description: Unlocking Optimal Cryptocurrency Swaps & a superior User Experience
 
 # 🌿 zkAggregator
 
+#### Try at [https://zkswap.finance/swap](https://zkswap.finance/swap)
+
 #### What is zkAggregator?
 
 zkAggregator is a DEX aggregator that specializes in optimizing routes for cryptocurrency token swaps. In a decentralized ecosystem where trading volumes are increasingly shifting towards decentralized exchanges (DEXs), zkAggregator plays a pivotal role in streamlining the process of finding the best exchange rates for converting digital assets.

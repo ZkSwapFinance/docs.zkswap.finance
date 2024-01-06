@@ -11,7 +11,7 @@ We encourage you to read our [Ethos & Value](https://docs.zkswap.finance/resourc
 ### Earn zkSwap Finance token $ZF with any of the following activities:
 
 * [Swap2Earn](highlights/swap2earn.md)
-* [Farm2Earn](highlights/incentive-farming-and-liquidity.md) (Liquidity Providing)
+* [Farm2Earn](highlights/farm2earn.md) (Liquidity Providing)
 * [Affiliate | Referral Program](highlights/affiliate-or-referral-program.md)
 * Incentive Campaigns
 * Support Project via social channels.

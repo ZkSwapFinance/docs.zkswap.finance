@@ -1,11 +1,11 @@
 # Table of contents
 
 * [👋 Introduction](README.md)
-* [🌎 Official Links](support-and-branding/support-and-collaboration.md)
+* [🌎 Official Links](official-links.md)
 
 ## KEY PRODUCTS
 
-* [💰 zkSwap](key-products/zkswap/README.md)
+* [💰 zkSwap](key-products/zkswap.md)
 * [🌿 zkAggregator](key-products/zkaggregator.md)
 * [🚃 zkBridge](key-products/zkbridge.md)
 * [📖 zkFlow](key-products/zkflow.md)
@@ -16,7 +16,7 @@
 ## HIGHLIGHTS
 
 * [💡 Swap2Earn](highlights/swap2earn.md)
-* [🪙 Farm2Earn](highlights/incentive-farming-and-liquidity.md)
+* [🪙 Farm2Earn](highlights/farm2earn.md)
 * [👥 Affiliate | Referral Program](highlights/affiliate-or-referral-program.md)
 * [🍄 Boost](highlights/boost.md)
 * [⚡ ZAP](highlights/zap.md)
@@ -26,12 +26,12 @@
 
 * [♾ Tokenomics](dao-and-tokenomics/tokenomics.md)
 * [🔆 Token Utilities](dao-and-tokenomics/token-utilities.md)
-* [🤝 Governance via yZF](usdzf-token/governance/yzf.md)
+* [🤝 Governance via yZF](dao-and-tokenomics/governance-via-yzf.md)
 * [🗒 DAO Proposal Guidelines](dao-and-tokenomics/dao-proposal-guidelines.md)
 
 ## CONTRACTS & AUDITS
 
-* [🔎 Smart Contracts](usdzf-token/smart-contracts.md)
+* [🔎 Smart Contracts](contracts-and-audits/smart-contracts.md)
 * [🔐 Multisig Wallets](contracts-and-audits/multisig-wallets.md)
 * [🛡 Audits & Security](contracts-and-audits/audits-and-security.md)
 
@@ -44,13 +44,14 @@
   * [Get Gas Token ($ETH)](tutorials-faqs/get-started/get-gas-token-usdeth.md)
 * [🚀 Onboarding zkSwap Finance](tutorials-faqs/onboarding-zkswap-finance/README.md)
   * [How to Buy $ZF](tutorials-faqs/onboarding-zkswap-finance/how-to-buy-usdzf.md)
-  * [How to Swap](tutorials-faqs/onboarding-zkswap-finance/swap-and-add-liquidity.md)
-  * [How to use Paymaster](tutorials-faqs/onboarding-zkswap-finance/how-to-use-paymaster.md)
+  * [How to Swap](tutorials-faqs/onboarding-zkswap-finance/how-to-swap.md)
+  * [How to Join SwapBoard & Swap2Earn](tutorials-faqs/onboarding-zkswap-finance/how-to-join-swapboard-and-swap2earn.md)
   * [How to Add/Remove Liquidity](tutorials-faqs/onboarding-zkswap-finance/how-to-add-remove-liquidity.md)
   * [How to Farm & Stake](tutorials-faqs/onboarding-zkswap-finance/how-to-farm-and-stake.md)
+  * [How to use Paymaster](tutorials-faqs/onboarding-zkswap-finance/how-to-use-paymaster.md)
+  * [How to Invite-to-Earn](tutorials-faqs/onboarding-zkswap-finance/how-to-invite-to-earn.md)
   * [How to Use zkBridge](tutorials-faqs/onboarding-zkswap-finance/how-to-use-zkbridge.md)
   * [How to Use zkFlow](tutorials-faqs/onboarding-zkswap-finance/how-to-use-zkflow.md)
-  * [Join SwapBoard & Invite-to-Earn](tutorials-faqs/onboarding-zkswap-finance/join-swapboard-and-invite-to-earn.md)
 * [🗳 How to Vote & Create Proposal](tutorials-faqs/how-to-vote-and-create-proposal.md)
 * [🍮 Syrup Pools FAQs](tutorials-faqs/syrup-pools-faqs.md)
 
@@ -58,7 +59,7 @@
 
 * [💪 Community Resources](resources/community-resources.md)
 * [📰 News Digest](resources/news-digest.md)
-* [👬 About Us](support-and-branding/zkswap-finance-team.md)
+* [👬 About Us](resources/about-us.md)
 * [📗 Terms & Disclaimers](resources/terms-and-disclaimers.md)
 
 ***

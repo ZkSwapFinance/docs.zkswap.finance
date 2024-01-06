@@ -27,5 +27,5 @@ You need to hold yZF for voting. The more yZF you hold, the greater your voting 
 4. Confirm and publish your proposal.
 
 {% hint style="info" %}
-To create any proposals, you need to stake at least 500,000 ZF in the DAO pool.
+To create any proposals, you need to stake at least 500,000 yZF in the DAO pool.
 {% endhint %}

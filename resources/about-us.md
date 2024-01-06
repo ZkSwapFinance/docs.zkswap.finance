@@ -19,6 +19,8 @@ description: >-
 >
 > "zkSwap Finance CEO - ThunderNoah"
 
+<figure><img src="../.gitbook/assets/AboutUs.png" alt=""><figcaption></figcaption></figure>
+
 ## Team Members
 
 #### **Founder & CEO: ThunderNoah**

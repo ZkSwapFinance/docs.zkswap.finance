@@ -1,6 +1,6 @@
 # ☀ Future Products
 
-<figure><img src="../.gitbook/assets/9.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/futureProduct.png" alt=""><figcaption></figcaption></figure>
 
 zkSwap Finance is continuously working on developing and launching new DeFi products to enhance its ecosystem. We are currently considering several upcoming products, which may include (but are not limited to):
 

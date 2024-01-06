@@ -6,7 +6,7 @@ description: >-
 
 # 💰 zkSwap
 
-<figure><img src="../.gitbook/assets/cover 2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/swap2earn.png" alt=""><figcaption></figcaption></figure>
 
 **Try at** [**https://zkswap.finance/swap**](https://zkswap.finance/swap)
 

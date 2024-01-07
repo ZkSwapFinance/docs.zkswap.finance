@@ -15,7 +15,7 @@
 * RPC URL: https://mainnet.era.zksync.io&#x20;
 * Chain ID: 324&#x20;
 * Currency Symbol: ETH&#x20;
-* Block Explorer URL: [https://era.zksync.network/](https://era.zksync.network/) or [https://explorer.zksync.io/](https://explorer.zksync.io/)
+* Block Explorer URL: [https://explorer.zksync.io/](https://explorer.zksync.io/) or [https://era.zksync.network/](https://era.zksync.network/)
 
 {% embed url="https://youtu.be/DuEJoNDw_Q8" %}
 Wallet set up tutorial video

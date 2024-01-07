@@ -4,7 +4,9 @@
 
 Welcome to zkSwap Finance roadmap! This document outlines the primary steps in our plans, providing a main trajectory for our collective efforts. It's important to note that this roadmap is a flexible guide, and revisions may be made as needed. We value adaptability and welcome any adjustments that will contribute to the success of our project. Let's embark on this journey together, confident in our ability to navigate and refine our path to success.
 
-### **PHASE 1**
+### **PHASE 1:** DEVELOPMENT & TESTING
+
+In the first stage, the zkSwap Finance team dedicates its efforts to the creation and rigorous testing of the Swap2Earn protocol. This encompasses the formulation and execution of fundamental smart contracts, the construction of the user interface, and the execution of comprehensive security aimed at detecting and rectifying any potential vulnerabilities.
 
 * [x] Core team assembled
 * [x] Brainstorming innovative ideas&#x20;
@@ -28,7 +30,9 @@ Welcome to zkSwap Finance roadmap! This document outlines the primary steps in o
 * [x] Improved UX & UI
 * [x] Preparing Mainnet Launching
 
-### **PHASE 2**
+### **PHASE 2: LAUNCHING**
+
+Following the development and testing phase, zkSwap Finance deploys the Swap2Earn protocol on zkSync Era, allowing users to contribute liquidity and participate in various activities associated with the official launch. Active community participation enables users to accumulate contributions and qualify for the $ZF airdrop.
 
 * [x] Smart Contract Audit
 * [x] Official Launch zkSwap on Mainnet
@@ -56,15 +60,19 @@ Welcome to zkSwap Finance roadmap! This document outlines the primary steps in o
 * [x] Community Expansion
 * [x] Improvement Earning Page UI & UX
 
-### **PHASE 3**
+### **PHASE 3: REPEAT EVOLUTION -> REVOLUTION**
+
+In this phase, zkSwap continually enhances its platform by introducing diverse products, pushing the ecosystem to new heights and maintaining a leading position in blockchain innovation.
 
 * [ ] Web App Development
   * [x] zkFlow-v2
   * [x] zkBridge-v2
   * [x] Zap In - Zap Out
+  * [x] AI Live Chat Support
+  * [x] ZF Paymaster (Account Abstraction)
   * [x] Dexs zkAggregator
-  * [ ] 1st Subsidiary product
   * [ ] UI v1.5
+  * [ ] 1st Subsidiary product
   * [ ] StableSwap
   * [ ] Integrate SwapBoard for StableSwap
   * [ ] 2nd Subsidiary product
@@ -82,9 +90,11 @@ Welcome to zkSwap Finance roadmap! This document outlines the primary steps in o
 * [ ] Community Expansion Campaign
 * [ ] Listing on Top CEXs
 
-### **PHASE 4**
+### **PHASE 4: MULTICHAIN EXPANSION**
 
-* [ ] Keep building, keep improving as repeat evolution -> revolution
+In this phase, zkSwap Finance aims to become a formidable DeFi competitor by expanding across multiple blockchains, fostering strategic partnerships for broader ecosystem integration, and continuously innovating to cater to a diverse global audience.
+
+* [ ] Continuing to innovate and adapt services
 * [ ] Web App Development
   * [ ] Expand zkSwap to multiple networks
   * [ ] Cross-chain Token, Cross-chain Swap-to-Earn

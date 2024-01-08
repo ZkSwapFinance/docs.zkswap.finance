@@ -22,7 +22,7 @@ Kindly reach out to us via these platforms:
 
 <!---->
 
-* Token Whitelist Request: [https://forms.gle/ShkMMrjGYDDjZHPa6](https://forms.gle/ShkMMrjGYDDjZHPa6)
+* Token Whitelist Request: [https://forms.fillout.com/t/bzNGkY3MBhus](https://forms.fillout.com/t/bzNGkY3MBhus)
 * Bug Report: [https://forms.gle/G3e8E7tcCwJnvhvk7](https://forms.gle/G3e8E7tcCwJnvhvk7)
 * Feature Suggestion: [https://forms.gle/3NtE8Wv4ruQ3aR1h6](https://forms.gle/3NtE8Wv4ruQ3aR1h6)
 

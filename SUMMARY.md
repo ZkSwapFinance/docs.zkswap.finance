@@ -60,6 +60,7 @@
 * [💪 Community Resources](resources/community-resources.md)
 * [📰 News Digest](resources/news-digest.md)
 * [👬 About Us](resources/about-us.md)
+* [👬 Copy of About Us](resources/copy-of-about-us.md)
 * [📗 Terms & Disclaimers](resources/terms-and-disclaimers.md)
 
 ***

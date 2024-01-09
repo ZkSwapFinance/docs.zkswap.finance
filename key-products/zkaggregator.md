@@ -4,7 +4,7 @@ description: Unlocking Optimal Cryptocurrency Swaps & a superior User Experience
 
 # 🌿 zkAggregator
 
-#### Try at [https://zkswap.finance/swap](https://zkswap.finance/swap)
+#### Try at [https://zkswap.finance/aggregator](https://zkswap.finance/aggregator)
 
 #### What is zkAggregator?
 

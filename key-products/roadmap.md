@@ -71,7 +71,7 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
   * [x] AI Live Chat Support
   * [x] ZF Paymaster (Account Abstraction)
   * [x] Dexs zkAggregator
-  * [ ] UI v1.5
+  * [ ] Strengthen frontend security
   * [ ] 1st Subsidiary product
   * [ ] StableSwap
   * [ ] Integrate SwapBoard for StableSwap

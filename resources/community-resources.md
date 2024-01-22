@@ -11,7 +11,7 @@
 * [How to join Swap2Earn & SwapBoard](https://www.youtube.com/watch?v=4H7Y3oe\_riM) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
 * [Swap2Earn Explained](https://www.youtube.com/watch?v=8mpOfk1291I)  - contributed by [CryptoWithZach](https://twitter.com/cryptowithzach)
 * [How to Use zkBridge](https://www.youtube.com/watch?v=u6kpCe1aFF0) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
-* How to Use zkFlow
+* [How to Use zkFlow](https://www.youtube.com/watch?v=jcJDYRZWjgc) - contributed by [KySpector](https://twitter.com/ThtGuyKy)
 * How to Vote on zkSwap Finance
 * How to Use Paymaster
 * ....

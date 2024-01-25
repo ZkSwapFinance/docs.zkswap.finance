@@ -37,3 +37,4 @@
 * [Nuevas CRIPTOMONEDAS que te pueden hacer ganar MUCHO DINERO en 2024](https://www.youtube.com/watch?v=4mhtMObhF3E)  - contributed by [AdelinBTC](https://www.youtube.com/@AdelinBTC)
 * [Micro Cap GEM! Why YOU need this Crypto Dex _Uni Swap Killer_](https://www.youtube.com/watch?v=NdcpOQ73kMc)  - contributed by [Drakes Domain](https://www.youtube.com/@Drakes\_Domain)
 * [Earn While Farming the zkSync Airdrop! zkSwap Finance](https://www.youtube.com/watch?v=7QWAfHWZCek) - contributed by [The Brown Gent](https://www.youtube.com/@TheBrownGent)
+* [100-1000X Low Cap Gem](https://www.youtube.com/watch?v=k1-dP82XdyU) - contributed by [Crypto Danks](https://twitter.com/CryptoDanksX)

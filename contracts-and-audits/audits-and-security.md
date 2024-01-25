@@ -15,6 +15,17 @@ Our platform is undergone comprehensive audit conducted by [Certik](https://www.
 **For more details:** [**Certik Audit Report**](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/0\_\[Certik]\_zkSwap\_Finance\_Audit\_Report.pdf)\
 **Certik Skynet:** [**https://skynet.certik.com/projects/zkswap-finance**](https://skynet.certik.com/projects/zkswap-finance)
 
+## Audited by Cyberscope
+
+zkSwap Finance underwent three comprehensive audits conducted by [Cyberscope.io](https://www.cyberscope.io/audits/zkswap-finance), covering Token contracts, Farm Contracts, and DAO Staking Pool contracts. The audits yielded commendable results, with **ZERO** critical or medium findings, reflecting the robust security measures implemented by Zkswap Finance. This provides transparency and accessibility for stakeholders and shows our commitment to security, instilling confidence in users and the broader community about the safety and reliability of our decentralized finance (DeFi) platform.
+
+For your information, Cyberscope is a prominent authority in blockchain security auditing, standing out as a leading service provider in the crypto industry. Renowned for its audits with launchpads such as PinkSale, Unicrypt, and DxSale. Cyberscope's commitment to thorough auditing reinforces its role as a key player in promoting the integrity and reliability of blockchain projects in general and zkSwap Finance in particular.
+
+**For more details:** [**Cyberscope Audit Report**](https://github.com/cyberscope-io/audits/tree/main/zkswap-finance)\
+**Cyberscope security platform:** [**https://www.cyberscope.io/audits/zkswap-finance**](https://www.cyberscope.io/audits/zkswap-finance)
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://x.com/cyberscope_ann/status/1750435343289950341?s=20">https://x.com/cyberscope_ann/status/1750435343289950341?s=20</a></p></figcaption></figure>
+
 ## Audited by Vital Block
 
 [Vital Block](https://vitalblock.org/) offers an extensive security evaluation for smart contracts and blockchain code, pinpointing vulnerabilities and suggesting effective solutions. The company also deliver a professional, thorough, swift, and easily comprehensible smart contract security audit. Vital Block's approach involves in-depth, penetrative analyses encompassing static, manual, automated, and intelligent methods to ensure comprehensive coverage.

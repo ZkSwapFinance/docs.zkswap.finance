@@ -1,4 +1,4 @@
-# Ad Booking Info
+# 🎉 Ad Booking Info
 
 ### 1. Details
 

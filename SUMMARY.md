@@ -61,7 +61,7 @@
 * [📰 News Digest](resources/news-digest.md)
 * [👬 About Us](resources/about-us.md)
 * [📗 Terms & Disclaimers](resources/terms-and-disclaimers.md)
-* [Ad Booking Info](resources/ad-booking-info.md)
+* [🎉 Ad Booking Info](resources/ad-booking-info.md)
 
 ***
 

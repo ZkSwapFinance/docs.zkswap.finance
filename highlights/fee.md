@@ -10,6 +10,6 @@ Fee for a swap can be broken down into two kinds: 1) Rewards for Liquidity Provi
 | --------- | ------------------------------- | ------------ |
 | ETH/USDC  | 0.04%                           | 0.04%        |
 | ZF/ETH    | 0.04%                           | 0.04%        |
-| USDC/USDT | 0.005%                          | 0.005%       |
+| USDC/USDT | 0.04%                           | 0.04%        |
 | WBTC/ETH  | 0.04%                           | 0.04%        |
 | OTHERS    | 0.04%                           | 0.04%        |

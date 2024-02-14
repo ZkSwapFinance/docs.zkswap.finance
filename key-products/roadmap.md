@@ -85,7 +85,7 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
   * [ ] Continuous Improvement UI, UX and Performance
   * [ ] Mobile App
 * [x] Certik Audit
-* [ ] Certik KYC
+* [x] Certik KYC
 * [ ] Certik Bounty
 * [ ] Partner with other DEXs with Vault
 * [ ] Community Expansion Campaign

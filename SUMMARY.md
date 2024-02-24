@@ -10,8 +10,8 @@
 * [🚃 zkBridge](key-products/zkbridge.md)
 * [📖 zkFlow](key-products/zkflow.md)
 * [🎇 ZF Paymaster](key-products/zf-paymaster.md)
-* [☀ Future Products](key-products/future-products.md)
-* [🗺 Roadmap](key-products/roadmap.md)
+* [☀️ Future Products](key-products/future-products.md)
+* [🗺️ Roadmap](key-products/roadmap.md)
 
 ## HIGHLIGHTS
 
@@ -24,16 +24,16 @@
 
 ## DAO & TOKENOMICS
 
-* [♾ Tokenomics](dao-and-tokenomics/tokenomics.md)
+* [♾️ Tokenomics](dao-and-tokenomics/tokenomics.md)
 * [🔆 Token Utilities](dao-and-tokenomics/token-utilities.md)
 * [🤝 Governance via yZF](dao-and-tokenomics/governance-via-yzf.md)
-* [🗒 DAO Proposal Guidelines](dao-and-tokenomics/dao-proposal-guidelines.md)
+* [🗒️ DAO Proposal Guidelines](dao-and-tokenomics/dao-proposal-guidelines.md)
 
 ## CONTRACTS & AUDITS
 
 * [🔎 Smart Contracts](contracts-and-audits/smart-contracts.md)
 * [🔐 Multisig Wallets](contracts-and-audits/multisig-wallets.md)
-* [🛡 Audits & Security](contracts-and-audits/audits-and-security.md)
+* [🛡️ Audits & Security](contracts-and-audits/audits-and-security.md)
 
 ## Tutorials / FAQs
 
@@ -52,7 +52,7 @@
   * [How to Invite-to-Earn](tutorials-faqs/onboarding-zkswap-finance/how-to-invite-to-earn.md)
   * [How to Use zkBridge](tutorials-faqs/onboarding-zkswap-finance/how-to-use-zkbridge.md)
   * [How to Use zkFlow](tutorials-faqs/onboarding-zkswap-finance/how-to-use-zkflow.md)
-* [🗳 How to Vote & Create Proposal](tutorials-faqs/how-to-vote-and-create-proposal.md)
+* [🗳️ How to Vote & Create Proposal](tutorials-faqs/how-to-vote-and-create-proposal.md)
 * [🍮 Syrup Pools FAQs](tutorials-faqs/syrup-pools-faqs.md)
 
 ## Resources

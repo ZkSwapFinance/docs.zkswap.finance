@@ -23,20 +23,25 @@ description: >-
 
 ## Team Members
 
-#### **Founder & CEO: ThunderNoah**
+#### **Founder CEO: Ryan Yang**
 
-* A deeply passionate advocate for blockchain technology and cryptocurrency. With an unbreakable determination and unwavering conviction, the ultimate goal is to infuse the crypto world with creativity, fairness, and transparency.
-* Contact: [Twitter](https://twitter.com/MegaBull\_Noah) | [Binance ](https://www.binance.com/en/feed/profile/Noah\_Edwards)| [Discord](https://discordapp.com/users/1039458159309361212)
+* A marketing professional experienced in both traditional finance and the crypto industry, adept at scaling projects from ideation to execution, with a strong focus on marketing and strategy.
+* Contact: [Telegram ](https://t.me/zkSwap\_Ryan)| [Discord](https://discordapp.com/users/1012326171398131722)
 
-#### **CTO: KailinKool**
+#### **Founder CTO: KailinKool**
 
 * An enthusiast of innovative technology and real-world problem solving, with a firm belief in blockchain and cryptocurrency's transformative potential for fintech's future.
 * Contact: [Discord](https://discord.com/users/1140485299101761607)
 
-#### **CMO: Ryan Yang**
+#### CMO: Christ Lang
 
-* A marketing professional experienced in both traditional finance and the crypto industry., adept at scaling projects from ideation to execution, with a strong focus on marketing.
-* Contact: [Telegram ](https://t.me/zkSwap\_Ryan)| [Discord](https://discordapp.com/users/1012326171398131722)
+* Christ Lang leads zkSwap Finance marketing strategy, blending innovation and data to engage our audience. With a focus on trust and inclusivity, he drives adoption and community growth in the dynamic crypto space.
+* Contact: [Telegram](https://t.me/zkSwap\_Christ)
+
+#### &#x20;**Advisor & Founder: ThunderNoah**
+
+* A pioneering founder championing blockchain and cryptocurrency, now serves as an advisor with a relentless drive for creativity, fairness, and transparency in the crypto world.&#x20;
+* Contact: [Twitter](https://twitter.com/MegaBull\_Noah) | [Binance ](https://www.binance.com/en/feed/profile/Noah\_Edwards)| [Discord](https://discordapp.com/users/1039458159309361212)
 
 #### **Developer: ReshMagic**
 
@@ -50,11 +55,6 @@ description: >-
 #### Intern Developer**:** Ethan Lim
 
 * Contributes fresh perspectives and a thirst for learning, embodying innovation and growth.
-
-#### Business Development: Christ Lang
-
-* Driving growth through strategic partnerships and opportunities.
-* Contact: [Telegram](https://t.me/zkSwap\_Christ)
 
 #### Content Writer**:** Hannah Tan
 

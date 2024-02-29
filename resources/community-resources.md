@@ -21,6 +21,7 @@
 
 ## Articles
 
+* [Gate.io Startup Free Offering](https://www.gate.io/article/34799) - contributed by [Gate.io](https://www.gate.io/)
 * [How to Buy zkSwap Finance (ZF)](https://www.gate.io/how-to-buy/zkswap-finance-zf) - contributed by [Gate.io](https://www.gate.io/)
 * [METAMASK KURULUMU VE ZF TOKEN ALIMI](https://kriptoproje.medium.com/metamask-kurulumu-ve-zf-token-alimi-d378000a9cc8) (Turkish) - contributed by [cihan0xeth](https://twitter.com/cihan0xeth)
 

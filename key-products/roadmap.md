@@ -1,4 +1,4 @@
-# 🗺 Roadmap
+# 🗺️ Roadmap
 
 <figure><img src="../.gitbook/assets/roadmap.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -73,7 +73,7 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
   * [x] Dexs zkAggregator
   * [x] Strengthen frontend security
   * [x] More audits
-  * [ ] 1st Subsidiary product
+  * [x] 1st Subsidiary product
   * [ ] StableSwap
   * [ ] Integrate SwapBoard for StableSwap
   * [ ] 2nd Subsidiary product

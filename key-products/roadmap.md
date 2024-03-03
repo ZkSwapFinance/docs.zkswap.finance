@@ -79,9 +79,9 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
   * [ ] 2nd Subsidiary product
   * [ ] 3rd Subsidiary product
   * [ ] Smart DEXs
-  * [ ] 4rd Subsidiary product
+  * [ ] 4th Subsidiary product
   * [ ] Launchpad
-  * [ ] 5rd Subsidiary product
+  * [ ] 5th Subsidiary product
   * [ ] Continuous Improvement UI, UX and Performance
   * [ ] Mobile App
 * [x] Certik Audit

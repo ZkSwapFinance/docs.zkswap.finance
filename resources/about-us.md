@@ -19,7 +19,7 @@ description: >-
 >
 > "zkSwap Finance CEO - ThunderNoah"
 
-<figure><img src="../.gitbook/assets/AboutUs.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/20.png" alt=""><figcaption></figcaption></figure>
 
 ## Team Members
 
@@ -42,6 +42,11 @@ description: >-
 
 * A pioneering founder championing blockchain and cryptocurrency, now serves as an advisor with a relentless drive for creativity, fairness, and transparency in the crypto world.&#x20;
 * Contact: [Twitter](https://twitter.com/MegaBull\_Noah) | [Binance ](https://www.binance.com/en/feed/profile/Noah\_Edwards)| [Discord](https://discordapp.com/users/1039458159309361212)
+
+#### **BD: Lucas Lee**
+
+* Drives strategic partnerships and business expansion, leveraging his expertise to unlock new opportunities and propel growth.
+* Contact: [Telegram](https://t.me/zkswap\_Lucas) | [Discord](https://discord.com/users/1212659857128292442)
 
 #### **Developer: ReshMagic**
 

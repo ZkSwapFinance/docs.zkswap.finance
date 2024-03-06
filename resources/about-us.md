@@ -26,24 +26,24 @@ description: >-
 #### **Founder CEO: Ryan Yang**
 
 * A marketing professional experienced in both traditional finance and the crypto industry, adept at scaling projects from ideation to execution, with a strong focus on marketing and strategy.
-* Contact: [Telegram ](https://t.me/zkSwap\_Ryan)| [Discord](https://discordapp.com/users/1012326171398131722)
+* Contact: [Telegram ](https://t.me/zkSwap\_Ryan)| [Discord](https://discord.gg/4eHMumaJDA)
 
 #### **Founder CTO: KailinKool**
 
 * An enthusiast of innovative technology and real-world problem solving, with a firm belief in blockchain and cryptocurrency's transformative potential for fintech's future.
-* Contact: [Discord](https://discord.com/users/1140485299101761607)
+* Contact: [Discord](https://discord.gg/4eHMumaJDA)
 
 #### CMO: Christ Lang
 
 * Christ Lang leads zkSwap Finance marketing strategy, blending innovation and data to engage our audience. With a focus on trust and inclusivity, he drives adoption and community growth in the dynamic crypto space.
-* Contact: [Telegram](https://t.me/zkSwap\_Christ)
+* Contact: [Telegram](https://t.me/zkSwap\_Christ) | [Discord](https://discord.gg/4eHMumaJDA)
 
 #### &#x20;**Advisor & Founder: ThunderNoah**
 
 * A pioneering founder championing blockchain and cryptocurrency, now serves as an advisor with a relentless drive for creativity, fairness, and transparency in the crypto world.&#x20;
-* Contact: [Twitter](https://twitter.com/MegaBull\_Noah) | [Binance ](https://www.binance.com/en/feed/profile/Noah\_Edwards)| [Discord](https://discordapp.com/users/1039458159309361212)
+* Contact: [Twitter](https://twitter.com/MegaBull\_Noah) | [Binance ](https://www.binance.com/en/feed/profile/Noah\_Edwards)| [Discord](https://discord.gg/4eHMumaJDA)
 
-#### **BD: Lucas Lee**
+#### **Business Development (BD): Lucas Lee**
 
 * Drives strategic partnerships and business expansion, leveraging his expertise to unlock new opportunities and propel growth.
 * Contact: [Telegram](https://t.me/zkswap\_Lucas) | [Discord](https://discord.com/users/1212659857128292442)

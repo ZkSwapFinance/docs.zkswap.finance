@@ -73,15 +73,15 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
   * [x] Dexs zkAggregator
   * [x] Strengthen frontend security
   * [x] More audits
-  * [x] 1st Subsidiary product
+  * [x] zkHeatmap v1
   * [ ] StableSwap
   * [ ] Integrate SwapBoard for StableSwap
-  * [ ] 2nd Subsidiary product
-  * [ ] 3rd Subsidiary product
+  * [ ] Subsidiary product
+  * [ ] Subsidiary product
   * [ ] Smart DEXs
-  * [ ] 4th Subsidiary product
+  * [ ] Subsidiary product
   * [ ] Launchpad
-  * [ ] 5th Subsidiary product
+  * [ ] Subsidiary product
   * [ ] Continuous Improvement UI, UX and Performance
   * [ ] Mobile App
 * [x] Certik Audit

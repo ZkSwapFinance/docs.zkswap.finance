@@ -66,6 +66,6 @@
 
 ***
 
-* [Token Whitelist Request](https://forms.gle/ShkMMrjGYDDjZHPa6)
+* [Request Form](https://forms.fillout.com/t/bzNGkY3MBhus)
 * [Bug Report](https://forms.gle/G3e8E7tcCwJnvhvk7)
 * [Feature Suggestion](https://forms.gle/3NtE8Wv4ruQ3aR1h6)

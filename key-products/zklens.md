@@ -1,6 +1,8 @@
 # 💎 zkLens
 
-**Try at:** [**https://zkswap.finance/zkHeatmap**](https://zkswap.finance/zkHeatmap)
+
+
+**Try at:** [**https://zkswap.finance/zkLens**](https://zkswap.finance/zkLens)
 
 ### zkLens: Simplifying Your Exploration of zkSync
 

@@ -1,4 +1,6 @@
-# 💎 zkHeatmap
+# 🔥 zkHeatmap
+
+<figure><img src="../.gitbook/assets/home_banner_zk_heatmap (1).webp" alt=""><figcaption><p>Discovering Gems on zkSync Era with ease</p></figcaption></figure>
 
 **Try at:** [**https://zkswap.finance/zkHeatmap**](https://zkswap.finance/zkHeatmap)
 

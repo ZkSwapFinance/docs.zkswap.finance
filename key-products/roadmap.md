@@ -74,9 +74,10 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
   * [x] Strengthen frontend security
   * [x] More audits
   * [x] zkHeatmap v1
+  * [x] $LONG
   * [ ] StableSwap
   * [ ] Integrate SwapBoard for StableSwap
-  * [ ] Subsidiary product
+  * [x] zkLens
   * [ ] Subsidiary product
   * [ ] Smart DEXs
   * [ ] Subsidiary product

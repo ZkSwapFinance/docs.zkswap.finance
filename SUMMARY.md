@@ -8,7 +8,7 @@
 * [💰 zkSwap](key-products/zkswap.md)
 * [🌿 zkAggregator](key-products/zkaggregator.md)
 * [🚃 zkBridge](key-products/zkbridge.md)
-* [💎 zkHeatmap](key-products/zkheatmap.md)
+* [🔥 zkHeatmap](key-products/zkheatmap.md)
 * [💎 zkLens](key-products/zklens.md)
 * [🎇 ZF Paymaster](key-products/zf-paymaster.md)
 * [📖 zkFlow](key-products/zkflow.md)

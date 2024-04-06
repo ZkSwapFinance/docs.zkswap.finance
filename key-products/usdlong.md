@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/LONG header 1500x500.png" alt=""><figcaption><p>Long - The Great Green Dragon</p></figcaption></figure>
 
-**Try at** [**https://long.fun**](https://long.fun)
+**Try at** [**https://long.fun**](https://long.fun) **| Twitter** [**@longxfun**](https://twitter.com/longxfun)
 
 Welcome to the realm of $LONG, a groundbreaking experiment in the world of meme tokens brought to you by the innovative minds behind zkSwap Finance.&#x20;
 

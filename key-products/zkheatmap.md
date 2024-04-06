@@ -14,6 +14,10 @@ Welcome to zkHeatmap, your interactive gateway to the most sizzling tokens and g
 
 📈 **Price Movement:** Keep a finger on the pulse of the latest moonshots and observe how prices fluctuate over time. Stay informed about the most recent developments and anticipate potential investment opportunities.
 
+**💧 Liquidity Analysis:** Plunge into the depths of liquidity dynamics, grasping the stability and robustness of assets within zkSync's thriving ecosystem.&#x20;
+
+**📊 Market Cap/Liquidity Ratio:** Assess the correlation between market capitalization and liquidity, extracting essential insights into asset stability and growth prospects.
+
 Explore the zkHeatmap and unlock insights that can shape your investment decisions. Visit [zkswap.finance/zkHeatmap](https://zkswap.finance/zkHeatmap) to embark on your journey through the zkSync ecosystem.
 
 Don't miss out on the chance to explore the hottest tokens and gems on zkSync. Join us on zkHeatmap and stay ahead of the curve in decentralized finance!

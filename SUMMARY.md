@@ -12,7 +12,7 @@
 * [💎 zkLens](key-products/zklens.md)
 * [🎇 ZF Paymaster](key-products/zf-paymaster.md)
 * [📖 zkFlow](key-products/zkflow.md)
-* [💰 $Long](key-products/usdlong.md)
+* [🐉 $Long](key-products/usdlong.md)
 * [☀️ Future Products](key-products/future-products.md)
 * [🗺️ Roadmap](key-products/roadmap.md)
 

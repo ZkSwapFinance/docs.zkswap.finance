@@ -4,7 +4,7 @@ description: >-
   designed by Noah - the $ZF's mastermind.
 ---
 
-# 💰 $Long
+# 🐉 $Long
 
 <figure><img src="../.gitbook/assets/LONG header 1500x500.png" alt=""><figcaption><p>Long - The Great Green Dragon</p></figcaption></figure>
 

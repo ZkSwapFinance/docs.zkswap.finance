@@ -17,7 +17,7 @@ Scoring Structure:
 <table><thead><tr><th width="213.33333333333331">Acitivity</th><th>Description</th></tr></thead><tbody><tr><td>Swapping</td><td><ul><li>Swap 1$ = 1 zkPoint * Your Boost</li><li>Max zkPoint : Unlimited</li></ul></td></tr><tr><td>Invitation Mission</td><td><ul><li>20% of all invitees zkPoint during active cycle </li><li>5% for lifetime</li><li>Max referral: Unlimited</li></ul></td></tr></tbody></table>
 
 {% hint style="info" %}
-Your Boost = 1 + 400 \* (Your staked ZF in the DAO Pool)/(Total ZF Supply)
+Your Boost = 1 + 300 \* (Your staked ZF in the DAO Pool)/(Total ZF Supply)
 {% endhint %}
 
 ### Cycle

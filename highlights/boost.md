@@ -14,7 +14,7 @@ Ordinarily, a user earns 1 zkPoint for every $1 volume swapped on [SwapBoard](ht
 
 The calculation for Boost is defined by the formula:&#x20;
 
-`Your Boost = 1 + 400 * (Your staked ZF in the DAO Pool)/(Total ZF Supply)`
+`Your Boost = 1 + 300 * (Your staked ZF in the DAO Pool)/(Total ZF Supply)`
 
 _Example:_ Consider Bob, who stakes 1% of the Total ZF Supply in the DAO Staking Pool. His Boost is calculated as (1 + 400 \* 0.01) = 5. \
 Consequently, for every $1 volume he swaps, Bob now receives 5 zkPoints instead of the standard 1 zkPoint, unlocking an enhanced of 5x more rewards through the power of Boost.

@@ -1,4 +1,4 @@
-# 🛡 Audits & Security
+# 🛡️ Audits & Security
 
 At zkSwap Finance, we place a paramount emphasis on the security of our code and the safety of user funds. We recognize the pivotal role these elements play in establishing trust and fostering a secure environment for our users. To achieve this objective, we have implemented a stringent approach encompassing multiple audits and robust security measures.
 
@@ -24,7 +24,7 @@ For your information, Cyberscope is a prominent authority in blockchain security
 **For more details:** [**Cyberscope Audit Report**](https://github.com/cyberscope-io/audits/tree/main/zkswap-finance)\
 **Cyberscope security platform:** [**https://www.cyberscope.io/audits/zkswap-finance**](https://www.cyberscope.io/audits/zkswap-finance)
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption><p><a href="https://x.com/cyberscope_ann/status/1750435343289950341?s=20">https://x.com/cyberscope_ann/status/1750435343289950341?s=20</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p><a href="https://x.com/cyberscope_ann/status/1750435343289950341?s=20">https://x.com/cyberscope_ann/status/1750435343289950341?s=20</a></p></figcaption></figure>
 
 ## Audited by Vital Block
 

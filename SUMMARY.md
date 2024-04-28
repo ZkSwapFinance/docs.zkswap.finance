@@ -10,6 +10,7 @@
 * [🚃 zkBridge](key-products/zkbridge.md)
 * [🔥 zkHeatmap](key-products/zkheatmap.md)
 * [💎 zkLens](key-products/zklens.md)
+* [🫧 zkBubbles](key-products/zkbubbles.md)
 * [🎇 ZF Paymaster](key-products/zf-paymaster.md)
 * [📖 zkFlow](key-products/zkflow.md)
 * [🐉 $Long](key-products/usdlong.md)

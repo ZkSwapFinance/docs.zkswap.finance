@@ -26,6 +26,14 @@ For your information, Cyberscope is a prominent authority in blockchain security
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p><a href="https://x.com/cyberscope_ann/status/1750435343289950341?s=20">https://x.com/cyberscope_ann/status/1750435343289950341?s=20</a></p></figcaption></figure>
 
+## Audited by  SOLID Proof
+
+SolidProof is a leading German-based crypto auditing firm that specializes in smart contract security and functionality. Established in 2020, the company offers comprehensive auditing services, including structural analysis, static analysis, manual code review, and live environment testing. SolidProof's experienced team follows rigorous protocols to identify vulnerabilities, enhance code quality, and optimize gas utilization, providing clients with detailed audit reports and certificates to showcase the legitimacy of their projects.
+
+Detailed Report: [https://github.com/solidproof/projects/tree/main/2024/Zkswap%20Finance](https://github.com/solidproof/projects/tree/main/2024/Zkswap%20Finance)
+
+<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption><p><a href="https://x.com/solidproof_news/status/1770087507138322859">https://x.com/solidproof_news/status/1770087507138322859</a></p></figcaption></figure>
+
 ## Audited by Vital Block
 
 [Vital Block](https://vitalblock.org/) offers an extensive security evaluation for smart contracts and blockchain code, pinpointing vulnerabilities and suggesting effective solutions. The company also deliver a professional, thorough, swift, and easily comprehensible smart contract security audit. Vital Block's approach involves in-depth, penetrative analyses encompassing static, manual, automated, and intelligent methods to ensure comprehensive coverage.
@@ -42,18 +50,19 @@ MythX™ is a premier automatic security analysis service for Ethereum smart con
 
 * mainnet-contracts: [https://github.com/ZkSwapFinance/mainnet-contracts](https://github.com/ZkSwapFinance/mainnet-contracts)
 * zf-periphery: [https://github.com/ZkSwapFinance/zf-periphery](https://github.com/ZkSwapFinance/zf-periphery)
+* All MythX audit reports: [https://github.com/ZkSwapFinance/Audit-Reports](https://github.com/ZkSwapFinance/Audit-Reports)
 
-| Smart Contract      |                                                                Address                                                               | Audit Report                                                                                                         |
-| ------------------- | :----------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------- |
-| Router              | [0x18381c0f738146Fb694DE18D1106BdE2BE040Fa4](https://explorer.zksync.io/address/0x18381c0f738146Fb694DE18D1106BdE2BE040Fa4#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/2\_MythX\_DEX\_Full\_Report.pdf)                   |
-| ZF Token            | [0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A](https://explorer.zksync.io/address/0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf)                 |
-| ZF Farm             | [0x9F9D043fB77A194b4216784Eb5985c471b979D67](https://explorer.zksync.io/address/0x9F9D043fB77A194b4216784Eb5985c471b979D67#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/5\_MythX\_Farm\_Full\_Report.pdf)                  |
-| yZF                 | [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer.zksync.io/address/0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/7\_MythX\_yZFToken\_Full\_Report.pdf)              |
-| Governance Staking  | [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer.zksync.io/address/0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/8\_MythX\_ZFGovernanceStaking\_Full\_Report.pdf)   |
-| Paymaster           | [0xABcA8CFDfa2a4285A4704BF960fb45E49821762F](https://explorer.zksync.io/address/0xABcA8CFDfa2a4285A4704BF960fb45E49821762F#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/10\_MythX\_ZFPaymaster\_Full\_Report.pdf)          |
-| Swap2Earn Rewarder  | [0xF4dAc6647f4c56DE2a8BE120e5a830B5bD5Aae91](https://explorer.zksync.io/address/0xF4dAc6647f4c56DE2a8BE120e5a830B5bD5Aae91#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/9\_MythX\_ZFSwap2EarnRewarder\_Full\_Report.pdf)   |
-| TGE Launchpad       | [0x723b715987b7E1B6C7872809b5B694dA153eAdD6](https://explorer.zksync.io/address/0x723b715987b7E1B6C7872809b5B694dA153eAdD6#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf)                 |
-| Galxe Campaign Pool | [0x3Cd6A09A60867643C80A2e6e22ab4D83368e0F89](https://explorer.zksync.io/address/0x3Cd6A09A60867643C80A2e6e22ab4D83368e0F89#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/6\_MythX\_Galxe\_Campaign\_Pool\_Full\_Report.pdf) |
+| Smart Contract      |                                                                Address                                                               | Audit Report                                                                                                          |
+| ------------------- | :----------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------- |
+| Router              | [0x18381c0f738146Fb694DE18D1106BdE2BE040Fa4](https://explorer.zksync.io/address/0x18381c0f738146Fb694DE18D1106BdE2BE040Fa4#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/2\_MythX\_DEX\_Full\_Report.pdf)                    |
+| ZF Token            | [0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A](https://explorer.zksync.io/address/0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf)                  |
+| ZF Farm             | [0x9F9D043fB77A194b4216784Eb5985c471b979D67](https://explorer.zksync.io/address/0x9F9D043fB77A194b4216784Eb5985c471b979D67#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/5\_MythX\_Farm\_Full\_Report.pdf)                   |
+| yZF                 | [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer.zksync.io/address/0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/7\_MythX\_yZFToken\_Full\_Report.pdf)               |
+| Governance Staking  | [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer.zksync.io/address/0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/8\_MythX\_ZFGovernanceStaking\_Full\_Report.pdf)    |
+| Paymaster           | [0xABcA8CFDfa2a4285A4704BF960fb45E49821762F](https://explorer.zksync.io/address/0xABcA8CFDfa2a4285A4704BF960fb45E49821762F#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/10\_MythX\_ZFPaymaster\_Full\_Report.pdf)           |
+| Swap2Earn Rewarder  | [0xF4dAc6647f4c56DE2a8BE120e5a830B5bD5Aae91](https://explorer.zksync.io/address/0xF4dAc6647f4c56DE2a8BE120e5a830B5bD5Aae91#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/9\_MythX\_ZFSwap2EarnRewarder\_Full\_Report.pdf)    |
+| TGE Launchpad       | [0x723b715987b7E1B6C7872809b5B694dA153eAdD6](https://explorer.zksync.io/address/0x723b715987b7E1B6C7872809b5B694dA153eAdD6#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/4\_MythX\_Token\_Full\_Report.pdf)                  |
+| Galxe Campaign Pool | [0x3Cd6A09A60867643C80A2e6e22ab4D83368e0F89](https://explorer.zksync.io/address/0x3Cd6A09A60867643C80A2e6e22ab4D83368e0F89#contract) | [Report](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/6\_MythX\_Galxe\_Campaign\_Pool\_Full\_Report.pdf)  |
 
 ## Timelock Controllers & Multisig Wallets Security Mechanism
 

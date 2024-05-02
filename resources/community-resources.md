@@ -27,6 +27,7 @@
 
 ## From Enthusiasts
 
+* [The Most Undervalued Altcoin (50-100x)](https://www.youtube.com/watch?v=mm5DiE\_qnPo) - contributed by [Crypto Seth](https://www.youtube.com/@cryptoseth)
 * [ZKswap is Making Millionaires RIGHT NOW!](https://www.youtube.com/watch?v=ZZ75W\_UwlZ8) - contributed by [Crypto Danks](https://twitter.com/CryptoDanksX)
 * [The Next Big DEX!! ZKSwap Finance (ZF) Review - DON'T MISS OUT](https://www.youtube.com/watch?v=HW9HGvmLYUM) - contributed by [CryptoWithZach](https://twitter.com/cryptowithzach)
 * [Zkswap Finance The next GEM From zkSync Era ecosystem](https://www.youtube.com/watch?v=oiKRpV5R-VE) - contributed by [CryptoProfeta.eth](https://twitter.com/Cryptoprofeta1)

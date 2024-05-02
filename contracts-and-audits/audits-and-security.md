@@ -52,18 +52,6 @@ MythX™ is a premier automatic security analysis service for Ethereum smart con
 * zf-periphery: [https://github.com/ZkSwapFinance/zf-periphery](https://github.com/ZkSwapFinance/zf-periphery)
 * All MythX audit reports: [https://github.com/ZkSwapFinance/Audit-Reports](https://github.com/ZkSwapFinance/Audit-Reports)
 
-| Smart Contract      | Address                                                                                                                              |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Router              | [0x18381c0f738146Fb694DE18D1106BdE2BE040Fa4](https://explorer.zksync.io/address/0x18381c0f738146Fb694DE18D1106BdE2BE040Fa4#contract) |
-| ZF Token            | [0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A](https://explorer.zksync.io/address/0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A#contract) |
-| ZF Farm             | [0x9F9D043fB77A194b4216784Eb5985c471b979D67](https://explorer.zksync.io/address/0x9F9D043fB77A194b4216784Eb5985c471b979D67#contract) |
-| yZF                 | [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer.zksync.io/address/0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987#contract) |
-| Governance Staking  | [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer.zksync.io/address/0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987#contract) |
-| Paymaster           | [0xABcA8CFDfa2a4285A4704BF960fb45E49821762F](https://explorer.zksync.io/address/0xABcA8CFDfa2a4285A4704BF960fb45E49821762F#contract) |
-| Swap2Earn Rewarder  | [0xF4dAc6647f4c56DE2a8BE120e5a830B5bD5Aae91](https://explorer.zksync.io/address/0xF4dAc6647f4c56DE2a8BE120e5a830B5bD5Aae91#contract) |
-| TGE Launchpad       | [0x723b715987b7E1B6C7872809b5B694dA153eAdD6](https://explorer.zksync.io/address/0x723b715987b7E1B6C7872809b5B694dA153eAdD6#contract) |
-| Galxe Campaign Pool | [0x3Cd6A09A60867643C80A2e6e22ab4D83368e0F89](https://explorer.zksync.io/address/0x3Cd6A09A60867643C80A2e6e22ab4D83368e0F89#contract) |
-
 ## Timelock Controllers & Multisig Wallets Security Mechanism
 
 Utilized for safeguarding the platform's smart contracts, [Timelock Controllers](https://docs.zkswap.finance/contracts-and-audits/smart-contracts) and [Multisig Wallets](https://docs.zkswap.finance/contracts-and-audits/multisig-wallets) serve to introduce delays in actions by the contract owner, showcasing commitment and mitigating risks within the realm of DeFi.

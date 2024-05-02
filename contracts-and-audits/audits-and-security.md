@@ -28,7 +28,7 @@ For your information, Cyberscope is a prominent authority in blockchain security
 
 ## Audited by  SOLID Proof
 
-SolidProof is a leading German-based crypto auditing firm that specializes in smart contract security and functionality. Established in 2020, the company offers comprehensive auditing services, including structural analysis, static analysis, manual code review, and live environment testing. SolidProof's experienced team follows rigorous protocols to identify vulnerabilities, enhance code quality, and optimize gas utilization, providing clients with detailed audit reports and certificates to showcase the legitimacy of their projects.
+[SolidProof ](https://solidproof.io/)is a leading German-based crypto auditing firm that specializes in smart contract security and functionality. Established in 2020, the company offers comprehensive auditing services, including structural analysis, static analysis, manual code review, and live environment testing. SolidProof's experienced team follows rigorous protocols to identify vulnerabilities, enhance code quality, and optimize gas utilization, providing clients with detailed audit reports and certificates to showcase the legitimacy of their projects.
 
 Detailed Report: [https://github.com/solidproof/projects/tree/main/2024/Zkswap%20Finance](https://github.com/solidproof/projects/tree/main/2024/Zkswap%20Finance)
 

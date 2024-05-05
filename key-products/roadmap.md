@@ -79,7 +79,8 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
   * [ ] Integrate SwapBoard for StableSwap
   * [x] zkLens
   * [x] ZF Paymaster V2 (Gasless swap for $ZF & $LONG Holders)
-  * [ ] Subsidiary product
+  * [x] zkBubbles
+  * [ ] Revamp UI 1.1
   * [ ] Smart DEXs
   * [ ] Subsidiary product
   * [ ] Launchpad

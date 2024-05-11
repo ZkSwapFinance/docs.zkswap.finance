@@ -66,6 +66,7 @@
 * [👬 About Us](resources/about-us.md)
 * [📗 Terms & Disclaimers](resources/terms-and-disclaimers.md)
 * [🎉 Ad Booking Info](resources/ad-booking-info.md)
+* [📒 Brand Kit & Logos](resources/brand-kit-and-logos.md)
 
 ***
 

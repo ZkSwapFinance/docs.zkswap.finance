@@ -30,7 +30,7 @@ For your information, Cyberscope is a prominent authority in blockchain security
 
 [SolidProof ](https://solidproof.io/)is a leading German-based crypto auditing firm that specializes in smart contract security and functionality. Established in 2020, the company offers comprehensive auditing services, including structural analysis, static analysis, manual code review, and live environment testing. SolidProof's experienced team follows rigorous protocols to identify vulnerabilities, enhance code quality, and optimize gas utilization, providing clients with detailed audit reports and certificates to showcase the legitimacy of their projects.
 
-Detailed Report: [https://github.com/solidproof/projects/tree/main/2024/Zkswap%20Finance](https://github.com/solidproof/projects/tree/main/2024/Zkswap%20Finance)
+**Detailed Report:** [**https://github.com/solidproof/projects/tree/main/2024/Zkswap%20Finance**](https://github.com/solidproof/projects/tree/main/2024/Zkswap%20Finance)
 
 <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption><p><a href="https://x.com/solidproof_news/status/1770087507138322859">https://x.com/solidproof_news/status/1770087507138322859</a></p></figcaption></figure>
 
@@ -38,7 +38,7 @@ Detailed Report: [https://github.com/solidproof/projects/tree/main/2024/Zkswap%2
 
 [Vital Block](https://vitalblock.org/) offers an extensive security evaluation for smart contracts and blockchain code, pinpointing vulnerabilities and suggesting effective solutions. The company also deliver a professional, thorough, swift, and easily comprehensible smart contract security audit. Vital Block's approach involves in-depth, penetrative analyses encompassing static, manual, automated, and intelligent methods to ensure comprehensive coverage.
 
-Detailed Report: [Vital Block Github](https://github.com/Vital-block/Smart-Contract-Audit/blob/main/ZKSWAP%20FINANCE%20AUDIT%20REPORT.pdf)
+**Detailed Report:** [**Vital Block Github**](https://github.com/Vital-block/Smart-Contract-Audit/blob/main/ZKSWAP%20FINANCE%20AUDIT%20REPORT.pdf)
 
 <figure><img src="../.gitbook/assets/image (42).png" alt="" width="563"><figcaption><p><a href="https://twitter.com/VB_Audit/status/1674643373574045696">https://twitter.com/VB_Audit/status/1674643373574045696</a></p></figcaption></figure>
 
@@ -51,6 +51,16 @@ MythX™ is a premier automatic security analysis service for Ethereum smart con
 * mainnet-contracts: [https://github.com/ZkSwapFinance/mainnet-contracts](https://github.com/ZkSwapFinance/mainnet-contracts)
 * zf-periphery: [https://github.com/ZkSwapFinance/zf-periphery](https://github.com/ZkSwapFinance/zf-periphery)
 * All MythX audit reports: [https://github.com/ZkSwapFinance/Audit-Reports](https://github.com/ZkSwapFinance/Audit-Reports)
+
+## Audited by Bail Security
+
+zkSwap Finance recently underwent a meticulous audit conducted by Bail Security, **Bailsec.io**, focusing on the DAO Staking Pool v2 contract. The audit resulted in commendable findings, with identified bugs promptly addressed. These outcomes underscore the robust security measures embedded within Zkswap Finance, fostering transparency and accessibility for stakeholders. This underscores our unwavering commitment to security, bolstering user and community confidence in the safety and reliability of our Swap2Earn decentralized finance (DeFi) platform.
+
+BAIL Security, known as Bailsec.io, is a leading blockchain security firm specializing in smart contract audits. With a focus on ensuring the integrity of decentralized projects, Bailsec.io conducts thorough evaluations using manual reviews, automated analysis, and penetration testing. Their structured audit process, coupled with experienced auditors, aims to provide clients with insights into potential vulnerabilities and recommendations for secure deployments in the blockchain space.
+
+**Detailed report:** [**Bailsec Audit Report**](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20zkSwap%20Final%20Report%20Github%20\(%2BResolution\).pdf)
+
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption><p><a href="https://x.com/bailsecurity/status/1788204838175588370">https://x.com/bailsecurity/status/1788204838175588370</a></p></figcaption></figure>
 
 ## Timelock Controllers & Multisig Wallets Security Mechanism
 

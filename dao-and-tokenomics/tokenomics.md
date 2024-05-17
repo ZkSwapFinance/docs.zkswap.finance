@@ -10,7 +10,7 @@
 
 ### 2. Token Emission Schedule
 
-<figure><img src="../.gitbook/assets/Circulating supply.svg" alt=""><figcaption><p>$ZF Token Emission estimation, starting from Sep 2023</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Circulating supply.svg" alt="" width="563"><figcaption><p>$ZF Token Emission estimation, starting from Sep 2023</p></figcaption></figure>
 
 ### 3. Token Allocation
 

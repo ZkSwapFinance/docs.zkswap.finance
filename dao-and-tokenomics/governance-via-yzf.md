@@ -8,7 +8,7 @@ description: >-
 
 ### 1. Governance Token & Voting Portal&#x20;
 
-Governance token: yZF at [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer.zksync.io/address/0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987#contract)
+Governance token: yZF at[ 0x056f1960b5CF53676AD9C0A7113363A812DC0c8e](https://explorer.zksync.io/address/0x056f1960b5CF53676AD9C0A7113363A812DC0c8e)&#x20;
 
 Our voting portal: [https://vote.zkswap.finance/](https://vote.zkswap.finance/). Within this portal, you'll find:
 
@@ -19,7 +19,7 @@ Our voting portal: [https://vote.zkswap.finance/](https://vote.zkswap.finance/).
 
 yZF is a token that represents voting power. Its quantity is determined by the amount of ZF deposited into the DAO Staking Pool by the user and technically represent your share of the pool.&#x20;
 
-Verified DAO Staking Pool Contract: [0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987](https://explorer.zksync.io/address/0x4Ca2aC3513739ceBF053B66a1d59C88d925f1987#contract)
+Verified DAO Staking Pool Contract: [0x056f1960b5CF53676AD9C0A7113363A812DC0c8e](https://explorer.zksync.io/address/0x056f1960b5CF53676AD9C0A7113363A812DC0c8e)
 
 ### 3. Why should you convert ZF to yZF?&#x20;
 

@@ -6,7 +6,7 @@ Kindly reach out to us via these platforms:
 * [x] Document: [https://zkswapfinance.gitbook.io/zkswap/](https://zkswapfinance.gitbook.io/zkswap/)
 * [x] Twitter: [https://twitter.com/zkSwap\_finance](https://twitter.com/zkSwap\_finance)
 * [x] Debank: [https://debank.com/official-account/111776](https://debank.com/official-account/111776)
-* [x] Discord: [https://discord.gg/4eHMumaJDA](https://discord.gg/4eHMumaJDA)
+* [x] Discord: [https://discord.gg/zkswap-finance](https://discord.gg/zkswap-finance)
 * [x] Telegram Announcements: [https://t.me/zkSwap\_Finance\_ANN](https://t.me/zkSwap\_Finance\_ANN)
 * [x] Telegram Support Group: [https://t.me/zkSwap\_Finance\_Official](https://t.me/zkSwap\_Finance\_Official)
 * [x] Github: [https://github.com/ZkSwapFinance](https://github.com/ZkSwapFinance)

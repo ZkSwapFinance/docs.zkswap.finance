@@ -28,7 +28,7 @@ We encourage you to read our [Ethos & Value](https://docs.zkswap.finance/resourc
 * **Website:** [**https://zkswap.finance/**](https://zkswap.finance/)
 * **Twitter:** [**https://twitter.com/zkSwap\_finance**](https://twitter.com/zkSwap\_finance)
 * **Debank:** [**https://debank.com/official-account/111776**](https://debank.com/official-account/111776)
-* **Discord:** [**https://discord.gg/4eHMumaJDA**](https://discord.gg/4eHMumaJDA)
+* **Discord:** [**https://discord.gg/zkswap-finance**](https://discord.gg/zkswap-finance)
 * **Telegram:** [**https://t.me/zkSwap\_Announcement**](https://t.me/zkSwap\_Announcement)
 * **Linktree:** [**https://linktr.ee/zkswap\_finance**](https://linktr.ee/zkswap\_finance)
 

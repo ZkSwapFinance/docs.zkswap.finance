@@ -8,7 +8,7 @@ description: Downloadable assets like the zkSwap Finance logos SVG/JPG/PNG
 
 ### zkSwap Finance Brand Kit & Logos
 
-You can download the zipped files below or unzipped files at [https://github.com/ZkSwapFinance/brand-kit](https://github.com/ZkSwapFinance/brand-kit)
+You can download unzipped files at [https://github.com/ZkSwapFinance/brand-kit](https://github.com/ZkSwapFinance/brand-kit) or zipped files below &#x20;
 
 {% file src="../.gitbook/assets/zkswap-finance-brand-kit.zip" %}
 zkSwap Finance Brand Kit

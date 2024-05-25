@@ -46,7 +46,7 @@ description: >-
 #### **Business Development (BD): Lucas Lee**
 
 * Drives strategic partnerships and business expansion, leveraging his expertise to unlock new opportunities and propel growth.
-* Contact: [Telegram](https://t.me/zkswap\_Lucas) | [Discord](https://discord.com/users/1212659857128292442)
+* Contact: [Telegram](https://t.me/ZF\_Lucas) | [Discord](https://discord.com/users/1212659857128292442)
 
 #### **Developer: ReshMagic**
 

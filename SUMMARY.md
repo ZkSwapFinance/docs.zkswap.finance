@@ -59,6 +59,10 @@
 * [🗳️ How to Vote & Create Proposal](tutorials-faqs/how-to-vote-and-create-proposal.md)
 * [🍮 Syrup Pools FAQs](tutorials-faqs/syrup-pools-faqs.md)
 
+## Brand Assets
+
+* [📒 Brand Kit & Logos](brand-assets/brand-kit-and-logos.md)
+
 ## Resources
 
 * [💪 Community Resources](resources/community-resources.md)
@@ -66,7 +70,6 @@
 * [👬 About Us](resources/about-us.md)
 * [📗 Terms & Disclaimers](resources/terms-and-disclaimers.md)
 * [🎉 Ad Booking Info](resources/ad-booking-info.md)
-* [📒 Brand Kit & Logos](resources/brand-kit-and-logos.md)
 
 ***
 

@@ -89,7 +89,7 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
   * [ ] Mobile App
 * [x] Certik Audit
 * [x] Certik KYC
-* [ ] Certik Bounty
+* [x] Certik Bug Bounty
 * [ ] Community Expansion Campaign
 * [ ] Listing on Top CEXs
 

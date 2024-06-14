@@ -14,7 +14,7 @@ Remember to Register for the [Swap2Earn ](https://zkswap.finance/swapboard)campa
 
 Scoring Structure:
 
-<table><thead><tr><th width="213.33333333333331">Acitivity</th><th>Description</th></tr></thead><tbody><tr><td>Swapping</td><td><ul><li>Swap 1$ = 1 zkPoint * Your Boost</li><li>Max zkPoint : Unlimited</li></ul></td></tr><tr><td>Invitation Mission</td><td><ul><li>20% of all invitees zkPoint during active cycle </li><li>5% for lifetime</li><li>Max referral: Unlimited</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="213.33333333333331">Acitivity</th><th>Description</th></tr></thead><tbody><tr><td>Swapping</td><td><ul><li>Swap 1$ = 1 ZFPoint * Your Boost</li><li>Max ZFPoint: Unlimited</li></ul></td></tr><tr><td>Invitation Mission</td><td><ul><li>20% of all invitees ZFPoint during active cycle </li><li>5% for lifetime</li><li>Max referral: Unlimited</li></ul></td></tr></tbody></table>
 
 {% hint style="info" %}
 Your Boost = 1 + 300 \* (Your staked ZF in the DAO Pool)/(Total ZF Supply)
@@ -24,13 +24,13 @@ Your Boost = 1 + 300 \* (Your staked ZF in the DAO Pool)/(Total ZF Supply)
 
 Each cycle starts on the 1st and 16th of each month and ends just before the beginning of a new cycle.&#x20;
 
-To ensure a level playing field, the rankings and zkPoint will be reset automatically at the end of each cycle. This gives all users an equal opportunity to earn rewards every cycle.
+To ensure a level playing field, the rankings and ZFPoint will be reset automatically at the end of each cycle. This gives all users an equal opportunity to earn rewards every cycle.
 
 ### Reward:
 
 Total Reward: The total reward for the Swap2Earn is 20% (200.000.000 $ZF) of the total supply over 3 years.
 
-Cycle rewards are determined by time and emission rate, and distributed proportionally based on zkSwap zkPoint.
+Cycle rewards are determined by time and emission rate, and distributed proportionally based on zkSwap ZFPoint.
 
 Claim Time: rewards are distributed on the 1st and 16th of every month and can be claimed at [https://zkswap.finance/earn/rewards](https://zkswap.finance/earn/rewards)
 
@@ -47,4 +47,4 @@ $$
 
 ### **Example**:
 
-<table><thead><tr><th></th><th width="249.33333333333331"></th><th></th></tr></thead><tbody><tr><td>Cycle</td><td>1</td><td>2</td></tr><tr><td>Your Swap Volume</td><td>$100</td><td>$100</td></tr><tr><td>Your Boost</td><td>1x</td><td>2x</td></tr><tr><td>Your Cycle zkPoint </td><td>100</td><td>200</td></tr><tr><td>Total Cycle zkPoint </td><td>2000</td><td>2000</td></tr><tr><td>Your Reward Percent </td><td>5%</td><td>10%</td></tr><tr><td>Total Cycle Reward</td><td>10000 $ZF</td><td>10000 $ZF</td></tr><tr><td>Your Reward</td><td>500 $ZF</td><td>1000 $ZF</td></tr></tbody></table>
+<table><thead><tr><th></th><th width="249.33333333333331"></th><th></th></tr></thead><tbody><tr><td>Cycle</td><td>1</td><td>2</td></tr><tr><td>Your Swap Volume</td><td>$100</td><td>$100</td></tr><tr><td>Your Boost</td><td>1x</td><td>2x</td></tr><tr><td>Your Cycle ZFPoint</td><td>100</td><td>200</td></tr><tr><td>Total Cycle ZFPoint</td><td>2000</td><td>2000</td></tr><tr><td>Your Reward Percent </td><td>5%</td><td>10%</td></tr><tr><td>Total Cycle Reward</td><td>10000 $ZF</td><td>10000 $ZF</td></tr><tr><td>Your Reward</td><td>500 $ZF</td><td>1000 $ZF</td></tr></tbody></table>

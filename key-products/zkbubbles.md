@@ -1,6 +1,6 @@
 # 🫧 zkBubbles
 
-**Try at:**[ **https://zkswap.finance/zkBubbles**](https://zkswap.finance/zkBubbles)
+**Try at:**[ **https://zkswap.finance/zkBubbles**](https://zkswap.finance/zkBubbles) **or** [**https://zkbubbles.info**](https://zkbubbles.info)
 
 ### zkBubbles: Exploring the dynamic worlds of gems on zkSync
 

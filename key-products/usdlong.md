@@ -6,7 +6,7 @@ description: >-
 
 # 🐉 $Long
 
-<figure><img src="../.gitbook/assets/LONG header 1500x500.png" alt=""><figcaption><p>Long - The Great Green Dragon</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Banner Twitter.png" alt=""><figcaption><p>Long - ZKsync Dragon Meme Coin</p></figcaption></figure>
 
 **Try at** [**https://Long.Fun**](https://long.fun) **| Twitter** [**@longxfun**](https://twitter.com/longxfun)
 

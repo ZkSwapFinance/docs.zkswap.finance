@@ -73,16 +73,16 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
   * [x] Dexs zkAggregator
   * [x] Strengthen frontend security
   * [x] More audits
-  * [x] zkHeatmap v1
+  * [x] zkHeatmap
   * [x] $LONG
   * [ ] StableSwap
   * [ ] Integrate SwapBoard for StableSwap
   * [x] zkLens
   * [x] ZF Paymaster V2 (Gasless swap for $ZF & $LONG Holders)
   * [x] zkBubbles
-  * [ ] Revamp UI 1.1
+  * [x] Revamp UI 1.1
+  * [x] zkPortfolio
   * [ ] Smart DEXs
-  * [ ] Subsidiary product
   * [ ] Launchpad
   * [ ] Subsidiary product
   * [ ] Continuous Improvement UI, UX and Performance

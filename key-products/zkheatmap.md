@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/home_banner_zk_heatmap (1).webp" alt=""><figcaption><p>Discovering Gems on zkSync Era with ease</p></figcaption></figure>
 
-**Try at:** [**https://zkswap.finance/zkHeatmap**](https://zkswap.finance/zkHeatmap)
+**Try at:** [**https://zkswap.finance/zkHeatmap**](https://zkswap.finance/zkHeatmap) **or** [**https://zkHeatmap.info**](https://zkheatmap.info)
 
 ### zkHeatmap: Explore the Hottest Tokens and Gems on zkSync
 

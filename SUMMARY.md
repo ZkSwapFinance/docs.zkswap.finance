@@ -57,6 +57,7 @@
   * [How to Invite-to-Earn](tutorials-faqs/onboarding-zkswap-finance/how-to-invite-to-earn.md)
   * [How to Use zkBridge](tutorials-faqs/onboarding-zkswap-finance/how-to-use-zkbridge.md)
   * [How to Use zkFlow](tutorials-faqs/onboarding-zkswap-finance/how-to-use-zkflow.md)
+  * [How to Join DuoEarn](tutorials-faqs/onboarding-zkswap-finance/how-to-join-duoearn.md)
 * [🗳️ How to Vote & Create Proposal](tutorials-faqs/how-to-vote-and-create-proposal.md)
 * [🍮 Syrup Pools FAQs](tutorials-faqs/syrup-pools-faqs.md)
 

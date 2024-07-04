@@ -6,6 +6,8 @@ description: >-
 
 # 📖 zkPortfolio
 
+<figure><img src="../.gitbook/assets/zkPort.jpg" alt=""><figcaption></figcaption></figure>
+
 **Try at** [**https://zkswap.finance/zkPort**](https://zkswap.finance/zkport) **or** [**https://zkport.info**](https://zkflow.info)
 
 zkPortfolio is a comprehensive portfolio management platform that empowers users to track their digital assets on ZKsync. It provides a holistic view of your portfolio, encompassing asset distribution, trading access, chart viewing, etc.

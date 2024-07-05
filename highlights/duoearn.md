@@ -4,7 +4,7 @@
 
 ### Overview
 
-DuoEarn is a liquidity farming program that allows users to earn rewards in both $ZK and $ZF tokens. By adding liquidity to specified pairs, users can enjoy a combination of fixed $ZK rewards, $ZF farming rewards, and trading fees.
+DuoEarn is a juicy liquidity farming incentive program that allows users to earn rewards in both ZKsync $ZK and zkSwap Finance $ZF tokens. By adding liquidity to specified pairs, users can enjoy a combination of fixed $ZK rewards, $ZF farming rewards, and trading fees.
 
 ### Key Features
 
@@ -21,7 +21,9 @@ DuoEarn is a liquidity farming program that allows users to earn rewards in both
 
 ### Getting Started
 
-#### Step-by-Step Guide
+#### Short video tutorial: [https://docs.zkswap.finance/tutorials-faqs/onboarding-zkswap-finance/how-to-join-duoearn](https://docs.zkswap.finance/tutorials-faqs/onboarding-zkswap-finance/how-to-join-duoearn)&#x20;
+
+#### Step-by-Step Guide:&#x20;
 
 1. **Connect Wallet:** Visit [DuoEarn](https://zkswap.finance/duoearn) and connect your wallet.
 2. **Add Liquidity & Farm:** Navigate to the "Pools & Farm" page and add liquidity to one of the eligible pairs.
@@ -33,5 +35,5 @@ DuoEarn is a liquidity farming program that allows users to earn rewards in both
 
 Please ensure you understand the risks involved in providing liquidity and farming before participating in DuoEarn. The value of tokens and returns can fluctuate based on market conditions.
 
-For any issues or queries, refer to the short video tutorial available [here](https://docs.zkswap.finance/tutorials-faqs/onboarding-zkswap-finance/how-to-join-duoearn) or contact our support [Discord server](https://discord.gg/zkswap-finance).
+For any issues or queries, please open a ticket in [Discord server](https://discord.gg/zkswap-finance) or find support in our [Telegram group](https://t.me/zkSwap\_Finance\_Official) and/or [Discord server](https://discord.gg/zkswap-finance).
 

@@ -4,7 +4,7 @@ description: >-
   a revolutionary incentive program for both traders & liquidity providers.
 ---
 
-# 💰 zkSwap
+# 💱 zkSwap
 
 <figure><img src="../.gitbook/assets/swap2earn.png" alt=""><figcaption></figcaption></figure>
 

@@ -5,7 +5,7 @@
 
 ## KEY PRODUCTS
 
-* [💰 zkSwap](key-products/zkswap.md)
+* [💱 zkSwap](key-products/zkswap.md)
 * [🌿 zkAggregator](key-products/zkaggregator.md)
 * [🚃 zkBridge](key-products/zkbridge.md)
 * [🔥 zkHeatmap](key-products/zkheatmap.md)
@@ -21,7 +21,7 @@
 ## HIGHLIGHTS
 
 * [💡 Swap2Earn](highlights/swap2earn.md)
-* [🪙 DuoEarn](highlights/duoearn.md)
+* [💰 DuoEarn](highlights/duoearn.md)
 * [🪙 Farm2Earn](highlights/farm2earn.md)
 * [👥 Affiliate | Referral Program](highlights/affiliate-or-referral-program.md)
 * [🍄 Boost](highlights/boost.md)

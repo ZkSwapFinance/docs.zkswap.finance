@@ -1,4 +1,4 @@
-# 🪙 DuoEarn
+# 💰 DuoEarn
 
 <figure><img src="../.gitbook/assets/1400x392.png" alt=""><figcaption></figcaption></figure>
 

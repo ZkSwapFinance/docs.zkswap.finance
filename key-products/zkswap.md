@@ -26,7 +26,7 @@ The ability to swap tokens on zkSwap relies on the presence of ample liquidity f
 
 zkSwap Finance introduces Swap2Earn, a distinctive feature designed to incentivize user participation on our platform, fostering a competitive environment for traders and recognizing the contributions of traders.
 
-Our guiding principle is simple: "The more you contribute, the more rewards you receive." The SwapBoard diligently monitors all swap activities and ensures that participants are duly rewarded based on their engagement. A personalized dashboard consolidates all activities, providing users with a comprehensive overview of their swapping contributions.
+Our guiding principle is simple: "The more you contribute, the more rewards you receive." The Swap2Earn diligently monitors all swap activities and ensures that participants are duly rewarded based on their engagement. A personalized dashboard consolidates all activities, providing users with a comprehensive overview of their swapping contributions.
 
 ### Farm2Earn
 

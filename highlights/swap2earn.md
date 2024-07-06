@@ -6,10 +6,10 @@
 
 The **Swap2Earn** offered by zkSwap Finance is a unique and distinctive feature that encourages users to engage with our platform, creating a competitive atmosphere for traders and honoring ALL user participation.
 
-Our motto is "the more you contribute, the more rewards you receive." The [SwapBoard ](https://zkswap.finance/swapboard)tracks all trading activities on the platform and rewards all participants accordingly. Activities are consolidated in a personalized dashboard.
+Our motto is "the more you contribute, the more rewards you receive." The [Swap2Earn](https://zkswap.finance/swap2earn) Board tracks all trading activities on the platform and rewards all participants accordingly. Activities are consolidated in a personalized dashboard.
 
 {% hint style="info" %}
-Remember to Register for the [Swap2Earn ](https://zkswap.finance/swapboard)campaign. Register only once for a lifetime
+Remember to Register for the[ Swap2Earn ](https://zkswap.finance/swap2earn)campaign. Register only once for a lifetime
 {% endhint %}
 
 Scoring Structure:
@@ -42,8 +42,8 @@ $$
 
 ### How To Participate **Swap2Earn**&#x20;
 
-* Access to [https://zkswap.finance/swapboard](https://zkswap.finance/swapboard)
-* Click "Register" Button and create your profile ([tutorial](broken-reference))
+* Access to [https://zkswap.finance/swap2earn](https://zkswap.finance/swap2earn)
+* Click "Register" Button and create your profile ([tutorial](../tutorials-faqs/onboarding-zkswap-finance/how-to-join-swap2earn.md))
 
 ### **Example**:
 

@@ -5,21 +5,26 @@ description: >-
   backgrounds and possess a wide range of skill
 ---
 
-# 👬 About Us
+# 👬 Team (Certik KYC Silver Verified)
+
+The 3 co-founders are KYCed and verified with a Silver Badge by the prestigious Certik.\
+Details: [https://skynet.certik.com/projects/zkswap-finance](https://skynet.certik.com/projects/zkswap-finance)
+
+<figure><img src=".gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 ## Ethos & Value
 
-> "Our mission at zkSwap Finance is centered around innovation, sustainability, and transparency. We believe in creating an environment where everyone is respected, valued, and rewarded for their contributions. Whether you're a trader, an investor, a content creator, or a regular user, there is a place for you in our community.
+> "At zkSwap Finance, our mission revolves around innovation, sustainability, and transparency. We're dedicated to fostering an inclusive environment where everyone's contributions are respected and valued.&#x20;
 >
-> We are committed to constantly improving our product, and we listen to and absorb feedback from everyone, including our users, backers, and team members. We strive to create a unique and innovative product that is sustainable in the long term.
+> Continuous improvement is at the core of our ethos. We actively listen to and absorb feedback from our users, backers, and team members to enhance our product continually. Our aim is to develop a unique and sustainable product that stands the test of time.&#x20;
 >
-> To achieve our goals, we focus on three key areas: innovation in our protocol services, sustainability in our economic model, and transparency in our reward and operating policies. We believe that transparency is crucial to building a strong community, and we strive to create an open and honest environment where everyone is informed and rewarded for their efforts.
+> Our focus lies in three key areas: innovating our protocol services, ensuring sustainability in our economic model, and maintaining transparency in our reward and operating policies. Transparency is paramount in fostering a robust community, and we're committed to fostering an open and honest environment where everyone feels informed and appreciated.&#x20;
 >
-> We are excited to invite you to join us on this journey toward innovation, sustainability, and transparency in the zkSwap Finance protocol. Together, we can continue to learn, build, and innovate, and create a brighter future for all."
+> We're thrilled to extend an invitation to you to join us on this journey toward innovation, sustainability, and transparency within the zkSwap Finance protocol. Together, let's learn, build, and innovate, shaping a brighter future for all."
 >
-> "zkSwap Finance CEO - ThunderNoah"
+> "zkSwap Finance CEO - Ryan Yang"
 
-<figure><img src="../.gitbook/assets/20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/20.png" alt=""><figcaption></figcaption></figure>
 
 ## Team Members
 
@@ -73,3 +78,8 @@ description: >-
 
 * Fostering a vibrant and engaged community.
 * Contact: [Telegram](https://t.me/Jenko1222)
+
+#### Artist: Ido Long
+
+* Create the best meme for[ $Long - ZKsync Dragon Meme Coin](https://x.com/LongxFun)&#x20;
+

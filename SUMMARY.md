@@ -2,6 +2,7 @@
 
 * [👋 Introduction](README.md)
 * [🌎 Official Links](official-links.md)
+* [👬 Team (Certik KYC Silver Verified)](team-certik-kyc-silver-verified.md)
 
 ## KEY PRODUCTS
 
@@ -70,7 +71,6 @@
 
 * [💪 Community Resources](resources/community-resources.md)
 * [📰 News Digest](resources/news-digest.md)
-* [👬 About Us](resources/about-us.md)
 * [📗 Terms & Disclaimers](resources/terms-and-disclaimers.md)
 * [🎉 Ad Booking Info](resources/ad-booking-info.md)
 

@@ -7,8 +7,8 @@ description: >-
 
 # 👬 Team (Certik KYC Silver Verified)
 
-The 3 co-founders are KYCed and verified with a Silver Badge by the prestigious Certik.\
-Details: [https://skynet.certik.com/projects/zkswap-finance](https://skynet.certik.com/projects/zkswap-finance)
+**The 3 co-founders are KYCed and verified with a Silver Badge by the prestigious Certik.**\
+**Details:** [**https://skynet.certik.com/projects/zkswap-finance**](https://skynet.certik.com/projects/zkswap-finance)
 
 <figure><img src=".gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
@@ -53,18 +53,22 @@ Details: [https://skynet.certik.com/projects/zkswap-finance](https://skynet.cert
 * Drives strategic partnerships and business expansion, leveraging his expertise to unlock new opportunities and propel growth.
 * Contact: [Telegram](https://t.me/ZF\_Lucas) | [Discord](https://discord.com/users/1212659857128292442)
 
-#### **Developer: ReshMagic**
+#### **Full-Stack Developer: ReshMagic**
 
 * A dedicated developer with an innate ability to turn impossible challenges into tangible digital solutions, always striving to push the boundaries of innovation.
 * Contact: [Discord](https://discordapp.com/users/1079941397890740294)
 
-#### Front-end Developer**:** Jason Goh
+#### Full-stack Developer**:** Jason Goh
 
 * Bringing seamless user interfaces to life, combining design finesse with technical expertise.
 
-#### Intern Developer**:** Ethan Lim
+#### Front-end Developer**:** Ethan Lim
 
 * Contributes fresh perspectives and a thirst for learning, embodying innovation and growth.
+
+#### Front-end Developer**:** Dylan Lee
+
+* Passionate about learning new technologies and contributing to meaningful projects
 
 #### Content Writer**:** Hannah Tan
 
@@ -74,12 +78,16 @@ Details: [https://skynet.certik.com/projects/zkswap-finance](https://skynet.cert
 
 * Elevates projects with artistic vision, enhancing our brand image and user experience.
 
-#### Community Moderator: Jenko
+#### UI/UX Designer**: Mike Wolfe**
 
-* Fostering a vibrant and engaged community.
-* Contact: [Telegram](https://t.me/Jenko1222)
+* Crafting intuitive and visually appealing user interfaces and great user experiences.
 
 #### Artist: Ido Long
 
 * Create the best meme for[ $Long - ZKsync Dragon Meme Coin](https://x.com/LongxFun)&#x20;
+
+#### Community Moderator: Jenko
+
+* Fostering a vibrant and engaged community.
+* Contact: [Telegram](https://t.me/Jenko1222)
 

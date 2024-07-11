@@ -24,7 +24,7 @@ description: >-
 >
 > "zkSwap Finance CEO - Ryan Yang"
 
-<figure><img src=".gitbook/assets/20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/BG.webp" alt=""><figcaption></figcaption></figure>
 
 ## Team Members
 

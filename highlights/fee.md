@@ -14,6 +14,6 @@ Fee for a swap can be broken down into two kinds: 1) Rewards for Liquidity Provi
 | WBTC/ETH  | 0.04%                           | 0.04%        |
 | LONG/ETH  | 0.5%                            | 0.5%         |
 | LONG/ZF   | 0.5%                            | 0.5%         |
-| ZK/ZF     | 0.08%                           | 0.08%        |
+| ZK/ZF     | 0.12%                           | 0.12%        |
 | ZF/ETH    | 0.04%                           | 0.04%        |
 | OTHERS    | 0.04%                           | 0.04%        |

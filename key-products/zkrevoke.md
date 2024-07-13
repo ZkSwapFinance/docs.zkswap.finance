@@ -4,9 +4,7 @@ description: >-
   network. Manage your crypto assets with our friendly UI and stay in control.
 ---
 
-# 📂 zkRevoke
-
-<figure><img src="../.gitbook/assets/zkPort.jpg" alt=""><figcaption></figcaption></figure>
+# 🔐 zkRevoke
 
 **Try at** [**https://zkswap.finance/zkRevoke**](https://zkswap.finance/zkRevoke) **or** [**https://zkrevoke.info**](https://zkswap.finance/zkRevoke)
 

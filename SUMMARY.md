@@ -15,7 +15,7 @@
 * [🎇 ZF Paymaster](key-products/zf-paymaster.md)
 * [📖 zkFlow](key-products/zkflow.md)
 * [📂 zkPortfolio](key-products/zkportfolio.md)
-* [📂 zkRevoke](key-products/zkrevoke.md)
+* [🔐 zkRevoke](key-products/zkrevoke.md)
 * [🐉 $Long](key-products/usdlong.md)
 * [☀️ Future Products](key-products/future-products.md)
 * [🗺️ Roadmap](key-products/roadmap.md)
@@ -40,7 +40,7 @@
 ## CONTRACTS & AUDITS
 
 * [🔎 Smart Contracts](contracts-and-audits/smart-contracts.md)
-* [🔐 Multisig Wallets](contracts-and-audits/multisig-wallets.md)
+* [🗝️ Multisig Wallets](contracts-and-audits/multisig-wallets.md)
 * [🛡️ Audits & Security](contracts-and-audits/audits-and-security.md)
 
 ## Tutorials / FAQs

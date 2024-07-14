@@ -1,6 +1,6 @@
 # 💎 zkLens
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Try at:** [**https://zkswap.finance/zkLens**](https://zkswap.finance/zkLens) **or** [**https://zkLens.info**](https://zklens.info)
 

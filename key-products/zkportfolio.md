@@ -4,9 +4,9 @@ description: >-
   sleek dashboard. Novel feature: convert small balances to $ZF & $LONG easily
 ---
 
-# 📖 zkPortfolio
+# 📂 zkPortfolio
 
-<figure><img src="../.gitbook/assets/zkPort.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 **Try at** [**https://zkswap.finance/zkPort**](https://zkswap.finance/zkport) **or** [**https://zkport.info**](https://zkflow.info)
 

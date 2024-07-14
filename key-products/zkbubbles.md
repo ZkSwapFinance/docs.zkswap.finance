@@ -1,14 +1,18 @@
+---
+description: >-
+  Exploring the dynamic worlds of gems on zkSync Era with the attractive bubbles
+  visualizations
+---
+
 # 🫧 zkBubbles
 
-<figure><img src="../.gitbook/assets/zkbubbles (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Try at:**[ **https://zkswap.finance/zkBubbles**](https://zkswap.finance/zkBubbles) **or** [**https://zkbubbles.info**](https://zkbubbles.info)
 
 ### zkBubbles: Exploring the dynamic worlds of gems on zkSync
 
 Navigate the dynamic world of zkSync with zkBubbles, an interactive visualization tool designed to transform your exploration. zkBubbles presents information in a captivating bubble format, making data analysis effortless and intuitive.
-
-
 
 ### Discover the Highlights:
 

@@ -6,7 +6,7 @@ description: >-
 
 # 🔐 zkRevoke
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Try at** [**https://zkswap.finance/zkRevoke**](https://zkswap.finance/zkRevoke) **or** [**https://zkrevoke.info**](https://zkswap.finance/zkRevoke)
 

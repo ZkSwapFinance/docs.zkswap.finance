@@ -1,5 +1,7 @@
 ---
-description: Unlocking Optimal Cryptocurrency Swaps & a superior User Experience
+description: >-
+  Unlocking Optimal Cryptocurrency Swaps & a superior User Experience.
+  Streamlining the process of finding the best exchange rates for your swap.
 ---
 
 # 🌿 zkAggregator

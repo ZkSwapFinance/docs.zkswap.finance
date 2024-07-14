@@ -24,7 +24,7 @@ For your information, Cyberscope is a prominent authority in blockchain security
 **For more details:** [**Cyberscope Audit Report**](https://github.com/cyberscope-io/audits/tree/main/zkswap-finance)\
 **Cyberscope security platform:** [**https://www.cyberscope.io/audits/zkswap-finance**](https://www.cyberscope.io/audits/zkswap-finance)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption><p><a href="https://x.com/cyberscope_ann/status/1750435343289950341?s=20">https://x.com/cyberscope_ann/status/1750435343289950341?s=20</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption><p><a href="https://x.com/cyberscope_ann/status/1750435343289950341?s=20">https://x.com/cyberscope_ann/status/1750435343289950341?s=20</a></p></figcaption></figure>
 
 ## Audited by  SOLID Proof
 

@@ -1,5 +1,7 @@
 ---
-description: Seamless token transfers between multiple blockchains
+description: >-
+  Seamless token transfers between multiple blockchains with cheap fee, fast
+  transactions, and insurance.
 ---
 
 # 🚃 zkBridge

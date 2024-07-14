@@ -1,3 +1,9 @@
+---
+description: >-
+  Your interactive gateway to the hottest tokens and trends on zkSync. Explore
+  the zkSync ecosystem and uncover the latest trends with the familiar Heatmap.
+---
+
 # 🔥 zkHeatmap
 
 <figure><img src="../.gitbook/assets/home_banner_zk_heatmap (1).webp" alt=""><figcaption><p>Discovering Gems on zkSync Era with ease</p></figcaption></figure>

@@ -1,7 +1,8 @@
 ---
 description: >-
   Powered by zkSync Era, zkSwap AMM protocol offers a superior user experience &
-  a revolutionary incentive program for both traders & liquidity providers.
+  a revolutionary Swap2Earn incentive program for the traders & and Farm2Earn
+  for the liquidity providers.
 ---
 
 # 💱 zkSwap

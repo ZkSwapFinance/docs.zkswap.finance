@@ -1,6 +1,6 @@
 # 🗺️ Roadmap
 
-<figure><img src="../.gitbook/assets/roadmap.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/roadmap.jpg" alt=""><figcaption></figcaption></figure>
 
 Welcome to zkSwap Finance roadmap! This document outlines the primary steps in our plans, providing a main trajectory for our collective efforts. It's important to note that this roadmap is a flexible guide, and revisions may be made as needed. We value adaptability and welcome any adjustments that will contribute to the success of our project. Let's embark on this journey together, confident in our ability to navigate and refine our path to success.
 
@@ -75,16 +75,16 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
   * [x] More audits
   * [x] zkHeatmap
   * [x] $LONG
-  * [ ] StableSwap
-  * [ ] Integrate SwapBoard for StableSwap
   * [x] zkLens
   * [x] ZF Paymaster V2 (Gasless swap for $ZF & $LONG Holders)
   * [x] zkBubbles
   * [x] Revamp UI 1.1
   * [x] zkPortfolio
+  * [x] zkRevoke
+  * [ ] StableSwap
+  * [ ] Integrate Swap2Earn for StableSwap
   * [ ] Smart DEXs
   * [ ] Launchpad
-  * [ ] Subsidiary product
   * [ ] Continuous Improvement UI, UX and Performance
   * [ ] Mobile App
 * [x] Certik Audit
@@ -102,5 +102,5 @@ In this phase, zkSwap Finance aims to become a formidable DeFi competitor by exp
   * [ ] Expand zkSwap to multiple networks
   * [ ] Cross-chain Token, Cross-chain Swap-to-Earn
 
-### [**Join Our Community For More Information**](../official-links.md) 
+### [**Join Our Community For More Information**](official-links.md) 
 

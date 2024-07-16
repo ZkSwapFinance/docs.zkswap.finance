@@ -3,6 +3,7 @@
 * [👋 Introduction](README.md)
 * [🌎 Official Links](official-links.md)
 * [👬 Team (Certik KYC Silver Verified)](team-certik-kyc-silver-verified.md)
+* [🗺️ Roadmap](roadmap.md)
 
 ## KEY PRODUCTS
 
@@ -18,7 +19,6 @@
 * [🔐 zkRevoke](key-products/zkrevoke.md)
 * [🐉 $Long](key-products/usdlong.md)
 * [☀️ Future Products](key-products/future-products.md)
-* [🗺️ Roadmap](key-products/roadmap.md)
 
 ## HIGHLIGHTS
 

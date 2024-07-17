@@ -10,9 +10,9 @@
 * [💱 zkSwap](key-products/zkswap.md)
 * [🌿 zkAggregator](key-products/zkaggregator.md)
 * [🚃 zkBridge](key-products/zkbridge.md)
+* [🫧 zkBubbles](key-products/zkbubbles.md)
 * [🔥 zkHeatmap](key-products/zkheatmap.md)
 * [💎 zkLens](key-products/zklens.md)
-* [🫧 zkBubbles](key-products/zkbubbles.md)
 * [🎇 ZF Paymaster](key-products/zf-paymaster.md)
 * [📖 zkFlow](key-products/zkflow.md)
 * [📂 zkPortfolio](key-products/zkportfolio.md)
@@ -61,6 +61,7 @@
   * [How to Use zkBridge](tutorials-faqs/onboarding-zkswap-finance/how-to-use-zkbridge.md)
   * [How to Use zkFlow](tutorials-faqs/onboarding-zkswap-finance/how-to-use-zkflow.md)
   * [How to Join DuoEarn](tutorials-faqs/onboarding-zkswap-finance/how-to-join-duoearn.md)
+  * [How to use Safe Multisig Wallet](tutorials-faqs/onboarding-zkswap-finance/how-to-use-safe-multisig-wallet.md)
 * [🗳️ How to Vote & Create Proposal](tutorials-faqs/how-to-vote-and-create-proposal.md)
 * [🍮 Syrup Pools FAQs](tutorials-faqs/syrup-pools-faqs.md)
 

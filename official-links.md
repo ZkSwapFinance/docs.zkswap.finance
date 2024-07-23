@@ -6,7 +6,7 @@ Kindly reach out to us via these platforms:
 
 * [x] Website: [https://zkswap.finance/](https://zkswap.finance/)
 * [x] Fully Decentralized Website: [https://zkswapfinance.eth.limo](https://zkswapfinance.eth.limo)
-* [x] Shortcut domains: 1/[ zkBubbles.info](https://zkbubbles.info)  2/ [zkHeatmap.info](https://zkheatmap.info) 3/ [zkLens.info](https://zklens.info) 4/ [zkFlow.info](https://zkflow.info) 5/ [zkMeme.info](https://zkmeme.info) 6/ [zkGems.info](https://zkgems.info) 7/ [zkPort.info](https://zkswap.finance/zkport/)
+* [x] Shortcut domains: 1/[ zkBubbles.info](https://zkbubbles.info)  2/ [zkHeatmap.info](https://zkheatmap.info) 3/ [zkLens.info](https://zklens.info) 4/ [zkFlow.info](https://zkflow.info) 5/ [zkMeme.info](https://zkmeme.info) 6/ [zkGems.info](https://zkgems.info) 7/ [zkPort.info](https://zkswap.finance/zkport/) 8/ [zkRevoke.info](https://zkrevoke.info)
 * [x] $Long: [https://long.fun](https://long.fun/) & [https://linktr.ee/longxfun](https://linktr.ee/longxfun)
 
 #### Link curators:

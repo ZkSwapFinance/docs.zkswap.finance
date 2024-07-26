@@ -11,7 +11,7 @@
 
 #### Official zkSync RPC: [https://era.zksync.io/docs/dev/building-on-zksync/interacting.html#connecting-to-zksync-era-on-metamask](https://era.zksync.io/docs/dev/building-on-zksync/interacting.html#connecting-to-zksync-era-on-metamask)
 
-* Network Name: zkSync Era Mainnet&#x20;
+* Network Name: zkSync Mainnet&#x20;
 * RPC URL: https://mainnet.era.zksync.io&#x20;
 * Chain ID: 324&#x20;
 * Currency Symbol: ETH&#x20;

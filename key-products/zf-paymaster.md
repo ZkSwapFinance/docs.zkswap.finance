@@ -2,7 +2,8 @@
 
 <figure><img src="../.gitbook/assets/home_banner_paymaster.png" alt=""><figcaption><p>zkSwap Finance Paymaster: A zkSync Era Native Solution</p></figcaption></figure>
 
-**Try at:** [**https://zkswap.finance/swap**](https://zkswap.finance/swap)
+**Try at:** [**https://zkswap.finance/swap**](https://zkswap.finance/swap)\
+**List of** [**ZF Paymaster smart contracts**](../contracts-and-audits/smart-contracts.md#zf-paymasters)
 
 ### zkSwap Finance Paymaster: A zkSync Era Native Solution
 
@@ -13,3 +14,4 @@
 * **Gas Free Swap Transactions:** Holders $LONG & $yZF (staked $ZF) never have to pay swap gas fees anymore. Rules: 1. Min Vol. $20 2. Hold minimum 100K $yZF or 1B $LONG. Remember to use token as gas fee (Paymaster) instead of ETH for gas.
 * **EOA Compatibility:** Unlike Smart Wallets, which have limitations with EOAs, zkSwap Finance's Paymaster feature fully supports EOAs, enabling a broader range of users to benefit from gasless transactions.
 * **Seamless User Experience:** Users can enjoy account abstraction transactions without the need to deploy Smart Wallets or manage multiple wallets. This simplifies the user experience and makes DeFi more accessible.
+

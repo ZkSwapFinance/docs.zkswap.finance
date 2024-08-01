@@ -2,6 +2,8 @@
 
 <figure><img src="../.gitbook/assets/1400x392.png" alt=""><figcaption></figcaption></figure>
 
+### Total Rewards Pool: 4,000,000 $ZK&#x20;
+
 ### Overview
 
 DuoEarn is a juicy liquidity farming incentive program that allows users to earn rewards in both ZKsync $ZK and zkSwap Finance $ZF tokens. By adding liquidity to specified pairs, users can enjoy a combination of fixed $ZK rewards, $ZF farming rewards, and trading fees.

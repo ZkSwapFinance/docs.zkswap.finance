@@ -54,19 +54,6 @@ _**Example:**_ let's assume User Bob wants to stake 20 ZF in the DAO Staking Poo
 
 ### 5. How to Unstake ZF from DAO Staking Pool?
 
-If you choose to unstake ZF from the DAO Staking Pool, you will incur a 1% unstake fee, which will be redistributed to others in the DAO Pool. So, if you hold for a longer period, you'll earn more.
+If you choose to unstake ZF from the DAO Staking Pool, you will incur a 1% unstake fee on the withdrawal amount. This fee will be automatically burned.
 
-_**Example:**_ let's consider User Ryan, who has 6 yZF and wishes to unstake their ZF from the DAO Staking Pool.
-
-* When Ryan unstakes 6 yZF, a 1% withdrawal fee will be deducted, leaving them with 59.4 ZF.&#x20;
-* The 0.6 ZF, derived from the 1% withdrawal fee, will be distributed among all users in the DAO Pool.&#x20;
-* Bob's share in the pool is 2/6, equivalent to 33.33%. Consequently, Bob will receive an additional 0.2 ZF
-
-| Text                 | Before Ryan Unstaking | After Ryan Unstaking |
-| -------------------- | --------------------- | -------------------- |
-| Total ZF in DAO Pool | 120                   | 60.6                 |
-| Total yZF Supply     | 12                    | 6                    |
-| Ryan's ZF            | 0                     | 59.4                 |
-| Ryan's yZF           | 6                     | 0                    |
-| Bob's yZF            | 2                     | 2                    |
-| Bob's Shares         | 16.67%                | 33.33%               |
+_**Example:**_ You have 200 ZF in pool. If you unstake the maximum amount, you’ll receive 198 ZF, with a unstake fee of 2 ZF burned. If you unstake 100 ZF, you’ll receive 99 ZF, with a unstake fee of 1 ZF burned. Your remaining 100 ZF is still compounded in the pool.&#x20;

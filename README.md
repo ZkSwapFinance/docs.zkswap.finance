@@ -6,7 +6,7 @@ On our platform on zkSync Era (Layer 2 of Ethereum), you can expect a novel, dis
 
 We encourage you to read our [Ethos & Value](https://docs.zkswap.finance/resources/about-us) to learn more about our commitments.
 
-<figure><img src=".gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/zkswap_finance_2.png" alt=""><figcaption></figcaption></figure>
 
 ### Earn zkSwap Finance token $ZF with any of the following activities:
 

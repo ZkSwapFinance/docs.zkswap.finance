@@ -9,7 +9,7 @@ DuoEarn tutorial video
 ### Simple steps
 
 1. Head to the **Pools** page at [https://zkswap.finance/pools](https://zkswap.finance/pools)
-2. Add a minimum of $20 value in any of these pairs: **ZK-ETH, ZF-ETH,** or **ETH-USDC.**
+2. Add a minimum of **$10** value in any of these pairs: **ZK-ETH, ZF-ETH,** or **ETH-USDC.**
 3. Head to the **Farm** page at [https://zkswap.finance/earn/farm](https://zkswap.finance/earn/farm)
 4. Deposit into the farms.
 5. Head to the DuoEarn page at [https://zkswap.finance/duoearn](https://zkswap.finance/duoearn)

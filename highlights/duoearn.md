@@ -29,7 +29,7 @@ DuoEarn is a juicy liquidity farming incentive program that allows users to earn
 
 1. **Connect Wallet:** Visit [DuoEarn](https://zkswap.finance/duoearn) and connect your wallet.
 2. **Add Liquidity & Farm:** Navigate to the "Pools & Farm" page and add liquidity to one of the eligible pairs.
-3. **Join DuoEarn:** Click "Join Now" (minimum $20 value LP required to prevent bots).
+3. **Join DuoEarn:** Click "Join Now" (minimum $10 value LP required to prevent bots).
 
 **No Extra Actions Required:** after these steps, $ZK and $ZF rewards will be auto-calculated, and you won't need to take any further action.
 

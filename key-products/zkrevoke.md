@@ -1,7 +1,7 @@
 ---
 description: >-
-  Revoke token approvals & permissions securely on ZKsync EVM L2 Ethereum
-  network. Manage your crypto assets with our friendly UI and stay in control.
+  Revoke token approvals & permissions securely on multiple networks. Manage
+  your crypto assets with our friendly UI and stay in control.
 ---
 
 # 🔐 zkRevoke
@@ -10,7 +10,13 @@ description: >-
 
 **Try at** [**https://zkswap.finance/zkRevoke**](https://zkswap.finance/zkRevoke) **or** [**https://zkrevoke.info**](https://zkswap.finance/zkRevoke)
 
-zkRevoke is a specialized tool designed for the ZKsync Era, an EVM-compatible Layer 2 solution on the Ethereum network. Our platform enables users to securely revoke token approvals and manage permissions with ease, ensuring complete control over their crypto assets. Explore our user-friendly interface and manage your crypto assets effortlessly
+zkRevoke is a specialized tool designed to securely revoke token approvals and manage permissions with ease, ensuring complete control over their crypto assets. Explore our user-friendly interface and manage your crypto assets effortlessly
+
+### Current Support Networks
+
+* **ZKsync Era**
+* **Scroll**
+* **Linea**
 
 ### **Key Features:**
 

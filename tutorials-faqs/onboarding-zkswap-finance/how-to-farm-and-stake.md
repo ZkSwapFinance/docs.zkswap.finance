@@ -9,9 +9,7 @@
 5. Enter the desired amount or hit "**Max**" to stake all. Then hit "**Deposit**" again
 6. Continue to confirm on Metamask wallet and wait for the transaction to complete
 
-{% embed url="https://youtu.be/9yc0MekoxZY?si=Nd6HIci8pYYXiaFQ" %}
-Farming tutorial video
-{% endembed %}
+{% embed url="https://youtu.be/MpKELMV8vUk" %}
 
 ### 2. How to Stake
 
@@ -22,6 +20,4 @@ Farming tutorial video
 5. Enter the desired amount or hit "**Max**" to stake all. Then hit "**Stake**" again
 6. Continue to confirm on Metamask wallet and wait for the transaction to complete
 
-{% embed url="https://youtu.be/VjgAerZh6GQ" %}
-How to stake into zkSwap Finance Staking Pools
-{% endembed %}
+{% embed url="https://www.youtube.com/watch?v=2H8VQ8_6LTc" %}

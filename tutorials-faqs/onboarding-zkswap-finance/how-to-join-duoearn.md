@@ -2,9 +2,9 @@
 
 Kindly watch the explanation video below for more info on how to join DuoEarn to earn both ZKsync Token **$ZK** and zkSwap Finance token **$ZF** at the same time.
 
-{% embed url="https://www.youtube.com/watch?v=tn4NbG7JEoc" %}
-DuoEarn tutorial video
-{% endembed %}
+
+
+{% embed url="https://www.youtube.com/watch?v=GTBomVVw3pc" %}
 
 ### Simple steps
 

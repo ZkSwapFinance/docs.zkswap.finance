@@ -12,10 +12,6 @@
 You only need to "Register" once.
 {% endhint %}
 
-{% embed url="https://youtu.be/4zLvBWOxa6U" %}
-SwapBoard registration tutorial video
-{% endembed %}
-
 ### 2. How to Swap2Earn
 
 1. Head to our website at [https://zkswap.finance/swap](https://zkswap.finance/swap) and connect your wallet
@@ -23,4 +19,6 @@ SwapBoard registration tutorial video
 3. Visit [https://zkswap.finance/swap2earn](https://zkswap.finance/swap2earn) to see your zkPoint updated. If not, please refresh the page.
 4. Your reward proportional to your zkPoint. Reward distributed on the 1st & 16th monthly. More info at [Swap2Earn](../../highlights/swap2earn.md)
 
-{% embed url="https://www.youtube.com/watch?v=-4oj_IRL_90" %}
+**Here's a video on how to join and do Swap2Earn on zkSwap Finance**
+
+{% embed url="https://youtu.be/WG6Sb0jgH7w" %}

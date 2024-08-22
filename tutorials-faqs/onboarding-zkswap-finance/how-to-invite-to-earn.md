@@ -7,9 +7,7 @@
 3. Connect wallet if you haven't done so, then hit "**Copy Link**" or "**Share to Twitter**"
 4. Share the link to your friends or they can access it via the post on your Twitter
 
-{% embed url="https://youtu.be/Ue6Fcesr2Yc" %}
-Share-to-Earn tutorial video
-{% endembed %}
+{% embed url="https://www.youtube.com/watch?v=hFwbneE5IaM" %}
 
 {% hint style="info" %}
 As long as your friends register using your referral link, you're guaranteed to receive a passive bonus when they have any swapping activities.

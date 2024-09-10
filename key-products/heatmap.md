@@ -4,15 +4,15 @@ description: >-
   the zkSync ecosystem and uncover the latest trends with the familiar Heatmap.
 ---
 
-# 🔥 zkHeatmap
+# 🔥 Heatmap
 
 <figure><img src="../.gitbook/assets/home_banner_zk_heatmap (1).webp" alt=""><figcaption><p>Discovering Gems on zkSync Era with ease</p></figcaption></figure>
 
-**Try at:** [**https://zkswap.finance/zkHeatmap**](https://zkswap.finance/zkHeatmap) **or** [**https://zkHeatmap.info**](https://zkheatmap.info)
+**Try at:** [**https://zkswap.finance/Heatmap**](https://zkswap.finance/Heatmap) **or** [**https://zkHeatmap.info**](https://zkheatmap.info)
 
-### zkHeatmap: Explore the Hottest Tokens and Gems on zkSync
+### Heatmap: Explore the Hottest Tokens and Gems on zkSync
 
-Welcome to zkHeatmap, your interactive gateway to the most sizzling tokens and gems on zkSync. With zkHeatmap, you can dive deep into the dynamics of the zkSync ecosystem and uncover the trends shaping the decentralized finance landscape.
+Welcome to Heatmap, your interactive gateway to the most sizzling tokens and gems on zkSync. With Heatmap, you can dive deep into the dynamics of the zkSync ecosystem and uncover the trends shaping the decentralized finance landscape.
 
 ### Discover the Highlights:
 
@@ -26,6 +26,6 @@ Welcome to zkHeatmap, your interactive gateway to the most sizzling tokens and g
 
 **📊 Market Cap/Liquidity Ratio:** Assess the correlation between market capitalization and liquidity, extracting essential insights into asset stability and growth prospects.
 
-Explore the zkHeatmap and unlock insights that can shape your investment decisions. Visit [zkswap.finance/zkHeatmap](https://zkswap.finance/zkHeatmap) to embark on your journey through the zkSync ecosystem.
+Explore the Heatmap and unlock insights that can shape your investment decisions. Visit [zkswap.finance/Heatmap](https://zkswap.finance/Heatmap) to embark on your journey through the zkSync ecosystem.
 
-Don't miss out on the chance to explore the hottest tokens and gems on zkSync. Join us on zkHeatmap and stay ahead of the curve in decentralized finance!
+Don't miss out on the chance to explore the hottest tokens and gems on zkSync. Join us on Heatmap and stay ahead of the curve in decentralized finance!

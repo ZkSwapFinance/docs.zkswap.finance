@@ -4,15 +4,15 @@ description: >-
   visualizations
 ---
 
-# 🫧 zkBubbles
+# 🫧 Bubbles
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-**Try at:**[ **https://zkswap.finance/zkBubbles**](https://zkswap.finance/zkBubbles) **or** [**https://zkbubbles.info**](https://zkbubbles.info)
+**Try at:** [**https://zkswap.finance/Bubbles**](https://zkswap.finance/Bubbles) **or** [**https://zkbubbles.info**](https://zkbubbles.info)
 
-### zkBubbles: Exploring the dynamic worlds of gems on zkSync
+### Bubbles: Exploring the dynamic worlds of gems on zkSync
 
-Navigate the dynamic world of zkSync with zkBubbles, an interactive visualization tool designed to transform your exploration. zkBubbles presents information in a captivating bubble format, making data analysis effortless and intuitive.
+Navigate the dynamic world of zkSync with Bubbles, an interactive visualization tool designed to transform your exploration. zkBubbles presents information in a captivating bubble format, making data analysis effortless and intuitive.
 
 ### Discover the Highlights:
 
@@ -20,7 +20,7 @@ Navigate the dynamic world of zkSync with zkBubbles, an interactive visualizatio
 
 💎 **Unearth hidden gems:** Identify promising projects with undervalued market capitalization. Spot potential for exponential growth within the zkSync ecosystem.
 
-👒 **Stay informed, make informed decisions:** Track price fluctuations and liquidity depth to understand asset stability and growth potential. zkBubbles empowers you to navigate zkSync with confidence.
+👒 **Stay informed, make informed decisions:** Track price fluctuations and liquidity depth to understand asset stability and growth potential. Bubbles empowers you to navigate zkSync with confidence.
 
 🌾 **Intuitive and engaging:** The visual format fosters effortless data comprehension, making zkSync exploration enjoyable and accessible.
 
@@ -28,4 +28,4 @@ Navigate the dynamic world of zkSync with zkBubbles, an interactive visualizatio
 
 **⚡ Empowering information at your fingertips:** Gain valuable insights and make informed investment decisions within the zkSync ecosystem – all from the comfort of your web browser or mobile app.
 
-Ready to unlock the potential of zkSync? Let zkBubbles be your guide. Explore the vibrant landscape of zkSync projects, discover hidden gems, and make informed decisions. Dive into the world of zkSync and propel your investment journey forward.
+Ready to unlock the potential of zkSync? Let Bubbles be your guide. Explore the vibrant landscape of zkSync projects, discover hidden gems, and make informed decisions. Dive into the world of zkSync and propel your investment journey forward.

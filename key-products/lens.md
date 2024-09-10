@@ -4,15 +4,15 @@ description: >-
   Era
 ---
 
-# 💎 zkLens
+# 💎 Lens
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Try at:** [**https://zkswap.finance/zkLens**](https://zkswap.finance/zkLens) **or** [**https://zkLens.info**](https://zklens.info)
+**Try at:** [**https://zkswap.finance/Lens**](https://zkswap.finance/Lens) **or** [**https://zkLens.info**](https://zklens.info)
 
-### zkLens: Simplifying Your Exploration of zkSync
+### Lens: Simplifying Your Exploration of zkSync
 
-Welcome to zkLens, the ultimate tool crafted to elevate your journey through zkSync. zkLens boasts a sleek table format, meticulously designed for effortless sorting and rapid access to zkHeatmap data.
+Welcome to Lens, the ultimate tool crafted to elevate your journey through zkSync. Lens boasts a sleek table format, meticulously designed for effortless sorting and rapid access to Heatmap data.
 
 ### Discover the Highlights:
 
@@ -26,6 +26,6 @@ Welcome to zkLens, the ultimate tool crafted to elevate your journey through zkS
 
 **📊 Market Cap/Liquidity Ratio:** Evaluate the relationship between market capitalization and liquidity, gaining valuable insights into asset stability and growth potential.
 
-Explore the depths of zkLens and unlock invaluable insights to shape your investment strategies. Begin your journey through the zkSync ecosystem today by visiting zkswap.finance/zkLens.
+Explore the depths of Lens and unlock invaluable insights to shape your investment strategies. Begin your journey through the zkSync ecosystem today by visiting zkswap.finance/zkLens.
 
-Join us on zkLens and seize the opportunity to explore the hottest tokens and gems within zkSync. Stay at the forefront of decentralized finance and elevate your investment prowess!
+Join us on Lens and seize the opportunity to explore the hottest tokens and gems within zkSync. Stay at the forefront of decentralized finance and elevate your investment prowess!

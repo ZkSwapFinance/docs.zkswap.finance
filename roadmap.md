@@ -46,7 +46,7 @@ Following the development and testing phase, zkSwap Finance deploys the Swap2Ear
   * [x] Analytics Page
   * [x] Governance
   * [x] zkFlow-v1
-  * [x] zkBridge-v1
+  * [x] Bridge-v1
 * [x] Partner with zkSync ecosystem projects
 * [x] zkSwap Liquidity Generation Event (LGE)
 * [x] zkSwap Token Generation Event (TGE)
@@ -66,21 +66,22 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
 
 * [ ] Web App Development
   * [x] zkFlow-v2
-  * [x] zkBridge-v2
+  * [x] Bridge-v2
   * [x] Zap In - Zap Out
   * [x] AI Live Chat Support
   * [x] ZF Paymaster (Account Abstraction)
   * [x] Dexs zkAggregator
   * [x] Strengthen frontend security
   * [x] More audits
-  * [x] zkHeatmap
+  * [x] Heatmap
   * [x] $LONG
-  * [x] zkLens
+  * [x] Lens
   * [x] ZF Paymaster V2 (Gasless swap for $ZF & $LONG Holders)
-  * [x] zkBubbles
+  * [x] Bubbles
   * [x] Revamp UI 1.1
-  * [x] zkPortfolio
-  * [x] zkRevoke
+  * [x] Portfolio
+  * [x] Revoke
+  * [x] History
   * [ ] StableSwap
   * [ ] Integrate Swap2Earn for StableSwap
   * [ ] Smart DEXs

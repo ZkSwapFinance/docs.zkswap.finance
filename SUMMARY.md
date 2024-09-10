@@ -4,19 +4,20 @@
 * [🌎 Official Links](official-links.md)
 * [👬 Team (Certik KYC Silver Verified)](team-certik-kyc-silver-verified.md)
 * [🗺️ Roadmap](roadmap.md)
+* [📒 Brand Kit & Logos](brand-kit-and-logos.md)
 
 ## KEY PRODUCTS
 
 * [💱 zkSwap](key-products/zkswap.md)
-* [🌿 zkAggregator](key-products/zkaggregator.md)
-* [🚃 zkBridge](key-products/zkbridge.md)
-* [🫧 zkBubbles](key-products/zkbubbles.md)
-* [🔥 zkHeatmap](key-products/zkheatmap.md)
-* [💎 zkLens](key-products/zklens.md)
+* [🌿 Aggregator](key-products/aggregator.md)
+* [🚃 Bridge](key-products/bridge.md)
+* [🫧 Bubbles](key-products/bubbles.md)
+* [🔥 Heatmap](key-products/heatmap.md)
+* [💎 Lens](key-products/lens.md)
 * [🎇 ZF Paymaster](key-products/zf-paymaster.md)
 * [📖 zkFlow](key-products/zkflow.md)
-* [📂 zkPortfolio](key-products/zkportfolio.md)
-* [🔐 zkRevoke](key-products/zkrevoke.md)
+* [📂 Portfolio](key-products/portfolio.md)
+* [🔐 Revoke](key-products/revoke.md)
 * [🐉 $Long](key-products/usdlong.md)
 * [☀️ Future Products](key-products/future-products.md)
 
@@ -65,16 +66,11 @@
 * [🗳️ How to Vote & Create Proposal](tutorials-faqs/how-to-vote-and-create-proposal.md)
 * [🍮 Syrup Pools FAQs](tutorials-faqs/syrup-pools-faqs.md)
 
-## Brand Assets
-
-* [📒 Brand Kit & Logos](brand-assets/brand-kit-and-logos.md)
-
 ## Resources
 
 * [💪 Community Resources](resources/community-resources.md)
 * [📰 News Digest](resources/news-digest.md)
 * [📗 Terms & Disclaimers](resources/terms-and-disclaimers.md)
-* [🎉 Ad Booking Info](resources/ad-booking-info.md)
 
 ***
 

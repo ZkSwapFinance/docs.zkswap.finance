@@ -6,7 +6,7 @@ description: >-
 
 # 🚃 Bridge
 
-<figure><img src="../.gitbook/assets/banner_zk_birdge.jpg" alt=""><figcaption><p>zkBridge - Seamless token transfers between multiple blockchains</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/BRIDGE.png" alt=""><figcaption></figcaption></figure>
 
 **Try at** [**https://zkswap.finance/bridge**](https://zkswap.finance/bridge)
 

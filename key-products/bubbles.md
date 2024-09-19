@@ -6,7 +6,7 @@ description: >-
 
 # 🫧 Bubbles
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bubbles.png" alt=""><figcaption></figcaption></figure>
 
 **Try at:** [**https://zkswap.finance/Bubbles**](https://zkswap.finance/Bubbles) **or** [**https://zkbubbles.info**](https://zkbubbles.info)
 

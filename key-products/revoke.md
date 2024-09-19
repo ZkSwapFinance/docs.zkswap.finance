@@ -6,7 +6,7 @@ description: >-
 
 # 🔐 Revoke
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/REVOKE.png" alt=""><figcaption></figcaption></figure>
 
 **Try at** [**https://zkswap.finance/Revoke**](https://zkswap.finance/Revoke) **or** [**https://zkrevoke.info**](https://zkswap.finance/zkRevoke)
 
@@ -26,7 +26,7 @@ Revoke is a specialized tool designed to securely revoke token approvals and man
 
 ### How to Use Revoke
 
-1. Visit the Revoke Platform: access zkRevoke via [https://zkswap.finance/Revoke](https://zkswap.finance/Revoke) or [https://zkrevoke.info](https://zkswap.finance/zkRevoke)
+1. Visit the Revoke Platform: access Revoke via [https://zkswap.finance/Revoke](https://zkswap.finance/Revoke) or [https://zkrevoke.info](https://zkswap.finance/zkRevoke)
 2. Connect Your Wallet
 3. Review Approved Spenders
 4. Revoke Permissions

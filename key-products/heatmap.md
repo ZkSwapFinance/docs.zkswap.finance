@@ -6,7 +6,7 @@ description: >-
 
 # 🔥 Heatmap
 
-<figure><img src="../.gitbook/assets/home_banner_zk_heatmap (1).webp" alt=""><figcaption><p>Discovering Gems on zkSync Era with ease</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/HEATMAP.png" alt=""><figcaption></figcaption></figure>
 
 **Try at:** [**https://zkswap.finance/Heatmap**](https://zkswap.finance/Heatmap) **or** [**https://zkHeatmap.info**](https://zkheatmap.info)
 

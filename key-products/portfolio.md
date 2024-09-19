@@ -6,7 +6,7 @@ description: >-
 
 # 📂 Portfolio
 
-<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/PORTFOLIO.png" alt=""><figcaption></figcaption></figure>
 
 **Try at** [**https://zkswap.finance/portfolio**](https://zkswap.finance/portfolio) **or** [**https://zkport.info**](https://zkflow.info)
 

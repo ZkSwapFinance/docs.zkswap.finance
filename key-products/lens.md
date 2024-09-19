@@ -6,7 +6,7 @@ description: >-
 
 # 💎 Lens
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/LENS.png" alt=""><figcaption></figcaption></figure>
 
 **Try at:** [**https://zkswap.finance/Lens**](https://zkswap.finance/Lens) **or** [**https://zkLens.info**](https://zklens.info)
 
@@ -26,6 +26,6 @@ Welcome to Lens, the ultimate tool crafted to elevate your journey through zkSyn
 
 **📊 Market Cap/Liquidity Ratio:** Evaluate the relationship between market capitalization and liquidity, gaining valuable insights into asset stability and growth potential.
 
-Explore the depths of Lens and unlock invaluable insights to shape your investment strategies. Begin your journey through the zkSync ecosystem today by visiting zkswap.finance/zkLens.
+Explore the depths of Lens and unlock invaluable insights to shape your investment strategies. Begin your journey through the zkSync ecosystem today by visiting  [**https://zkswap.finance/Lens**](https://zkswap.finance/Lens).
 
 Join us on Lens and seize the opportunity to explore the hottest tokens and gems within zkSync. Stay at the forefront of decentralized finance and elevate your investment prowess!

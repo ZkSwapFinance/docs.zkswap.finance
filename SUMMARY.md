@@ -6,12 +6,6 @@
 * [🗺️ Roadmap](roadmap.md)
 * [📒 Brand Kit & Logos](brand-kit-and-logos.md)
 
-## CONTRACTS & AUDITS
-
-* [🔎 Smart Contracts](contracts-and-audits/smart-contracts.md)
-* [🗝️ Multisig Wallets](contracts-and-audits/multisig-wallets.md)
-* [🛡️ Audits & Security](contracts-and-audits/audits-and-security.md)
-
 ## KEY PRODUCTS
 
 * [💱 zkSwap](key-products/zkswap.md)
@@ -43,6 +37,12 @@
 * [🔆 Token Utilities](dao-and-tokenomics/token-utilities.md)
 * [🤝 Governance via yZF](dao-and-tokenomics/governance-via-yzf.md)
 * [🗒️ DAO Proposal Guidelines](dao-and-tokenomics/dao-proposal-guidelines.md)
+
+## CONTRACTS & AUDITS
+
+* [🔎 Smart Contracts](contracts-and-audits/smart-contracts.md)
+* [🗝️ Multisig Wallets](contracts-and-audits/multisig-wallets.md)
+* [🛡️ Audits & Security](contracts-and-audits/audits-and-security.md)
 
 ## Tutorials / FAQs
 

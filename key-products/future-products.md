@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ☀️ Future Products
 
 <figure><img src="../.gitbook/assets/futureProduct.png" alt=""><figcaption></figcaption></figure>

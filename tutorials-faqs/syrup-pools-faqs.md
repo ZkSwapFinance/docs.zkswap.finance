@@ -1,5 +1,6 @@
 ---
 description: Syrup Pool is the project's rewards for yZF Holders
+hidden: true
 ---
 
 # 🍮 Syrup Pools FAQs

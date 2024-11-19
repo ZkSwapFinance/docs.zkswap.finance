@@ -8,7 +8,9 @@
 
 ## KEY PRODUCTS
 
-* [💱 zkSwap](key-products/zkswap.md)
+* [💱 zkSwap](key-products/zkswap/README.md)
+  * [Classic Liquidity Pools (V2)](key-products/zkswap/classic-liquidity-pools-v2.md)
+  * [Concentrated Liquidity Pools (V3)](key-products/zkswap/concentrated-liquidity-pools-v3.md)
 * [🌿 Aggregator](key-products/aggregator.md)
 * [🚃 Bridge](key-products/bridge.md)
 * [🫧 Bubbles](key-products/bubbles.md)

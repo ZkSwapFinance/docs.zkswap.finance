@@ -1,5 +1,5 @@
 ---
-icon: pepper
+icon: pear
 ---
 
 # Classic Liquidity Pools (V2)

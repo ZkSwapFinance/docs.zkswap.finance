@@ -1,5 +1,5 @@
 ---
-icon: carrot
+icon: grapes
 ---
 
 # Concentrated Liquidity Pools (V3)

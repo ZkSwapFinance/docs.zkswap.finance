@@ -82,17 +82,25 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
   * [x] Portfolio
   * [x] Revoke
   * [x] History
-  * [ ] StableSwap
+  * [x] StableSwap
   * [ ] Integrate Swap2Earn for StableSwap
-  * [ ] Smart DEXs
-  * [ ] Launchpad
+  * [ ] Universal Router (Smart Router)&#x20;
+  * [ ] Concentrated Liquidity (V3 AMM)
   * [ ] Continuous Improvement UI, UX and Performance
+  * [ ] ...
+  * [ ] ....
+  * [ ] .....
+  * [ ] Launchpad
   * [ ] Mobile App
 * [x] Certik Audit
 * [x] Certik KYC
 * [x] Certik Bug Bounty
 * [ ] Community Expansion Campaign
 * [ ] Listing on Top CEXs
+  * [ ] Gate.io
+  * [ ] MEXC
+  * [ ] ...
+  * [ ] ...
 
 ### **PHASE 4: MULTICHAIN EXPANSION**
 

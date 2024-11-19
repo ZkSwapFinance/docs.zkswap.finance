@@ -9,8 +9,10 @@
 ## KEY PRODUCTS
 
 * [💱 zkSwap](key-products/zkswap.md)
-  * [Classic Liquidity Pools (V2)](key-products/zkswap/classic-liquidity-pools-v2.md)
-  * [Concentrated Liquidity Pools (V3)](key-products/zkswap/concentrated-liquidity-pools-v3.md)
+  * [V2 AMM](key-products/zkswap/v2-amm.md)
+  * [V3 AMM](key-products/zkswap/v3-amm.md)
+  * [Stableswap](key-products/zkswap/stableswap.md)
+  * [Universal Router](key-products/zkswap/universal-router.md)
 * [🌿 Aggregator](key-products/aggregator.md)
 * [🚃 Bridge](key-products/bridge.md)
 * [🫧 Bubbles](key-products/bubbles.md)

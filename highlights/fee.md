@@ -8,12 +8,12 @@ Here, you'll find all the latest updates and changes related to protocol fees on
 
 Fee for a swap can be broken down into two kinds: 1) Rewards for Liquidity Providers 2) Protocol Fee
 
-| Pools fee tiers | Rewards for Liquidity Providers | Protocol Fee |
-| --------------- | ------------------------------- | ------------ |
-| 0.01%           | 67%                             | 33%          |
-| 0.04%           | 66%                             | 34%          |
-| 0.2%            | 68%                             | 32%          |
-| 1%              | 68%                             | 32%          |
+| Fee tiers | Rewards for Liquidity Providers | Protocol Fee |
+| --------- | ------------------------------- | ------------ |
+| 0.01%     | 67%                             | 33%          |
+| 0.04%     | 66%                             | 34%          |
+| 0.2%      | 68%                             | 32%          |
+| 1%        | 68%                             | 32%          |
 
 ### Stableswap (Curve.fi style)
 

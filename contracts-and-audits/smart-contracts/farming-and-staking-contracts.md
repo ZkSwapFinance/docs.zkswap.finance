@@ -1,5 +1,5 @@
 ---
-icon: pear
+icon: books
 ---
 
 # Farming & Staking Contracts

@@ -1,5 +1,5 @@
 ---
-icon: apple-whole
+icon: books
 ---
 
 # ZF Token Minters

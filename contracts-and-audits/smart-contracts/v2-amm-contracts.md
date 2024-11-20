@@ -1,5 +1,5 @@
 ---
-icon: kiwi-fruit
+icon: books
 ---
 
 # V2 AMM Contracts

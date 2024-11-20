@@ -1,5 +1,5 @@
 ---
-icon: citrus
+icon: books
 ---
 
 # V3 AMM Contracts

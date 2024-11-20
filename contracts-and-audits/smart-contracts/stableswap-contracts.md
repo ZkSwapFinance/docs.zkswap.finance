@@ -1,5 +1,5 @@
 ---
-icon: grapes
+icon: books
 ---
 
 # StableSwap Contracts

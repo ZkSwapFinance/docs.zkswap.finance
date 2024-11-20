@@ -1,5 +1,5 @@
 ---
-icon: lemon
+icon: books
 ---
 
 # Project Funds Contracts

@@ -44,7 +44,15 @@
 
 ## CONTRACTS & AUDITS
 
-* [🔎 Smart Contracts](contracts-and-audits/smart-contracts.md)
+* [🔎 Smart Contracts](contracts-and-audits/smart-contracts/README.md)
+  * [V2 AMM Contracts](contracts-and-audits/smart-contracts/v2-amm-contracts.md)
+  * [V3 AMM Contracts](contracts-and-audits/smart-contracts/v3-amm-contracts.md)
+  * [StableSwap Contracts](contracts-and-audits/smart-contracts/stableswap-contracts.md)
+  * [Farming & Staking Contracts](contracts-and-audits/smart-contracts/farming-and-staking-contracts.md)
+  * [Project Funds Contracts](contracts-and-audits/smart-contracts/project-funds-contracts.md)
+  * [Timelock Controllers](contracts-and-audits/smart-contracts/timelock-controllers.md)
+  * [ZF Token Minters](contracts-and-audits/smart-contracts/zf-token-minters.md)
+  * [ZF Paymasters](contracts-and-audits/smart-contracts/zf-paymasters.md)
 * [🗝️ Multisig Wallets](contracts-and-audits/multisig-wallets.md)
 * [🛡️ Audits & Security](contracts-and-audits/audits-and-security.md)
 

@@ -3,7 +3,7 @@
 <figure><img src="../.gitbook/assets/home_banner_paymaster.png" alt=""><figcaption><p>zkSwap Finance Paymaster: A zkSync Era Native Solution</p></figcaption></figure>
 
 **Try at:** [**https://zkswap.finance/swap**](https://zkswap.finance/swap)\
-**List of** [**ZF Paymaster smart contracts**](../contracts-and-audits/smart-contracts.md#zf-paymasters)
+**List of** [**ZF Paymaster smart contracts**](../contracts-and-audits/smart-contracts/#zf-paymasters)
 
 ### zkSwap Finance Paymaster: A zkSync Era Native Solution
 

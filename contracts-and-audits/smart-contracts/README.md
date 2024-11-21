@@ -10,28 +10,28 @@ description: Comprehensive details of the zkSwap Finance smart contracts
 
 ###
 
-{% content-ref url="v2-amm-contracts.md" %}
-[v2-amm-contracts.md](v2-amm-contracts.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="v3-amm-contracts.md" %}
-[v3-amm-contracts.md](v3-amm-contracts.md)
+{% content-ref url="zkswap-exchange.md" %}
+[zkswap-exchange.md](zkswap-exchange.md)
 {% endcontent-ref %}
 
-{% content-ref url="stableswap-contracts.md" %}
-[stableswap-contracts.md](stableswap-contracts.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="farming-and-staking-contracts.md" %}
-[farming-and-staking-contracts.md](farming-and-staking-contracts.md)
+{% content-ref url="farming-and-staking.md" %}
+[farming-and-staking.md](farming-and-staking.md)
 {% endcontent-ref %}
 
-{% content-ref url="project-funds-contracts.md" %}
-[project-funds-contracts.md](project-funds-contracts.md)
+{% content-ref url="protocol-funds-and-timelocks.md" %}
+[protocol-funds-and-timelocks.md](protocol-funds-and-timelocks.md)
 {% endcontent-ref %}
 
-{% content-ref url="timelock-controllers.md" %}
-[timelock-controllers.md](timelock-controllers.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="zf-token-minters.md" %}

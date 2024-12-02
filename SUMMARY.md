@@ -6,6 +6,24 @@
 * [🗺️ Roadmap](roadmap.md)
 * [📒 Brand Kit & Logos](brand-kit-and-logos.md)
 
+## DAO & TOKENOMICS
+
+* [♾️ Tokenomics](dao-and-tokenomics/tokenomics.md)
+* [🔆 Token Utilities](dao-and-tokenomics/token-utilities.md)
+* [🤝 Governance via yZF](dao-and-tokenomics/governance-via-yzf.md)
+* [🗒️ DAO Proposal Guidelines](dao-and-tokenomics/dao-proposal-guidelines.md)
+
+## CONTRACTS & AUDITS
+
+* [🔎 Smart Contracts](contracts-and-audits/smart-contracts/README.md)
+  * [zkSwap Exchange](contracts-and-audits/smart-contracts/zkswap-exchange.md)
+  * [Farming & Staking](contracts-and-audits/smart-contracts/farming-and-staking.md)
+  * [Protocol Funds & Timelocks](contracts-and-audits/smart-contracts/protocol-funds-and-timelocks.md)
+  * [ZF Token Minters](contracts-and-audits/smart-contracts/zf-token-minters.md)
+  * [ZF Paymasters](contracts-and-audits/smart-contracts/zf-paymasters.md)
+* [🗝️ Multisig Wallets](contracts-and-audits/multisig-wallets.md)
+* [🛡️ Audits & Security](contracts-and-audits/audits-and-security.md)
+
 ## KEY PRODUCTS
 
 * [💱 zkSwap](key-products/zkswap.md)
@@ -34,24 +52,6 @@
 * [🍄 Boost](highlights/boost.md)
 * [⚡ ZAP](highlights/zap.md)
 * [🍣 Fee](highlights/fee.md)
-
-## DAO & TOKENOMICS
-
-* [♾️ Tokenomics](dao-and-tokenomics/tokenomics.md)
-* [🔆 Token Utilities](dao-and-tokenomics/token-utilities.md)
-* [🤝 Governance via yZF](dao-and-tokenomics/governance-via-yzf.md)
-* [🗒️ DAO Proposal Guidelines](dao-and-tokenomics/dao-proposal-guidelines.md)
-
-## CONTRACTS & AUDITS
-
-* [🔎 Smart Contracts](contracts-and-audits/smart-contracts/README.md)
-  * [zkSwap Exchange](contracts-and-audits/smart-contracts/zkswap-exchange.md)
-  * [Farming & Staking](contracts-and-audits/smart-contracts/farming-and-staking.md)
-  * [Protocol Funds & Timelocks](contracts-and-audits/smart-contracts/protocol-funds-and-timelocks.md)
-  * [ZF Token Minters](contracts-and-audits/smart-contracts/zf-token-minters.md)
-  * [ZF Paymasters](contracts-and-audits/smart-contracts/zf-paymasters.md)
-* [🗝️ Multisig Wallets](contracts-and-audits/multisig-wallets.md)
-* [🛡️ Audits & Security](contracts-and-audits/audits-and-security.md)
 
 ## Tutorials / FAQs
 

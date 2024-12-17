@@ -28,9 +28,9 @@ Fee for a swap can be broken down into two kinds: 1) Rewards for Liquidity Provi
 
 | Pool Type          | Rewards for Liquidity Providers | Protocol Fee |
 | ------------------ | ------------------------------- | ------------ |
-| ETH/USDC           | 0.04%                           | 0.04%        |
-| ZF/ETH             | 0.04%                           | 0.04%        |
+| ETH/USDC           | 0.05%                           | 0.05%        |
+| ZF/ETH             | 0.05%                           | 0.05%        |
 | LONG/ETH & LONG/ZF | 0.5%                            | 0.5%         |
-| ZK/ZF              | 0.12%                           | 0.12%        |
-| OTHERS             | 0.04%                           | 0.04%        |
+| ZK/ZF              | 0.15%                           | 0.15%        |
+| OTHERS             | 0.05%                           | 0.05%        |
 

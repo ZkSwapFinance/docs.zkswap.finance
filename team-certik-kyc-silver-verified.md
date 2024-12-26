@@ -31,7 +31,7 @@ description: >-
 #### **Founder CEO: Ryan Yang**
 
 * A marketing professional experienced in both traditional finance and the crypto industry, adept at scaling projects from ideation to execution, with a strong focus on marketing and strategy.
-* Contact: [Telegram ](https://t.me/zkSwap\_Ryan)| [Discord](https://discord.gg/4eHMumaJDA)
+* Contact: [Telegram ](https://t.me/zkSwap_Ryan)| [Discord](https://discord.gg/4eHMumaJDA)
 
 #### **Founder CTO: KailinKool**
 
@@ -41,44 +41,44 @@ description: >-
 #### CMO: Christ Lang
 
 * Christ Lang leads zkSwap Finance marketing strategy, blending innovation and data to engage our audience. With a focus on trust and inclusivity, he drives adoption and community growth in the dynamic crypto space.
-* Contact: [Telegram](https://t.me/zkSwap\_Christ) | [Discord](https://discord.gg/4eHMumaJDA)
+* Contact: [Telegram](https://t.me/zkSwap_Christ) | [Discord](https://discord.gg/4eHMumaJDA)
 
 #### &#x20;**Advisor & Founder: ThunderNoah**
 
 * A pioneering founder championing blockchain and cryptocurrency, now serves as an advisor with a relentless drive for creativity, fairness, and transparency in the crypto world.&#x20;
-* Contact: [Twitter](https://twitter.com/MegaBull\_Noah) | [Binance ](https://www.binance.com/en/feed/profile/Noah\_Edwards)| [Discord](https://discord.gg/4eHMumaJDA)
+* Contact: [Twitter](https://twitter.com/MegaBull_Noah) | [Binance ](https://www.binance.com/en/feed/profile/Noah_Edwards)| [Discord](https://discord.gg/4eHMumaJDA)
 
 #### **Business Development (BD): Lucas Lee**
 
 * Drives strategic partnerships and business expansion, leveraging his expertise to unlock new opportunities and propel growth.
-* Contact: [Telegram](https://t.me/ZF\_Lucas) | [Discord](https://discord.com/users/1212659857128292442)
+* Contact: [Telegram](https://t.me/ZF_Lucas) | [Discord](https://discord.com/users/1212659857128292442)
 
 #### **Full-Stack Developer: ReshMagic**
 
 * A dedicated developer with an innate ability to turn impossible challenges into tangible digital solutions, always striving to push the boundaries of innovation.
 * Contact: [Discord](https://discordapp.com/users/1079941397890740294)
 
-#### Full-stack Developer**:** Jason Goh
+#### Full-stack Develope&#x72;**:** Jason Goh
 
 * Bringing seamless user interfaces to life, combining design finesse with technical expertise.
 
-#### Front-end Developer**:** Ethan Lim
+#### Front-end Develope&#x72;**:** Ethan Lim
 
 * Contributes fresh perspectives and a thirst for learning, embodying innovation and growth.
 
-#### Front-end Developer**:** Dylan Lee
+#### Front-end Develope&#x72;**:** Dylan Lee
 
 * Passionate about learning new technologies and contributing to meaningful projects
 
-#### Content Writer**:** Hannah Tan
+#### Content Write&#x72;**:** Hannah Tan
 
 * Crafting engaging narratives, Hannah Tan communicates our brand message effectively through blog posts and marketing materials.
 
-#### Designer**:** Nathan Wong
+#### Designe&#x72;**:** Nathan Wong
 
 * Elevates projects with artistic vision, enhancing our brand image and user experience.
 
-#### UI/UX Designer**: Mike Wolfe**
+#### UI/UX Designe&#x72;**: Mike Wolfe**
 
 * Crafting intuitive and visually appealing user interfaces and great user experiences.
 

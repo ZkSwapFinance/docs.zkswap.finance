@@ -7,11 +7,11 @@ hidden: true
 
 1. _**Is it correct that staking in the Syrup Pool means you are still staking in the DAO pool?**_\
    Yes, you earn both DAO & Syrup Pool rewards. \
-   _Additional information_: \
+   &#xNAN;_&#x41;dditional information_: \
    ◾ Staking ZF into the DAO Staking Pool returns you a share of the pool in the form of yZF Token. As time goes by, the DAO Staking Pool contains more and more ZF, hence you effective get more ZF from the DAO Staking Pool. This is the first reward. \
    ◾ With Syrup Pool, you stake your yZF to farm ZF rewards from the Syrup Pool. This is the second reward. In combination, you earn double-rewards.\
 
-2. _**Why does my total ZF in the DAO**_** Staking **_**Pool return to 0 after I staked all yZF into the Syrup Pool?**_ \
+2. _**Why does my total ZF in the DAO**_**&#x20;Staking&#x20;**_**Pool return to 0 after I staked all yZF into the Syrup Pool?**_ \
    DAO Staking Pool detects your yZF balance and shows you the corresponding ZF. Hence, when you stake all your yZF, it should display your total ZF in the DAO Pool as 0. If you withdraw yZF from the Syrup Pool, it will show you the correct total ZF in the DAO Staking pool.\
    \
    Staking into the Syrup Pool doesn't affect the auto-compound function or your rewards in the DAO Staking Pool at all. Instead, it gives you a double-earning.\

@@ -4,7 +4,7 @@ At zkSwap Finance, we place a paramount emphasis on the security of our code and
 
 **All contracts are VERIFIED on** [**zkSync Explorer**](smart-contracts/) **and** [**Era.zkSync.Network**](https://era.zksync.network/)\
 **All Audits:** [**zkSwap Finance Github**](https://github.com/ZkSwapFinance/Audit-Reports)\
-**Certik Audit:** [**Report**](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/0\_\[Certik]\_zkSwap\_Finance\_Audit\_Report.pdf)
+**Certik Audit:** [**Report**](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/0_\[Certik]_zkSwap_Finance_Audit_Report.pdf)
 
 ## Audited by Certik
 
@@ -12,7 +12,7 @@ Our platform is undergone comprehensive audit conducted by [Certik](https://www.
 
 [Certik](https://www.certik.com/)'s audit is widely acknowledged and esteemed in the blockchain and cryptocurrency industry. Their exhaustive review process involves a careful examination of our smart contracts, codebase, and overall system architecture. Through this rigorous assessment, we have showcased our unwavering commitment to upholding the highest standards of security and reliability for our users.
 
-**For more details:** [**Certik Audit Report**](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/0\_\[Certik]\_zkSwap\_Finance\_Audit\_Report.pdf)\
+**For more details:** [**Certik Audit Report**](https://github.com/ZkSwapFinance/Audit-Reports/blob/main/0_\[Certik]_zkSwap_Finance_Audit_Report.pdf)\
 **Certik Skynet:** [**https://skynet.certik.com/projects/zkswap-finance**](https://skynet.certik.com/projects/zkswap-finance)
 
 ## Audited by Cyberscope
@@ -24,13 +24,17 @@ For your information, Cyberscope is a prominent authority in blockchain security
 **For more details:** [**Cyberscope Audit Report**](https://github.com/cyberscope-io/audits/tree/main/zkswap-finance)\
 **Cyberscope security platform:** [**https://www.cyberscope.io/audits/zkswap-finance**](https://www.cyberscope.io/audits/zkswap-finance)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption><p><a href="https://x.com/cyberscope_ann/status/1750435343289950341?s=20">https://x.com/cyberscope_ann/status/1750435343289950341?s=20</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption><p><a href="https://x.com/cyberscope_ann/status/1750435343289950341?s=20">https://x.com/cyberscope_ann/status/1750435343289950341?s=20</a></p></figcaption></figure>
 
-## Audited by  SOLID Proof
+## Audited by  SOLIDProof
 
 [SolidProof ](https://solidproof.io/)is a leading German-based crypto auditing firm that specializes in smart contract security and functionality. Established in 2020, the company offers comprehensive auditing services, including structural analysis, static analysis, manual code review, and live environment testing. SolidProof's experienced team follows rigorous protocols to identify vulnerabilities, enhance code quality, and optimize gas utilization, providing clients with detailed audit reports and certificates to showcase the legitimacy of their projects.
 
 **Detailed Report:** [**https://github.com/solidproof/projects/tree/main/2024/Zkswap%20Finance**](https://github.com/solidproof/projects/tree/main/2024/Zkswap%20Finance)
+
+**SolidProof TrustNet:** [**https://app.solidproof.io/projects/zkswap-finance**](https://app.solidproof.io/projects/zkswap-finance)
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://x.com/solidproof_news/status/1867561862893621628">https://x.com/solidproof_news/status/1867561862893621628</a> </p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption><p><a href="https://x.com/solidproof_news/status/1770087507138322859">https://x.com/solidproof_news/status/1770087507138322859</a></p></figcaption></figure>
 

@@ -70,7 +70,7 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
   * [x] Zap In - Zap Out
   * [x] AI Live Chat Support
   * [x] ZF Paymaster (Account Abstraction)
-  * [x] Dexs zkAggregator
+  * [x] Dexs Aggregator
   * [x] Strengthen frontend security
   * [x] More audits
   * [x] Heatmap
@@ -82,11 +82,19 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
   * [x] Portfolio
   * [x] Revoke
   * [x] History
+  * [x] DuoEarn for main pools
   * [x] StableSwap
-  * [ ] Integrate Swap2Earn for StableSwap
-  * [ ] Universal Router (Smart Router)&#x20;
-  * [ ] Concentrated Liquidity (V3 AMM)
-  * [ ] Continuous Improvement UI, UX and Performance
+  * [x] Integrate Swap2Earn for StableSwap
+  * [x] AMM V3 (Concentrated Liquidity)
+  * [x] Universal Router (Smart Router)
+  * [x] Overhaul the whole front-end underlying engine to prepare for multichain future
+  * [x] zkIgnite Integration
+  * [ ] New Paymaster improvements on UI/UX/Engine/Policies.
+  * [ ] Farming for StableSwap
+  * [ ] Farming for Concentrated liquidity (V3) Pools
+  * [ ] DuoEarn for Concentrated liquidity (V3) Pools
+  * [ ] Maintenance & Continuous Improvement UI, UX and Performance&#x20;
+  * [ ] Developing more side products
   * [ ] ...
   * [ ] ....
   * [ ] .....
@@ -97,8 +105,8 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
 * [x] Certik Bug Bounty
 * [ ] Community Expansion Campaign
 * [ ] Listing on Top CEXs
-  * [ ] Gate.io
-  * [ ] MEXC
+  * [x] Gate.io
+  * [x] MEXC
   * [ ] ...
   * [ ] ...
 
@@ -108,7 +116,7 @@ In this phase, zkSwap Finance aims to become a formidable DeFi competitor by exp
 
 * [ ] Continuing to innovate and adapt services
 * [ ] Web App Development
-  * [ ] Expand zkSwap to multiple networks
+  * [ ] Expand zkSwap Finance to multiple networks
   * [ ] Cross-chain Token, Cross-chain Swap-to-Earn
 
 ### [**Join Our Community For More Information**](official-links.md) 

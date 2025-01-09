@@ -6,20 +6,12 @@ description: Comprehensive details of the zkSwap Finance smart contracts
 
 ###
 
-<table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>ZF Token (Verified)      </td><td><a href="https://explorer.zksync.io/address/0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A#contract">0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A</a></td><td><a href="https://explorer.zksync.io/address/0xC824f2Cce71350cC5ece6C699c72BaBa75103907#contract">Timelock Core 7 days</a></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>ZF Token (Verified)      </td><td><a href="https://era.zksync.network/token/0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a">0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A</a></td><td><a href="https://era.zksync.network/address/0xC824f2Cce71350cC5ece6C699c72BaBa75103907#code">Timelock Core 7 days</a></td></tr></tbody></table>
 
 ###
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="zkswap-exchange.md" %}
 [zkswap-exchange.md](zkswap-exchange.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="farming-and-staking.md" %}
@@ -28,10 +20,6 @@ description: Comprehensive details of the zkSwap Finance smart contracts
 
 {% content-ref url="protocol-funds-and-timelocks.md" %}
 [protocol-funds-and-timelocks.md](protocol-funds-and-timelocks.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="zf-token-minters.md" %}

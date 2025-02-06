@@ -1,6 +1,6 @@
 # How to Farm & Stake
 
-### 1. How to Farm
+## 1. How to Farm
 
 1. Head to our farm page at [https://zkswap.finance/earn/farms](https://zkswap.finance/earn/farms)
 2. Obtain the token corresponding to the farm pool (look at the right corner of the pool card) if you don't have it yet. Typically, this requires you to add liquidity, as shown in the video below or in the[ previous tutorial](how-to-swap.md).
@@ -15,10 +15,10 @@ How to farm (V2) pools
 How to farm (V3) with classic pools - Full Range
 {% endembed %}
 
-### How to farm (V3) on zkSwap Finance with Concentrated Liquidity
+### 1.2. How to farm (V3) on zkSwap Finance with Concentrated Liquidity
 
-1. Head to our farm page at [https://zkswap.finance/earn/farms](https://zkswap.finance/earn/farms)
-2. Obtain the token corresponding to the farm pool (look at the right corner of the pool card) if you don't have it yet. Otherwise, you can proceed to hit "**Deposit**" at your desired pool
+1. Head to our farm page at [https://zkswap.finance/earn/farms](https://zkswap.finance/earn/farms) and hit V3 option to filter out all V3 pools
+2. Obtain the token corresponding to the V3 farm pool if you don't have it yet. Otherwise, you can proceed to hit "**Deposit**" at your desired V3 pool
 3. Be aware of the current token price (Eg: ETH price in the video). The goal is to keep the liquidity position/range cover the token price as long as possible. Otherwise, you won't earn any trading fees or farming rewards
 4. You can check the token price chart & the liquidity range that most users are placing their position for reference
 5. Once the range (Min & Max price) is set, enter the liquidity amount and hit "**Add Liquidity**" & proceed on Metamask wallet to complete adding V3 liquidity
@@ -36,7 +36,7 @@ Here's a brief summary of the liquidity position in the example video below:
 How to farm V3 pools - Concentrated Liquidity
 {% endembed %}
 
-### 2. How to Stake
+## 2. How to Stake
 
 1. Head to our staking page at [https://zkswap.finance/earn/staking](https://zkswap.finance/earn/staking)
 2. Obtain the token corresponding to the staking pool (look at the right corner of the pool card) if you don't have it yet.

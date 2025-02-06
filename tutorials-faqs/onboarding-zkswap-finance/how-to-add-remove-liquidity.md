@@ -24,8 +24,14 @@
 6. Hit "Remove" in the remove liquidity window and "Confirm" in the pop-up window&#x20;
 7. Hit "Confirm" again on Metamask and wait for the 2 tokens to arrive in your wallet
 
-
-
-**Here's a video on how to add & remove liquidity on zkSwap Finance**
+**Here's a video on how to add & remove liquidity on zkSwap Finance on classic pools/V2 pools**
 
 {% embed url="https://www.youtube.com/watch?v=lN7sPSu0OjU" %}
+
+{% hint style="info" %}
+For V3 pools, check out the video on how to farm (V3) [Classic Pools (Full Range)](https://youtu.be/t_aSBCY7_cI) & [Concentrated Liquidity](https://youtu.be/6LyjcpRfzGI)
+{% endhint %}
+
+**Here's a video on how to remove liquidity on zkSwap Finance V3 pools**
+
+{% embed url="https://youtu.be/C8lUmHpb69g" %}

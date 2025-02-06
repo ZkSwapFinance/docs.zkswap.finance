@@ -18,10 +18,10 @@ How to farm (V3) with classic pools - Full Range
 ### How to farm (V3) on zkSwap Finance with Concentrated Liquidity
 
 1. Head to our farm page at [https://zkswap.finance/earn/farms](https://zkswap.finance/earn/farms)
-2. Obtain the token corresponding to the farm pool (look at the right corner of the pool card) if you don't have it yet. Otherwise, you can proceed to hit "Deposit" at your desired pool
+2. Obtain the token corresponding to the farm pool (look at the right corner of the pool card) if you don't have it yet. Otherwise, you can proceed to hit "**Deposit**" at your desired pool
 3. Be aware of the current token price (Eg: ETH price in the video). The goal is to keep the liquidity position/range cover the token price as long as possible. Otherwise, you won't earn any trading fees or farming rewards
 4. You can check the token price chart & the liquidity range that most users are placing their position for reference
-5. Once the range (Min & Max price) is set, enter the liquidity amount and hit "Add Liquidity" & proceed on Metamask wallet to complete adding V3 liquidity
+5. Once the range (Min & Max price) is set, enter the liquidity amount and hit "**Add Liquidity**" & proceed on Metamask wallet to complete adding V3 liquidity
 6. Head to the V3 liquidity pair just added, hit "**Stake**" & proceed on Metamask wallet to complete
 
 Here's a brief summary of the liquidity position in the example video below:

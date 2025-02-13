@@ -2,9 +2,9 @@
 description: Including adding liquidity
 ---
 
-# How to farm (V3)
+# How to Farm (V3)
 
-### 1. How to farm with full range
+### 1. How to Farm with Full Range
 
 1. Head to our farm page at [https://zkswap.finance/earn/farms](https://zkswap.finance/earn/farms) and hit V3 option to filter out all V3 pools
 2. Obtain the token corresponding to the V3 farm pool if you don't have it yet. Otherwise, you can proceed to hit "**Stake**" at your desired V3 pool
@@ -15,7 +15,7 @@ description: Including adding liquidity
 How to farm (V3) with classic pools - Full Range
 {% endembed %}
 
-### 2. How to farm with concentrated liquidity
+### 2. How to Farm with Concentrated Liquidity
 
 1. Head to our farm page at [https://zkswap.finance/earn/farms](https://zkswap.finance/earn/farms) and hit V3 option to filter out all V3 pools
 2. Obtain the token corresponding to the V3 farm pool if you don't have it yet. Otherwise, you can proceed to hit "**Deposit**" at your desired V3 pool

@@ -1,4 +1,4 @@
-# How to Farm & Stake
+# How to Farm & Stake (V2)
 
 ## 1. How to Farm
 
@@ -10,6 +10,8 @@
 {% embed url="https://youtu.be/3zoGVq7PFDg" %}
 How to farm (V2) pools
 {% endembed %}
+
+asdas
 
 {% embed url="https://youtu.be/t_aSBCY7_cI" %}
 How to farm (V3) with classic pools - Full Range

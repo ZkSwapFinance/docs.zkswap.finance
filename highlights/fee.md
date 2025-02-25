@@ -19,7 +19,7 @@ Fee for a swap can be broken down into two kinds: 1) Rewards for Liquidity Provi
 
 | Pool Type             | Rewards for Liquidity Providers | Protocol Fee |
 | --------------------- | ------------------------------- | ------------ |
-| 3Pool (3 stablecoins) | 0.0067%                         | 0.0033%      |
+| 3Pool (3 stablecoins) | 0.000335%                       | 0.000165%    |
 | Others                | 0.0067%                         | 0.0033%      |
 
 ### Classic Pools (Uniswap v2 style)

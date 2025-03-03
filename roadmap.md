@@ -89,10 +89,9 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
   * [x] Universal Router (Smart Router)
   * [x] Overhaul the whole front-end underlying engine to prepare for multichain future
   * [x] zkIgnite Integration
-  * [ ] New Paymaster improvements on UI/UX/Engine/Policies.
-  * [ ] Farming for StableSwap
-  * [ ] Farming for Concentrated liquidity (V3) Pools
-  * [ ] DuoEarn for Concentrated liquidity (V3) Pools
+  * [x] New Paymaster improvements on UI/UX/Engine/Policies.
+  * [x] Farming for StableSwap
+  * [x] Farming for Concentrated liquidity (V3) Pools
   * [ ] Maintenance & Continuous Improvement UI, UX and Performance&#x20;
   * [ ] Developing more side products
   * [ ] ...

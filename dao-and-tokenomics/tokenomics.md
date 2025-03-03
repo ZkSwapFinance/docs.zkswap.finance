@@ -15,7 +15,7 @@ circulatingSupply = totalSupply - zfBurned - zfStakedInGovernanceV1Pool - zfStak
 
 
 
-<figure><img src="../.gitbook/assets/Tokenomics_-_Docs.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Piechart.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Token Emission Schedule
 

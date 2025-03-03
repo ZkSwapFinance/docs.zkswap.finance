@@ -17,9 +17,9 @@ circulatingSupply = totalSupply - zfBurned - zfStakedInGovernanceV1Pool - zfStak
 
 <figure><img src="../.gitbook/assets/Piechart.png" alt=""><figcaption></figcaption></figure>
 
-### 2. Token Emission Schedule
+### 2. Token Emission - Vesting Schedule
 
-<figure><img src="../.gitbook/assets/Circulating supply.svg" alt="" width="563"><figcaption><p>$ZF Token Emission estimation, starting from Sep 2023</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Planning Circulating Supply Image (2).png" alt=""><figcaption><p>$ZF Token Emission estimation, starting from Sep 2023</p></figcaption></figure>
 
 ### 3. Token Allocation
 

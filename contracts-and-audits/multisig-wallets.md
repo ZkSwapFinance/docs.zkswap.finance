@@ -4,7 +4,7 @@ description: Gnosis Safe Multisig Wallets Addresses used by the project
 
 # 🗝️ Multisig Wallets
 
-Any transaction requires 3 out of 5 signatures to be authorized.
+**Any transaction requires 3 out of 5 signatures to be authorized.**
 
 | Name                 | MultiSig Core Wallet                                                                                                                        | MultiSig Funds Wallet                                                                                                                       |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |

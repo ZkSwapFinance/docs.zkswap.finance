@@ -106,6 +106,7 @@ In this phase, zkSwap continually enhances its platform by introducing diverse p
 * [ ] Listing on Top CEXs
   * [x] Gate.io
   * [x] MEXC
+  * [x] Biconomy
   * [ ] ...
   * [ ] ...
 

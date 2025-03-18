@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/1400x392.png" alt=""><figcaption></figcaption></figure>
 
-### Total Rewards Pool: 100,000 $ZK&#x20;
+### Total Rewards Pool: 100,000 $ZK each 2 weeks
 
 ### Overview
 

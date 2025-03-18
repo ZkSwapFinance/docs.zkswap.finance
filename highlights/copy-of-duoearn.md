@@ -1,8 +1,12 @@
-# 💰 DuoEarn
+---
+hidden: true
+---
+
+# 💰 Copy of DuoEarn
 
 <figure><img src="../.gitbook/assets/1400x392.png" alt=""><figcaption></figcaption></figure>
 
-### Total Rewards Pool: 100,000 $ZK&#x20;
+### Total Rewards Pool: 4,000,000 $ZK&#x20;
 
 ### Overview
 
@@ -11,25 +15,27 @@ DuoEarn is a juicy liquidity farming incentive program that allows users to earn
 ### Key Features
 
 * **3-in-1 Rewards:** Earn rewards from fixed $ZK APR, $ZF farming APR, and trading fees.
-* **Fixed $ZK Rewards:** 100K ZK every 2 weeks using [Merkl system](https://app.merkl.xyz/).&#x20;
-* **Claim every Monday:** $ZK rewards are claimable on [the protocol](https://www.zkswap.finance/earn/pools) or [Merkl](https://app.merkl.xyz/).&#x20;
+* **Fixed $ZK Rewards:** For every $1000 LP added, users earn 50 $ZK per month.
+* **Monthly Airdrop:** $ZK rewards are airdropped on the 1st of each month.
 * **Additional Earnings:** Earn juicy $ZF rewards based on farming APR and a portion of the trading fees generated from the liquidity pool on top of the above $ZK airdrop.
 
 ### Eligible Pairs
 
-* ZK-USDC v3 (Concentrated Liquidity)
+* ETH-USDC.e
+* ZK-ETH
+* ZF-ETH
 
 ### Getting Started
 
+#### Short video tutorial: [https://docs.zkswap.finance/tutorials-faqs/onboarding-zkswap-finance/how-to-join-duoearn](https://docs.zkswap.finance/tutorials-faqs/onboarding-zkswap-finance/how-to-join-duoearn)&#x20;
+
 #### Step-by-Step Guide:&#x20;
 
-1. **Connect Wallet:** Visit [zkSwap.Finance](https://www.zkswap.finance/) and Connect your wallet.
-2. **Add Liquidity & Farm:** Navigate to the [Pools page](https://www.zkswap.finance/earn/pools) and add liquidity to the eligible pairs.
-3. **Stake into the corresponding Farm:** Navigate to [My Liquidity](https://www.zkswap.finance/earn/myliquidity) section, click on the **Stake** button next to your position to enjoy the ZF rewards (besides the ZK rewards)&#x20;
+1. **Connect Wallet:** Visit [DuoEarn](https://zkswap.finance/duoearn) and connect your wallet.
+2. **Add Liquidity & Farm:** Navigate to the "Pools & Farm" page and add liquidity to one of the eligible pairs.
+3. **Join DuoEarn:** Click "Join Now" (minimum $10 value LP required to prevent bots).
 
 **No Extra Actions Required:** after these steps, $ZK and $ZF rewards will be auto-calculated, and you won't need to take any further action.
-
-**Note:** Pending rewards are updated approximately every \~8 hours. and become claimable onchain every Monday.
 
 ### Support
 

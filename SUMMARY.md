@@ -47,6 +47,7 @@
 
 * [💡 Swap2Earn](highlights/swap2earn.md)
 * [💰 DuoEarn](highlights/duoearn.md)
+* [💰 Copy of DuoEarn](highlights/copy-of-duoearn.md)
 * [🪙 Farm2Earn](highlights/farm2earn.md)
 * [👥 Affiliate | Referral Program](highlights/affiliate-or-referral-program.md)
 * [🍄 Boost](highlights/boost.md)

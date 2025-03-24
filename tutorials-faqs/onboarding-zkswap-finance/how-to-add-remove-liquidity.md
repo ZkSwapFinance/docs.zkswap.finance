@@ -43,7 +43,7 @@ For V3 Concentrated (Selected Price Range)
 **Below are some tutorial videos on removing liquidity on zkSwap Finance**
 
 {% embed url="https://www.youtube.com/watch?v=rbyvKSPowII" %}
-For C**lassic V2 pools**
+For Classic V2 pools
 {% endembed %}
 
 {% embed url="https://youtu.be/C8lUmHpb69g" %}

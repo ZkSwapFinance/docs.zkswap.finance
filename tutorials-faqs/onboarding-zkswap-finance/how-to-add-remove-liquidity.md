@@ -9,7 +9,23 @@
 5. Once transaction is completed, at the same page, hit "Supply" at the widget on the left side of the page and "**Confirm Supply**" one more time
 6. "**Confirm**" the transaction on Metamask and kindly wait for it to complete
 
-***
+{% hint style="info" %}
+The process of adding liquidity will be slightly different with V3 pools. Kindly check the tutorial videos below for details
+{% endhint %}
+
+**Below are some tutorial videos on adding liquidity on zkSwap Finance**
+
+{% embed url="https://youtu.be/D7LgAgia87M" %}
+For V2 Classic Pools
+{% endembed %}
+
+{% embed url="https://youtu.be/3Wz5_O7TP28" %}
+For V3 Classic Full-Range
+{% endembed %}
+
+{% embed url="https://youtu.be/erf88YMRNqk" %}
+For V3 Concentrated (Selected Price Range)
+{% endembed %}
 
 ### 2. Remove liquidity
 
@@ -24,14 +40,12 @@
 6. Hit "Remove" in the remove liquidity window and "Confirm" in the pop-up window&#x20;
 7. Hit "Confirm" again on Metamask and wait for the 2 tokens to arrive in your wallet
 
-**Here's a video on how to add & remove liquidity on zkSwap Finance on classic pools/V2 pools**
+**Below are some tutorial videos on removing liquidity on zkSwap Finance**
 
-{% embed url="https://www.youtube.com/watch?v=lN7sPSu0OjU" %}
-
-{% hint style="info" %}
-For V3 pools, check out the video on how to farm (V3) [Classic Pools (Full Range)](https://youtu.be/t_aSBCY7_cI) & [Concentrated Liquidity](https://youtu.be/6LyjcpRfzGI)
-{% endhint %}
-
-**Here's a video on how to remove liquidity on zkSwap Finance V3 pools**
+{% embed url="https://www.youtube.com/watch?v=rbyvKSPowII" %}
+For C**lassic V2 pools**
+{% endembed %}
 
 {% embed url="https://youtu.be/C8lUmHpb69g" %}
+For All V3 pools
+{% endembed %}

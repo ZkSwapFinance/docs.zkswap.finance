@@ -12,7 +12,7 @@ Whether you're adding liquidity to a **Classic Pool (V2)** or a **Concentrated L
 
 ## 🎯 ZAP for Concentrated Liquidity Pools (V3)
 
-Adding liquidity to Uniswap v3-style pools is complex due to custom ranges and imbalanced ratios. ZAP V3 solves this via KyberSwap's Zap API and Aggregator, designed for real-time optimization.
+Adding liquidity to v3-style pools is complex due to custom ranges and imbalanced ratios. ZAP V3 solves this via KyberSwap's Zap API and Aggregator, designed for real-time optimization.
 
 ### Zap In — Add Liquidity to a V3 Range with One or Several Arbitrary Token
 
@@ -52,7 +52,7 @@ Classic (V2-style) pools require liquidity to be added in a **50/50 ratio** betw
 * Adds both tokens into the pool at a 50:50 ratio.
 * Returns your LP tokens to your wallet.
 
-**Example:** You want to add to the USDC-ETH pool, but only have USDC. ZAP converts a portion of your USDC into ETH and adds the pair into the pool in the correct proportions.
+**Example:** You want to add to the USDC-ETH pool, but only have USDC. ZAP converts a portion of your USDC into ETH and adds the pair into the pool in the correct proportions. Then Zap returns the LP tokens to your wallet.
 
 ### **Zap Out – Withdraw and Receive One Token**
 
@@ -65,7 +65,7 @@ Classic (V2-style) pools require liquidity to be added in a **50/50 ratio** betw
 * 💡 Simple UI, single transaction
 * ⛽ Fewer gas fees
 * 🧠 No need to calculate token ratios manually
-* 🔁 Powered by **Odos.xyz** aggregator for best swap routes
+* 🔁 Powered by Odos.xyz aggregator and Zap API for best swap routes
 
 
 

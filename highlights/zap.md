@@ -14,15 +14,15 @@ Whether you're adding liquidity to a **Classic Pool (V2)** or a **Concentrated L
 
 Adding liquidity to v3-style pools is complex due to custom ranges and imbalanced ratios. ZAP V3 solves this via KyberSwap's Zap API and Aggregator, designed for real-time optimization.
 
-#### Zap In — Add Liquidity to a V3 Range with One or Several Arbitrary Token
+#### Zap In — Add Liquidity to a V3 Range with One or Several Tokens
 
-* Input any amount of a single token (e.g., 5,000 USDT).
+* Input any amount of a single token (e.g., 5,000 USDT) or some tokens (e.g., 5,000 USDT & 1 ETH).
 * ZAP uses KyberSwap's off-chain aggregator to simulate optimal swap routes.
 * On-chain, the system rechecks the pool state before execution to adjust for slippage or price drift.
 * Tokens are added at the right ratio into your selected price range.
 * You receive a Liquidity Position NFT.
 
-**Example:** You want to add to the ZK-USDC pool, but only have ETH. ZAP converts a portion of your ETH into ZK and another portion into USDC based on your price range settings. Then ZAP adds the pair into the pool in the correct proportions and return the Liquidity Position NFT back to you.
+**Example:** You want to add to the ZK-USDC pool, but only have ETH and USDT. ZAP converts a portion of your ETH and USDT into ZK and another portion into USDC based on your price range settings. Then ZAP adds the pair into the pool in the correct proportions and return the Liquidity Position NFT back to you.
 
 #### Zap Out — Withdraw to One Token
 

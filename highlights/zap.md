@@ -6,7 +6,7 @@ description: Zap in - Zap Out. Adding and Removing Liquidity becomes much simple
 
 <figure><img src="../.gitbook/assets/zap.png" alt=""><figcaption></figcaption></figure>
 
-**ZAP** is zkSwap Finance's smart liquidity tool that allows users to add or remove liquidity with just a **single token**, eliminating the complexity of ratio management and multi-step transactions.
+**ZAP** is zkSwap Finance's smart liquidity tool that allows users to add or remove liquidity with just a **single token (Zap In and Zap Out) or several tokens (Zap In)**, eliminating the complexity of ratio management and multi-step transactions.
 
 Whether you're adding liquidity to a **Classic Pool (V2)** or a **Concentrated Liquidity Pool (V3)**, ZAP streamlines the process into a single, efficient, and gas-optimized transaction.
 

@@ -10,8 +10,8 @@ description: Comprehensive details of the zkSwap Finance smart contracts
 
 ###
 
-{% content-ref url="zkswap-exchange.md" %}
-[zkswap-exchange.md](zkswap-exchange.md)
+{% content-ref url="dex-zksync.md" %}
+[dex-zksync.md](dex-zksync.md)
 {% endcontent-ref %}
 
 {% content-ref url="farming-and-staking.md" %}

@@ -16,7 +16,8 @@
 ## CONTRACTS & AUDITS
 
 * [🔎 Smart Contracts](contracts-and-audits/smart-contracts/README.md)
-  * [zkSwap Exchange](contracts-and-audits/smart-contracts/zkswap-exchange.md)
+  * [DEX - ZKsync](contracts-and-audits/smart-contracts/dex-zksync.md)
+  * [DEX - Monad Testnet](contracts-and-audits/smart-contracts/dex-monad-testnet.md)
   * [Farming & Staking](contracts-and-audits/smart-contracts/farming-and-staking.md)
   * [Protocol Funds & Timelocks](contracts-and-audits/smart-contracts/protocol-funds-and-timelocks.md)
   * [ZF Token Minters](contracts-and-audits/smart-contracts/zf-token-minters.md)

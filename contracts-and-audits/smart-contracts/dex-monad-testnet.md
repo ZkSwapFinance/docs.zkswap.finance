@@ -10,9 +10,13 @@ icon: books
 
 ### V2 AMM Contracts
 
+`INIT_CODE_HASHES: 0xd7bc42bd7b58f1f6511bb7ad12836071499ceb96ad60a589e25d4d002ed5ce10`
+
 <table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>RouterV2</td><td><a href="https://testnet.monadexplorer.com/address/0x3be99Db246c81df2Bd8Dc0d708E03F64e1A84917">0x3be99Db246c81df2Bd8Dc0d708E03F64e1A84917</a></td><td>No contract owner</td></tr><tr><td>FactoryV2</td><td><a href="https://testnet.monadexplorer.com/address/0x095f464B7A6A45b4f03abB32E7C42e05F0c58E9b">0x095f464B7A6A45b4f03abB32E7C42e05F0c58E9b</a></td><td>Deployer</td></tr></tbody></table>
 
 ### V3 AMM Contracts
+
+`INIT_CODE_HASHES: 0xb02c7c6f66461f9a4489b76b54f02f2d9fa6b996f5311a223b076f3a18b6e735`
 
 <table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>ZFV3Factory</td><td><a href="https://testnet.monadexplorer.com/address/0x14df23F5DFC0d0Cf781fBc552443ab9FF33Bb9d4">0x14df23F5DFC0d0Cf781fBc552443ab9FF33Bb9d4</a></td><td><a href="https://app.safe.global/settings/setup?safe=zksync:0x0D64C4eb0547C1F51b78Fb1A53583dC9042238C0">Multisig Core Wallet</a></td></tr><tr><td>ZFV3PoolDeployer</td><td><a href="https://testnet.monadexplorer.com/address/0xBC7dcb8C29971bc0293d54Db9D29738c7ae09964">0xBC7dcb8C29971bc0293d54Db9D29738c7ae09964</a></td><td>No contract owner</td></tr><tr><td>NFTDescriptorProxy</td><td><a href="https://testnet.monadexplorer.com/address/0xCd219ae923b5F20cB36aD316a129D8F9015D1822">0xCd219ae923b5F20cB36aD316a129D8F9015D1822</a></td><td>No contract owner</td></tr><tr><td>Nonfungible Position Manager</td><td><a href="https://testnet.monadexplorer.com/address/0xa29812968fCC0c34bF89926A22939CafCe02C639?tab=Transaction">0xa29812968fCC0c34bF89926A22939CafCe02C639</a></td><td>No contract owner</td></tr><tr><td>QuoterV2</td><td><a href="https://testnet.monadexplorer.com/address/0xD7Ec145b53CB1a62dB42fc1bB27E050d8b835d8F">0xD7Ec145b53CB1a62dB42fc1bB27E050d8b835d8F</a></td><td>No contract owner</td></tr><tr><td>TickLens</td><td><a href="https://testnet.monadexplorer.com/address/0x6d85e2783e1602DF1306631c068FA6870C5459d5">0x6d85e2783e1602DF1306631c068FA6870C5459d5</a></td><td>No contract owner</td></tr><tr><td>Permit2</td><td><a href="https://testnet.monadexplorer.com/address/0x969491FC643492E7a6bCfD49ed06E20Bc9B98C53">0x969491FC643492E7a6bCfD49ed06E20Bc9B98C53</a></td><td>No contract owner</td></tr></tbody></table>
 

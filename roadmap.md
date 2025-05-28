@@ -39,34 +39,34 @@ In this phase, zkSwap Finance aims to become a formidable DeFi competitor by exp
 
 In this phase, zkSwap continually enhances its platform by introducing diverse products, pushing the ecosystem to new heights and maintaining a leading position in blockchain innovation.
 
-* [ ] Web App Development
-  * [x] zkFlow-v2
-  * [x] Bridge-v2
-  * [x] Zap In - Zap Out
-  * [x] AI Live Chat Support
-  * [x] ZF Paymaster (Account Abstraction)
-  * [x] Dexs Aggregator
-  * [x] Strengthen frontend security
-  * [x] More audits
-  * [x] Heatmap
-  * [x] $LONG
-  * [x] Lens
-  * [x] ZF Paymaster V2 (Gasless swap for $ZF & $LONG Holders)
-  * [x] Bubbles
-  * [x] Revamp UI 1.1
-  * [x] Portfolio
-  * [x] Revoke
-  * [x] History
-  * [x] DuoEarn for main pools
-  * [x] StableSwap
-  * [x] Integrate Swap2Earn for StableSwap
-  * [x] AMM V3 (Concentrated Liquidity)
-  * [x] Universal Router (Smart Router)
-  * [x] Overhaul the whole front-end underlying engine to prepare for multichain future
-  * [x] zkIgnite Integration
-  * [x] New Paymaster improvements on UI/UX/Engine/Policies.
-  * [x] Farming for StableSwap
-  * [x] Farming for Concentrated liquidity (V3) Pools
+* [x] zkFlow-v2
+* [x] Bridge-v2
+* [x] Zap In - Zap Out
+* [x] AI Live Chat Support
+* [x] ZF Paymaster (Account Abstraction)
+* [x] Dexs Aggregator
+* [x] Strengthen frontend security
+* [x] More audits
+* [x] Heatmap
+* [x] $LONG
+* [x] Lens
+* [x] ZF Paymaster V2 (Gasless swap for $ZF & $LONG Holders)
+* [x] Bubbles
+* [x] Revamp UI 1.1
+* [x] Portfolio
+* [x] Revoke
+* [x] History
+* [x] DuoEarn for main pools
+* [x] StableSwap
+* [x] Integrate Swap2Earn for StableSwap
+* [x] AMM V3 (Concentrated Liquidity)
+* [x] Universal Router (Smart Router)
+* [x] Overhaul the whole front-end underlying engine to prepare for multichain future
+* [x] zkIgnite Integration
+* [x] New Paymaster improvements on UI/UX/Engine/Policies.
+* [x] Farming for StableSwap
+* [x] Farming for Concentrated liquidity (V3) Pools
+* [x] Ongoing maintenance of all services.
 * [x] Certik Audit
 * [x] Certik KYC
 * [x] Certik Bug Bounty

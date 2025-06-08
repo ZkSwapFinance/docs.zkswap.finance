@@ -1,8 +1,4 @@
----
-icon: books
----
-
-# DEX - Monad Testnet
+# 🧪 DEX - Monad Testnet
 
 ### Universal Router
 
@@ -24,3 +20,8 @@ icon: books
 
 <table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>3pool (USDC - USDm - USDT)</td><td><a href="https://testnet.monadexplorer.com/address/0x7099c203c1d442446d0c0D7ba95b77B6c70d1954">0x7099c203c1d442446d0c0D7ba95b77B6c70d1954</a></td><td>No contract owner</td></tr><tr><td>ZFStableSwapFactory</td><td><a href="https://testnet.monadexplorer.com/address/0xCEd35925A87990E3B06a63Ff4Dae82E159ceDA27?tab=Transaction">0xCEd35925A87990E3B06a63Ff4Dae82E159ceDA27</a></td><td>Deployer</td></tr><tr><td>ZFStableSwapLPFactory </td><td><a href="https://testnet.monadexplorer.com/address/0xC60cBC14D170A95938bb630AE78a8306dd7cF120">0xC60cBC14D170A95938bb630AE78a8306dd7cF120</a></td><td><a href="https://era.zksync.network/address/0xc93397F26886daB0d752C86612C78dbd2C1d5a59#code">ZFStableSwap Factory </a></td></tr><tr><td>ZFStableSwapTwoPool Deployer</td><td><a href="https://testnet.monadexplorer.com/address/0x2e11640eE1368F2cD90C36607760a274a30094F5">0x2e11640eE1368F2cD90C36607760a274a30094F5</a></td><td><a href="https://era.zksync.network/address/0xc93397F26886daB0d752C86612C78dbd2C1d5a59#code">ZFStableSwap Factory</a></td></tr><tr><td>ZFStableSwapThreePool Deployer</td><td><a href="https://testnet.monadexplorer.com/address/0x3eC4879991d51338d2A2D037f4DaD439570Cf971">0x3eC4879991d51338d2A2D037f4DaD439570Cf971</a></td><td><a href="https://era.zksync.network/address/0xc93397F26886daB0d752C86612C78dbd2C1d5a59#code">ZFStableSwap Factory</a></td></tr><tr><td>ZFStableSwapTwoPoolInfo</td><td><a href="https://testnet.monadexplorer.com/address/0xAA218216b7DB7b1F51a6d3a615D9470c86E29219">0xAA218216b7DB7b1F51a6d3a615D9470c86E29219</a></td><td>No contract owner</td></tr><tr><td>ZFStableSwapThreePoolInfo</td><td><a href="https://testnet.monadexplorer.com/address/0xD2d52B5F624bC7Dc6EF66a86F833cF93524f99fD">0xD2d52B5F624bC7Dc6EF66a86F833cF93524f99fD</a></td><td>No contract owner</td></tr></tbody></table>
 
+
+
+### Others
+
+<table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>GreeterFactory</td><td><a href="https://testnet.monadexplorer.com/address/0x987B30CBe19F0a4461731C32bBe4a22271ec0D57">0x987B30CBe19F0a4461731C32bBe4a22271ec0D57</a></td><td>No contract owner</td></tr><tr><td>Moon</td><td><a href="https://testnet.monadexplorer.com/token/0x4aa50E8208095d9594d18E8e3008ABB811125dCE">0x4aa50E8208095d9594d18E8e3008ABB811125dCE</a></td><td>Deployer</td></tr><tr><td>ZFNFT</td><td><a href="https://testnet.monadexplorer.com/token/0x4f79d211d0536fFe453203229C6AD32aD25681e8?tab=Contract">0x4f79d211d0536fFe453203229C6AD32aD25681e8</a></td><td>No contract owner</td></tr></tbody></table>

@@ -8,7 +8,12 @@ Welcome to zkSwap Finance roadmap! This document outlines the primary steps in o
 
 In this phase, zkSwap Finance aims to become a formidable DeFi competitor by expanding across multiple blockchains, fostering strategic partnerships for broader ecosystem integration, and continuously innovating to cater to a diverse global audience.
 
-* [x] Monad Testnet
+* [ ] Mainnet
+  * [x] Sonic
+  * [ ] ...\[New chain]...
+* [ ] Testnet
+  * [x] Monad Testnet
+  * [ ] ...\[New chain]...
 * [ ] Web App Development
   * [x] Merge Swap + Aggregator --> New Better Swap
   * [x] Improve Adding Liquidity with price support and resistance
@@ -17,11 +22,9 @@ In this phase, zkSwap Finance aims to become a formidable DeFi competitor by exp
   * [ ] ...
   * [ ] ...
 * [ ] Another Mainnets
-* [ ] Token $ZF goes multichain + ZF token bridge integration
+* [x] Token $ZF goes multichain + ZF token bridge integration
 * [ ] Swap2Earn on multiple chains
 * [ ] DuoEarn on multiple chains
-* [ ] ...\[New chain]...
-* [ ] ...\[New chain]...
 * [ ] Continuous Community Expansion Campaign
 * [ ] Maintenance & Continuous Improvement UI, UX and Performance&#x20;
 * [ ] Developing more side products

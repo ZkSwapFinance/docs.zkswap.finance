@@ -16,12 +16,17 @@
 ## CONTRACTS & AUDITS
 
 * [🔎 Smart Contracts](contracts-and-audits/smart-contracts/README.md)
-  * [DEX - ZKsync](contracts-and-audits/smart-contracts/dex-zksync.md)
-  * [DEX - Monad Testnet](contracts-and-audits/smart-contracts/dex-monad-testnet.md)
-  * [Farming & Staking](contracts-and-audits/smart-contracts/farming-and-staking.md)
-  * [Protocol Funds & Timelocks](contracts-and-audits/smart-contracts/protocol-funds-and-timelocks.md)
-  * [ZF Token Minters](contracts-and-audits/smart-contracts/zf-token-minters.md)
-  * [ZF Paymasters](contracts-and-audits/smart-contracts/zf-paymasters.md)
+  * [1️⃣ zkSync Era](contracts-and-audits/smart-contracts/zksync-era/README.md)
+    * [DEX - ZKsync](contracts-and-audits/smart-contracts/zksync-era/dex-zksync.md)
+    * [Farming & Staking](contracts-and-audits/smart-contracts/zksync-era/farming-and-staking.md)
+    * [Protocol Funds & Timelocks](contracts-and-audits/smart-contracts/zksync-era/protocol-funds-and-timelocks.md)
+    * [ZF Token Minters](contracts-and-audits/smart-contracts/zksync-era/zf-token-minters.md)
+    * [ZF Paymasters](contracts-and-audits/smart-contracts/zksync-era/zf-paymasters.md)
+    * [Aggregator & Bridge](contracts-and-audits/smart-contracts/zksync-era/aggregator-and-bridge.md)
+  * [2️⃣ Sonic](contracts-and-audits/smart-contracts/sonic/README.md)
+    * [DEX - Sonic](contracts-and-audits/smart-contracts/sonic/dex-sonic.md)
+    * [Aggregator & Bridge](contracts-and-audits/smart-contracts/sonic/aggregator-and-bridge.md)
+  * [🧪 DEX - Monad Testnet](contracts-and-audits/smart-contracts/dex-monad-testnet.md)
 * [🗝️ Multisig Wallets](contracts-and-audits/multisig-wallets.md)
 * [🛡️ Audits & Security](contracts-and-audits/audits-and-security.md)
 

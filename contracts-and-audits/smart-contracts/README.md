@@ -10,23 +10,23 @@ description: Comprehensive details of the zkSwap Finance smart contracts
 
 ###
 
-{% content-ref url="dex-zksync.md" %}
-[dex-zksync.md](dex-zksync.md)
+{% content-ref url="zksync-era/dex-zksync.md" %}
+[dex-zksync.md](zksync-era/dex-zksync.md)
 {% endcontent-ref %}
 
-{% content-ref url="farming-and-staking.md" %}
-[farming-and-staking.md](farming-and-staking.md)
+{% content-ref url="zksync-era/farming-and-staking.md" %}
+[farming-and-staking.md](zksync-era/farming-and-staking.md)
 {% endcontent-ref %}
 
-{% content-ref url="protocol-funds-and-timelocks.md" %}
-[protocol-funds-and-timelocks.md](protocol-funds-and-timelocks.md)
+{% content-ref url="zksync-era/protocol-funds-and-timelocks.md" %}
+[protocol-funds-and-timelocks.md](zksync-era/protocol-funds-and-timelocks.md)
 {% endcontent-ref %}
 
-{% content-ref url="zf-token-minters.md" %}
-[zf-token-minters.md](zf-token-minters.md)
+{% content-ref url="zksync-era/zf-token-minters.md" %}
+[zf-token-minters.md](zksync-era/zf-token-minters.md)
 {% endcontent-ref %}
 
-{% content-ref url="zf-paymasters.md" %}
-[zf-paymasters.md](zf-paymasters.md)
+{% content-ref url="zksync-era/zf-paymasters.md" %}
+[zf-paymasters.md](zksync-era/zf-paymasters.md)
 {% endcontent-ref %}
 

@@ -1,8 +1,8 @@
 # 👋 Introduction
 
-**zkSwap Finance is the top DEX and the first Swap to Earn DeFi Platform on zkSync Era ecosystem, pioneering a unique incentive model that rewards both liquidity providers and traders.**
+**zkSwap Finance is a leading multichain DEX and the first Swap2Earn DeFi platform, pioneering an incentive model that rewards both liquidity providers and traders**
 
-On our platform on zkSync Era (Layer 2 of Ethereum), you can expect a novel, distinctive, and imaginative experience where any contribution to the project is valued and acknowledged. We prioritize user-centric features and strive for the sustainable growth of the ecosystem as a whole.
+Originally launched on zkSync Era (Ethereum Layer 2), zkSwap has since expanded across multiple blockchain networks, with more integrations continually underway. We offer a novel and imaginative DeFi experience where every contribution is recognized. Our platform is built around user-centric features and a strong commitment to sustainable ecosystem growth across all supported chains.
 
 We encourage you to read our [Ethos & Value](https://docs.zkswap.finance/resources/about-us) to learn more about our commitments.
 
@@ -26,9 +26,9 @@ We encourage you to read our [Ethos & Value](https://docs.zkswap.finance/resourc
 ### Join the zkSwap Finance community!
 
 * **Website:** [**https://zkswap.finance/**](https://zkswap.finance/)
-* **Twitter:** [**https://twitter.com/zkSwap\_finance**](https://twitter.com/zkSwap\_finance)
+* **Twitter:** [**https://twitter.com/zkSwap\_finance**](https://twitter.com/zkSwap_finance)
 * **Debank:** [**https://debank.com/official-account/111776**](https://debank.com/official-account/111776)
 * **Discord:** [**https://discord.gg/zkswap-finance**](https://discord.gg/zkswap-finance)
-* **Telegram:** [**https://t.me/zkSwap\_Announcement**](https://t.me/zkSwap\_Announcement)
-* **Linktree:** [**https://linktr.ee/zkswap\_finance**](https://linktr.ee/zkswap\_finance)
+* **Telegram:** [**https://t.me/zkSwap\_Announcement**](https://t.me/zkSwap_Announcement)
+* **Linktree:** [**https://linktr.ee/zkswap\_finance**](https://linktr.ee/zkswap_finance)
 

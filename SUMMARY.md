@@ -16,7 +16,7 @@
 ## CONTRACTS & AUDITS
 
 * [🔎 Smart Contracts](contracts-and-audits/smart-contracts/README.md)
-  * [1️⃣ zkSync Era](contracts-and-audits/smart-contracts/zksync-era/README.md)
+  * [1️⃣ ZKsync Era](contracts-and-audits/smart-contracts/zksync-era/README.md)
     * [DEX - ZKsync](contracts-and-audits/smart-contracts/zksync-era/dex-zksync.md)
     * [Farming & Staking](contracts-and-audits/smart-contracts/zksync-era/farming-and-staking.md)
     * [Protocol Funds & Timelocks](contracts-and-audits/smart-contracts/zksync-era/protocol-funds-and-timelocks.md)

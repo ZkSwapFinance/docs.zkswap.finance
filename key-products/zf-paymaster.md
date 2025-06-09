@@ -5,7 +5,7 @@
 **Try at:** [**https://zkswap.finance/swap**](https://zkswap.finance/swap)\
 **List of** [**ZF Paymaster smart contracts**](../contracts-and-audits/smart-contracts/#zf-paymasters)
 
-### zkSwap Finance Paymaster: A zkSync Era Native Solution
+### zkSwap Finance Paymaster: A ZKsync Era Native Solution
 
 "zkSwap Finance has leveraged AA to create a powerful feature called ZF Paymaster. This feature allows users to pay for gas fees with the platform's native token, $ZF, and a multitude of other tokens, instead of ETH. This brings several key benefits:
 

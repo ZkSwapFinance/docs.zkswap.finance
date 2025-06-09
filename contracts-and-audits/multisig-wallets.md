@@ -7,7 +7,7 @@ description: Gnosis Safe Multisig Wallets Addresses used by the project
 Any transaction requires 3 out of 5 signatures to be authorized.
 
 {% tabs %}
-{% tab title="zkSync Era" %}
+{% tab title="ZKsync Era" %}
 | Name                       | MultiSig Core Wallet                                                                                                                        | MultiSig Funds Wallet                                                                                                                       |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Gnosis Safe Contract (3/5) | [0x0D64C4eb0547C1F51b78Fb1A53583dC9042238C0](https://app.safe.global/settings/setup?safe=zksync:0x0D64C4eb0547C1F51b78Fb1A53583dC9042238C0) | [0xF1802d9a70Bdc6F6EffD65d44b33226eE0E6A821](https://app.safe.global/settings/setup?safe=zksync:0xF1802d9a70Bdc6F6EffD65d44b33226eE0E6A821) |

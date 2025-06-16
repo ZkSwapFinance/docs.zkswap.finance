@@ -1,6 +1,6 @@
 # 👋 Introduction
 
-**zkSwap Finance is a leading multichain DEX and the first Swap2Earn DeFi platform, pioneering an incentive model that rewards both liquidity providers and traders**
+**zkSwap Finance is a multichain decentralized exchange that offers a Swap2Earn model, designed to provide incentives for both liquidity providers and traders.**
 
 Originally launched on zkSync Era (Ethereum Layer 2), zkSwap has since expanded across multiple blockchain networks, with more integrations continually underway. We offer a novel and imaginative DeFi experience where every contribution is recognized. Our platform is built around user-centric features and a strong commitment to sustainable ecosystem growth across all supported chains.
 

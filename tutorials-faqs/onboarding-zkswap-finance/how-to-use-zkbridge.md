@@ -12,3 +12,7 @@
 {% embed url="https://youtu.be/51fNIjazyJA" %}
 zkBridge tutorial video
 {% endembed %}
+
+{% embed url="https://www.youtube.com/watch?v=RZSMVv7W5u0" %}
+Example of bridging $ZF from zkSync Era to Sonic
+{% endembed %}

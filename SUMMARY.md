@@ -26,6 +26,7 @@
   * [2️⃣ Sonic](contracts-and-audits/smart-contracts/sonic/README.md)
     * [DEX - Sonic](contracts-and-audits/smart-contracts/sonic/dex-sonic.md)
     * [Aggregator & Bridge](contracts-and-audits/smart-contracts/sonic/aggregator-and-bridge.md)
+    * [Farming & Staking](contracts-and-audits/smart-contracts/sonic/farming-and-staking.md)
   * [🧪 DEX - Monad Testnet](contracts-and-audits/smart-contracts/dex-monad-testnet.md)
 * [🗝️ Multisig Wallets](contracts-and-audits/multisig-wallets.md)
 * [🛡️ Audits & Security](contracts-and-audits/audits-and-security.md)

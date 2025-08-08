@@ -4,6 +4,10 @@
 
 <table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>UniversalRouter</td><td><a href="https://testnet.monadexplorer.com/address/0x74a116B1Bb7894D3cFbC4B1a12F59ea95f3FFf81?tab=Transaction">0x74a116B1Bb7894D3cFbC4B1a12F59ea95f3FFf81</a></td><td><a href="https://app.safe.global/settings/setup?safe=zksync:0x0D64C4eb0547C1F51b78Fb1A53583dC9042238C0">Multisig Core Wallet</a></td></tr></tbody></table>
 
+### Aggregator & Bridge
+
+<table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>AggregatorSmart </td><td><a href="https://testnet.monadexplorer.com/address/0xcF9FB929FA29eC1C1A216717200232c5B0C3d744">0xcF9FB929FA29eC1C1A216717200232c5B0C3d744</a></td><td><a href="https://app.safe.global/settings/setup?safe=zksync:0x0D64C4eb0547C1F51b78Fb1A53583dC9042238C0">Multisig Core Wallet</a></td></tr></tbody></table>
+
 ### V2 AMM Contracts
 
 `INIT_CODE_HASH: 0xd7bc42bd7b58f1f6511bb7ad12836071499ceb96ad60a589e25d4d002ed5ce10`

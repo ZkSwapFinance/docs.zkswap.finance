@@ -2,7 +2,7 @@
 
 ### Universal Router
 
-<table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>UniversalRouter</td><td><a href="https://testnet.monadexplorer.com/address/0x74a116B1Bb7894D3cFbC4B1a12F59ea95f3FFf81?tab=Transaction">0x74a116B1Bb7894D3cFbC4B1a12F59ea95f3FFf81</a></td><td><a href="https://app.safe.global/settings/setup?safe=zksync:0x0D64C4eb0547C1F51b78Fb1A53583dC9042238C0">Multisig Core Wallet</a></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>UniversalRouter</td><td><a href="https://testnet.monadexplorer.com/address/0x74a116B1Bb7894D3cFbC4B1a12F59ea95f3FFf81?tab=Transaction">0x74a116B1Bb7894D3cFbC4B1a12F59ea95f3FFf81</a></td><td><a href="https://app.safe.global/settings/setup?safe=zksync:0x0D64C4eb0547C1F51b78Fb1A53583dC9042238C0">Multisig Core Wallet</a></td></tr><tr><td>SmartRouter</td><td><a href="https://testnet.monadexplorer.com/address/0x911418378663b093a81E4B84Ca5bb0b910816935">0x911418378663b093a81E4B84Ca5bb0b910816935</a></td><td><a href="https://app.safe.global/settings/setup?safe=zksync:0x0D64C4eb0547C1F51b78Fb1A53583dC9042238C0">Multisig Core Wallet</a></td></tr></tbody></table>
 
 ### Aggregator & Bridge
 

@@ -27,6 +27,10 @@ For V3 Classic Full-Range
 For V3 Concentrated (Selected Price Range)
 {% endembed %}
 
+{% embed url="https://youtu.be/Pyp7Idde0Uk" %}
+For V3 Concentrated (Selected Price Range) with Zap
+{% endembed %}
+
 ### 2. Remove liquidity
 
 1. Head to liquidity page at [https://zkswap.finance/add](https://zkswap.finance/add) and connect your wallet

@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/REVOKE.png" alt=""><figcaption></figcaption></figure>
 
-**Try at** [**https://zkswap.finance/Revoke**](https://zkswap.finance/Revoke) **or** [**https://zkrevoke.info**](https://zkswap.finance/zkRevoke)
+**Try at** [**https://zkswap.finance/Revoke**](https://zkswap.finance/Revoke)&#x20;
 
 Revoke is a specialized tool designed to securely revoke token approvals and manage permissions with ease, ensuring complete control over their crypto assets. Explore our user-friendly interface and manage your crypto assets effortlessly
 

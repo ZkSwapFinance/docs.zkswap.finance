@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/LENS.png" alt=""><figcaption></figcaption></figure>
 
-**Try at:** [**https://zkswap.finance/Lens**](https://zkswap.finance/Lens) **or** [**https://zkLens.info**](https://zklens.info)
+**Try at:** [**https://zkswap.finance/Lens**](https://zkswap.finance/Lens)
 
 ### Lens: Simplifying Your Exploration of zkSync
 

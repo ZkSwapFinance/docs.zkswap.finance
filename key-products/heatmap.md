@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/HEATMAP.png" alt=""><figcaption></figcaption></figure>
 
-**Try at:** [**https://zkswap.finance/Heatmap**](https://zkswap.finance/Heatmap) **or** [**https://zkHeatmap.info**](https://zkheatmap.info)
+**Try at:** [**https://zkswap.finance/Heatmap**](https://zkswap.finance/Heatmap)
 
 ### Heatmap: Explore the Hottest Tokens and Gems on zkSync
 

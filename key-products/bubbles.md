@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/bubbles.png" alt=""><figcaption></figcaption></figure>
 
-**Try at:** [**https://zkswap.finance/Bubbles**](https://zkswap.finance/Bubbles) **or** [**https://zkbubbles.info**](https://zkbubbles.info)
+**Try at:** [**https://zkswap.finance/Bubbles**](https://zkswap.finance/Bubbles)
 
 ### Bubbles: Exploring the dynamic worlds of gems on zkSync
 

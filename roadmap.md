@@ -24,10 +24,11 @@ In this phase, zkSwap Finance aims to become a formidable DeFi competitor by exp
 * [x] Token $ZF goes multichain + ZF token bridge integration
 * [x] Swap2Earn on multiple chains
 * [x] DuoEarn on multiple chains
-* [ ] Continuous Community Expansion Campaign
-* [ ] Maintenance & Continuous Improvement UI, UX and Performance&#x20;
+* [x] Implemented front-end and back-end functionality for the newly [open DEX Policy](https://x.com/zkSwap_finance/status/1964644479341908067).
 * [x] New Product: [Tokenize NFT](key-products/tokenize-nft.md)
 * [ ] Developing more products
+* [ ] Continuous Community Expansion Campaign
+* [ ] Maintenance & Continuous Improvement UI, UX and Performance&#x20;
 * [ ] Continuing to innovate and adapt services
 * [ ] Listing on Top CEXs
   * [x] Gate.io

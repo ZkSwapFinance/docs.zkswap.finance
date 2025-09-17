@@ -4,7 +4,7 @@
 
 Welcome to zkSwap Finance roadmap! This document outlines the primary steps in our plans, providing a main trajectory for our collective efforts. It's important to note that this roadmap is a flexible guide, and revisions may be made as needed. We value adaptability and welcome any adjustments that will contribute to the success of our project. Let's embark on this journey together, confident in our ability to navigate and refine our path to success.
 
-### **PHASE 4: MULTICHAIN EXPANSION**
+### **PHASE 4: MULTICHAIN EXPANSION + CONTINUOUS EVOLUTION**
 
 In this phase, zkSwap Finance aims to become a formidable DeFi competitor by expanding across multiple blockchains, fostering strategic partnerships for broader ecosystem integration, and continuously innovating to cater to a diverse global audience.
 
@@ -15,19 +15,19 @@ In this phase, zkSwap Finance aims to become a formidable DeFi competitor by exp
   * [x] Monad Testnet
   * [ ] ...\[New chain]...
 * [ ] Web App Development
-  * [x] Merge Swap + Aggregator --> New Better Swap
+  * [x] Merge Swap + Aggregator → New Better Swap
   * [x] Improve Adding Liquidity with price support and resistance
-  * [x] Convenient V2 --> V3 migration process&#x20;
+  * [x] Convenient V2 → V3 migration process&#x20;
   * [x] Zap In - Zap Out for V3 concentrated liquidity
   * [ ] ...
   * [ ] ...
-* [ ] Another Mainnets
 * [x] Token $ZF goes multichain + ZF token bridge integration
-* [ ] Swap2Earn on multiple chains
-* [ ] DuoEarn on multiple chains
+* [x] Swap2Earn on multiple chains
+* [x] DuoEarn on multiple chains
 * [ ] Continuous Community Expansion Campaign
 * [ ] Maintenance & Continuous Improvement UI, UX and Performance&#x20;
-* [ ] Developing more side products
+* [x] New Product: Tokenize NFT
+* [ ] Developing more products
 * [ ] Continuing to innovate and adapt services
 * [ ] Listing on Top CEXs
   * [x] Gate.io

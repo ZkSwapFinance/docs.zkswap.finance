@@ -26,7 +26,7 @@ In this phase, zkSwap Finance aims to become a formidable DeFi competitor by exp
 * [x] DuoEarn on multiple chains
 * [ ] Continuous Community Expansion Campaign
 * [ ] Maintenance & Continuous Improvement UI, UX and Performance&#x20;
-* [x] New Product: Tokenize NFT
+* [x] New Product: [Tokenize NFT](key-products/tokenize-nft.md)
 * [ ] Developing more products
 * [ ] Continuing to innovate and adapt services
 * [ ] Listing on Top CEXs

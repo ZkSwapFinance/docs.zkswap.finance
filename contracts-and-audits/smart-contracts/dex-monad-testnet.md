@@ -1,3 +1,9 @@
+---
+description: >-
+  ABIs can be directly copied from the block explorer. If not, then they are
+  attached here.
+---
+
 # 🧪 DEX - Monad Testnet
 
 ### Universal Router
@@ -7,6 +13,10 @@
 ### Aggregator & Bridge
 
 <table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>AggregatorSmart </td><td><a href="https://testnet.monadexplorer.com/address/0xcF9FB929FA29eC1C1A216717200232c5B0C3d744">0xcF9FB929FA29eC1C1A216717200232c5B0C3d744</a></td><td><a href="https://app.safe.global/settings/setup?safe=zksync:0x0D64C4eb0547C1F51b78Fb1A53583dC9042238C0">Multisig Core Wallet</a></td></tr></tbody></table>
+
+### Tokenize NFT
+
+<table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th><th data-type="files">ABI</th></tr></thead><tbody><tr><td>NFT Wrapper Factory</td><td><a href="https://testnet.monadexplorer.com/address/0xDE95d9b5416D676003049Ca7480F78c16c067F21">0xDE95d9b5416D676003049Ca7480F78c16c067F21</a></td><td><a href="https://app.safe.global/settings/setup?safe=zksync:0x0D64C4eb0547C1F51b78Fb1A53583dC9042238C0">Multisig Core Wallet</a></td><td><a href="../../.gitbook/assets/NFTWrapperFactory_ABI.json">NFTWrapperFactory_ABI.json</a></td></tr><tr><td>NFT Wrapper</td><td><a href="https://testnet.monadexplorer.com/address/0xf06a9aa6e7fb411ffbe3bd75f4544c91ecf52e92">0xF06a9aA6e7Fb411FFbE3Bd75f4544c91Ecf52E92</a></td><td><a href="https://testnet.monadexplorer.com/address/0xDE95d9b5416D676003049Ca7480F78c16c067F21">NFT Wrapper Factory</a></td><td><a href="../../.gitbook/assets/NFTWrapper_ABI.json">NFTWrapper_ABI.json</a></td></tr></tbody></table>
 
 ### V2 AMM Contracts
 
@@ -23,10 +33,6 @@
 ### StableSwap Contracts
 
 <table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>3pool (USDC - USDm - USDT)</td><td><a href="https://testnet.monadexplorer.com/address/0x7099c203c1d442446d0c0D7ba95b77B6c70d1954">0x7099c203c1d442446d0c0D7ba95b77B6c70d1954</a></td><td>No contract owner</td></tr><tr><td>ZFStableSwapFactory</td><td><a href="https://testnet.monadexplorer.com/address/0xCEd35925A87990E3B06a63Ff4Dae82E159ceDA27?tab=Transaction">0xCEd35925A87990E3B06a63Ff4Dae82E159ceDA27</a></td><td>Deployer</td></tr><tr><td>ZFStableSwapLPFactory </td><td><a href="https://testnet.monadexplorer.com/address/0xC60cBC14D170A95938bb630AE78a8306dd7cF120">0xC60cBC14D170A95938bb630AE78a8306dd7cF120</a></td><td><a href="https://era.zksync.network/address/0xc93397F26886daB0d752C86612C78dbd2C1d5a59#code">ZFStableSwap Factory </a></td></tr><tr><td>ZFStableSwapTwoPool Deployer</td><td><a href="https://testnet.monadexplorer.com/address/0x2e11640eE1368F2cD90C36607760a274a30094F5">0x2e11640eE1368F2cD90C36607760a274a30094F5</a></td><td><a href="https://era.zksync.network/address/0xc93397F26886daB0d752C86612C78dbd2C1d5a59#code">ZFStableSwap Factory</a></td></tr><tr><td>ZFStableSwapThreePool Deployer</td><td><a href="https://testnet.monadexplorer.com/address/0x3eC4879991d51338d2A2D037f4DaD439570Cf971">0x3eC4879991d51338d2A2D037f4DaD439570Cf971</a></td><td><a href="https://era.zksync.network/address/0xc93397F26886daB0d752C86612C78dbd2C1d5a59#code">ZFStableSwap Factory</a></td></tr><tr><td>ZFStableSwapTwoPoolInfo</td><td><a href="https://testnet.monadexplorer.com/address/0xAA218216b7DB7b1F51a6d3a615D9470c86E29219">0xAA218216b7DB7b1F51a6d3a615D9470c86E29219</a></td><td>No contract owner</td></tr><tr><td>ZFStableSwapThreePoolInfo</td><td><a href="https://testnet.monadexplorer.com/address/0xD2d52B5F624bC7Dc6EF66a86F833cF93524f99fD">0xD2d52B5F624bC7Dc6EF66a86F833cF93524f99fD</a></td><td>No contract owner</td></tr></tbody></table>
-
-### Tokenize NFT
-
-<table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>NFT Wrapper Factory</td><td><a href="https://testnet.monadexplorer.com/address/0xDE95d9b5416D676003049Ca7480F78c16c067F21">0xDE95d9b5416D676003049Ca7480F78c16c067F21</a></td><td>No contract owner</td></tr></tbody></table>
 
 ### Others
 

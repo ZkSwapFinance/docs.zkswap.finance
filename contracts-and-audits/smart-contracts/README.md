@@ -1,5 +1,8 @@
 ---
-description: Comprehensive details of the zkSwap Finance smart contracts
+description: >-
+  Comprehensive details of the zkSwap Finance smart contracts. ABIs can be
+  directly copied from the block explorer. If not, then they are attached in
+  this Docs.
 ---
 
 # 🔎 Smart Contracts

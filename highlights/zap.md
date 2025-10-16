@@ -6,28 +6,30 @@ description: Zap in - Zap Out. Adding and Removing Liquidity becomes much simple
 
 <figure><img src="../.gitbook/assets/zap.png" alt=""><figcaption></figcaption></figure>
 
-**ZAP** is zkSwap Finance's smart liquidity tool that allows users to add or remove liquidity with just a **single token (Zap In and Zap Out) or several tokens (Zap In)**, eliminating the complexity of ratio management and multi-step transactions.
+**ZAP** is zkSwap Finance’s smart liquidity tool that lets users add or remove liquidity using **any ratio of two tokens**, eliminating manual balancing and multi-step transactions.
 
-Whether you're adding liquidity to a **Classic Pool (V2)** or a **Concentrated Liquidity Pool (V3)**, ZAP streamlines the process into a single, efficient, and gas-optimized transaction.
+It simplifies liquidity provision for both **Classic Pools (V2)** and **Concentrated Liquidity Pools (V3)**, performing all required swaps and liquidity actions in a **single seamless transaction**.
 
 ### 🎯 ZAP for Concentrated Liquidity Pools (V3)
 
-Adding liquidity to v3-style pools is complex due to custom ranges and imbalanced ratios. ZAP V3 solves this via KyberSwap's Zap API and Aggregator, designed for real-time optimization.
+Adding liquidity to V3-style pools can be complex due to custom ranges and non-50/50 ratios.
 
-#### Zap In — Add Liquidity to a V3 Range with One or Several Tokens
+**ZAP V3** solves this by letting you add liquidity using any proportion of the two pool tokens. The system automatically handles balancing and price range placement.
 
-* Input any amount of a single token (e.g., 5,000 USDT) or some tokens (e.g., 5,000 USDT & 1 ETH).
-* ZAP uses KyberSwap's off-chain aggregator to simulate optimal swap routes.
-* On-chain, the system rechecks the pool state before execution to adjust for slippage or price drift.
-* Tokens are added at the right ratio into your selected price range.
-* You receive a Liquidity Position NFT.
+#### Zap In — Add Liquidity with Any Ratio
 
-**Example:** You want to add to the ZK-USDC pool, but only have ETH and USDT. ZAP converts a portion of your ETH and USDT into ZK and another portion into USDC based on your price range settings. Then ZAP adds the pair into the pool in the correct proportions and return the Liquidity Position NFT back to you.
+* Input any ratio of the two pool tokens (e.g., 80% USDC and 20% S).
+* ZAP simulates optimal swap routes via the integrated aggregator.
+* On-chain, it revalidates pool state and adjusts for slippage or price drift.
+* Tokens are optimally converted and added into your selected price range.
+* You receive a **Liquidity Position NFT**.
 
-#### Zap Out — Withdraw to One Token
+**Example:** You’re adding to the **S–USDC** pool. You can supply any ratio, such as mostly USDC or mostly S. ZAP automatically converts and balances your inputs to match the current pool ratio and your selected price range, then mints your Liquidity Position NFT.
 
-* Choose one token to withdraw your position into (e.g., only ZK).
-* ZAP auto-converts all assets from your NFT position to your chosen token.
+#### Zap Out — Withdraw to One Token or Any Ratio
+
+* Choose a single token or any ratio between both tokens to receive on withdrawal (e.g., only USDC).
+* ZAP auto-converts all assets from your NFT position to your chosen token(s).
 
 #### Built-In Safety
 
@@ -39,25 +41,25 @@ Adding liquidity to v3-style pools is complex due to custom ranges and imbalance
 * 🧠 Handles complex liquidity logic behind the scenes
 * 🤖 Adaptive on-chain rebalancing at execution time
 * 🔁 Eliminates leftover or idle tokens
-* ⚡ Powered by KyberSwap’s Aggregator and Zap API
+* ⚡ Aggregator-powered for best swap efficiency
 
 ### 🌀 Zap for Classic Pools (V2 Pools)
 
-Classic (V2-style) pools require liquidity to be added in a **50/50 ratio** between both tokens in a pair. ZAP simplifies this with:
+Classic pools normally require liquidity in a strict **50/50 ratio**.\
+With ZAP, you can supply **any ratio of the two tokens**, and the system automatically balances them to the required 50/50 composition.
 
-#### **Zap In – Add Liquidity with One Token**
+#### **Zap In –** Add Liquidity with Any Ratio
 
-* Add liquidity using just one token (e.g. USDC).
-* ZAP automatically swaps half of it into the paired token.
-* Adds both tokens into the pool at a 50:50 ratio.
-* Returns your LP tokens to your wallet.
+* Supply any ratio of the two tokens (e.g., mostly USDC, less ETH).
+* ZAP performs the necessary swap to reach a 50/50 balance.
+* Adds both tokens into the pool and returns your LP tokens.
 
 **Example:** You want to add to the USDC-ETH pool, but only have USDC. ZAP converts a portion of your USDC into ETH and adds the pair into the pool in the correct proportions. Then Zap returns the LP tokens to your wallet.
 
-#### **Zap Out – Withdraw and Receive One Token**
+#### **Zap Out – Withdraw and Receive with Any Ratio**
 
-* Remove liquidity and choose to receive a single token.
-* ZAP converts both sides of your LP tokens into your chosen token (e.g. only USDC).
+* Remove liquidity and choose to receive a single token or both tokens.
+* ZAP converts both sides of your LP tokens into your chosen token(s) (e.g. only USDC).
 * Helps avoid unwanted assets and reduces post-withdrawal swap steps.
 
 #### Benefits
@@ -65,7 +67,7 @@ Classic (V2-style) pools require liquidity to be added in a **50/50 ratio** betw
 * 💡 Simple UI, single transaction
 * ⛽ Fewer gas fees
 * 🧠 No need to calculate token ratios manually
-* 🔁 Powered by Odos.xyz aggregator and Zap API for best swap routes
+* 🔁 Aggregator-powered for best swap efficiency
 
 
 

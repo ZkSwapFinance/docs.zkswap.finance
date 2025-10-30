@@ -14,6 +14,10 @@ description: >-
 
 <table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>AggregatorSmart </td><td><a href="https://testnet.monadexplorer.com/address/0xcF9FB929FA29eC1C1A216717200232c5B0C3d744">0xcF9FB929FA29eC1C1A216717200232c5B0C3d744</a></td><td><a href="https://app.safe.global/settings/setup?safe=zksync:0x0D64C4eb0547C1F51b78Fb1A53583dC9042238C0">Multisig Core Wallet</a></td></tr></tbody></table>
 
+### Zap
+
+<table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>Zap</td><td><a href="https://testnet.monadexplorer.com/address/0x6C5a3fDadF46Bb22135E8a623735A4C1C4550Dc3">0x6C5a3fDadF46Bb22135E8a623735A4C1C4550Dc3</a></td><td><a href="https://app.safe.global/settings/setup?safe=zksync:0x0D64C4eb0547C1F51b78Fb1A53583dC9042238C0">Multisig Core Wallet</a></td></tr></tbody></table>
+
 ### Tokenize NFT
 
 <table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th><th data-type="files">ABI</th></tr></thead><tbody><tr><td>NFT Wrapper Factory</td><td><a href="https://testnet.monadexplorer.com/address/0xDE95d9b5416D676003049Ca7480F78c16c067F21">0xDE95d9b5416D676003049Ca7480F78c16c067F21</a></td><td><a href="https://app.safe.global/settings/setup?safe=zksync:0x0D64C4eb0547C1F51b78Fb1A53583dC9042238C0">Multisig Core Wallet</a></td><td><a href="../../.gitbook/assets/NFTWrapperFactory_ABI.json">NFTWrapperFactory_ABI.json</a></td></tr><tr><td>NFT Wrapper</td><td><a href="https://testnet.monadexplorer.com/address/0xf06a9aa6e7fb411ffbe3bd75f4544c91ecf52e92">0xF06a9aA6e7Fb411FFbE3Bd75f4544c91Ecf52E92</a></td><td><a href="https://testnet.monadexplorer.com/address/0xDE95d9b5416D676003049Ca7480F78c16c067F21">NFT Wrapper Factory</a></td><td><a href="../../.gitbook/assets/NFTWrapper_ABI.json">NFTWrapper_ABI.json</a></td></tr></tbody></table>

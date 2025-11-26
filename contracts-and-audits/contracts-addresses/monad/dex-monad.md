@@ -11,6 +11,10 @@ icon: books
 
 <table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>UniversalRouter</td><td><a href="https://monadvision.com/address/0xF82343c8b777BAdB0921ee4c4F7581c968687B6b">0xF82343c8b777BAdB0921ee4c4F7581c968687B6b</a></td><td>Developer</td></tr></tbody></table>
 
+### Universal Router
+
+<table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>UniversalRouter</td><td><a href="https://era.zksync.network/address/0xA478bf3f621d47E6753F463711630C282D2803aB#code">0xA478bf3f621d47E6753F463711630C282D2803aB</a></td><td><a href="https://app.safe.global/settings/setup?safe=zksync:0x0D64C4eb0547C1F51b78Fb1A53583dC9042238C0">Multisig Core Wallet</a></td></tr></tbody></table>
+
 ### V2 AMM Contracts
 
 `INIT_CODE_HASH: 0x6b5e16075ac2072413ec20fe250b29135c58bcdf40eb6ae0190be85b4855e02d`
@@ -27,3 +31,6 @@ icon: books
 
 <table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>Zap</td><td><a href="https://monadvision.com/address/0x45728A3D03fF67Cc0c8546f4290aFFB7C94F877a">0x45728A3D03fF67Cc0c8546f4290aFFB7C94F877a</a></td><td>Developer</td></tr></tbody></table>
 
+### Aggregator & Bridge
+
+<table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>AggregatorSmart</td><td><a href="https://monadvision.com/address/0x486D7C009B78310528AcA11574eC816d2FdEf71B">0x486D7C009B78310528AcA11574eC816d2FdEf71B</a></td><td>Developer</td></tr></tbody></table>

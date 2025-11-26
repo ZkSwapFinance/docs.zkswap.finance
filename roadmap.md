@@ -9,7 +9,9 @@ Welcome to zkSwap Finance roadmap! This document outlines the primary steps in o
 In this phase, zkSwap Finance aims to become a formidable DeFi competitor by expanding across multiple blockchains, fostering strategic partnerships for broader ecosystem integration, and continuously innovating to cater to a diverse global audience.
 
 * [ ] Mainnet
+  * [x] zkSync Era
   * [x] Sonic
+  * [x] Monad
   * [ ] ...\[New chain]...
 * [ ] Testnet
   * [x] Monad Testnet
@@ -131,5 +133,5 @@ In the first stage, the zkSwap Finance team dedicates its efforts to the creatio
 * [x] Improved UX & UI
 * [x] Preparing Mainnet Launching
 
-### [**Join Our Community For More Information**](official-links.md) 
+### [**Join Our Community For More Information**](official-links.md)<br>
 

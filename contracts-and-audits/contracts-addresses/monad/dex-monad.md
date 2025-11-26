@@ -9,7 +9,7 @@ icon: books
 
 ### Universal Router
 
-<table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>UniversalRouter</td><td><a href="https://monadvision.com/address/0xF82343c8b777BAdB0921ee4c4F7581c968687B6b">0xF82343c8b777BAdB0921ee4c4F7581c968687B6b</a></td><td>Developer</td></tr><tr><td>SmartRouter</td><td><a href="https://monadvision.com/address/0xC60cBC14D170A95938bb630AE78a8306dd7cF120">0xC60cBC14D170A95938bb630AE78a8306dd7cF120</a></td><td>Developer</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>Name</th><th>Address</th><th>Owner</th></tr></thead><tbody><tr><td>UniversalRouter</td><td><a href="https://monadvision.com/address/0xF82343c8b777BAdB0921ee4c4F7581c968687B6b">0xF82343c8b777BAdB0921ee4c4F7581c968687B6b</a></td><td>Developer</td></tr></tbody></table>
 
 ### V2 AMM Contracts
 

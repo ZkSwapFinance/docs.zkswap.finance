@@ -27,7 +27,7 @@
     * [DEX - Sonic](contracts-and-audits/contracts-addresses/sonic/dex-sonic.md)
     * [Aggregator & Bridge](contracts-and-audits/contracts-addresses/sonic/aggregator-and-bridge.md)
     * [Farming, Staking, S2E](contracts-and-audits/contracts-addresses/sonic/farming-staking-s2e.md)
-  * [2️⃣ Monad](contracts-and-audits/contracts-addresses/monad/README.md)
+  * [3️⃣ Monad](contracts-and-audits/contracts-addresses/monad/README.md)
     * [DEX - Monad](contracts-and-audits/contracts-addresses/monad/dex-monad.md)
     * [Aggregator & Bridge](contracts-and-audits/contracts-addresses/monad/aggregator-and-bridge.md)
   * [🧪 DEX - Monad Testnet](contracts-and-audits/contracts-addresses/dex-monad-testnet.md)

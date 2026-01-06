@@ -5,7 +5,7 @@ description: >-
   this Docs.
 ---
 
-# 🔎 Smart Contracts
+# 🔎 Contracts Addresses
 
 {% content-ref url="zksync-era/" %}
 [zksync-era](zksync-era/)
@@ -13,6 +13,10 @@ description: >-
 
 {% content-ref url="sonic/" %}
 [sonic](sonic/)
+{% endcontent-ref %}
+
+{% content-ref url="monad/" %}
+[monad](monad/)
 {% endcontent-ref %}
 
 {% content-ref url="dex-monad-testnet.md" %}

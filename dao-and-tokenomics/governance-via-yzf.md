@@ -10,7 +10,7 @@ description: >-
 
 Governance token: yZF at [0x056f1960b5CF53676AD9C0A7113363A812DC0c8e](https://explorer.zksync.io/address/0x056f1960b5CF53676AD9C0A7113363A812DC0c8e)
 
-Our voting portal: [https://vote.zkswap.finance/](https://vote.zkswap.finance/). Within this portal, you'll find:
+Our voting portal: [https://vote.zkswap.finance/](https://snapshot.org/#/s:zkswapfinance.eth). Within this portal, you'll find:
 
 * Core Proposals: These represent zkSwap Finance team's official propositions. The team will use the results as a reference to decide on their implementation.
 * Community Proposals: This is your platform! Share your innovative ideas and viewpoints. Our team carefully reviews and response every community vote, often incorporating fantastic ideas and designs with strong community support into future product releases and core voting proposals. Your input drives our development!

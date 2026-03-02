@@ -8,7 +8,8 @@
 
 ## DAO & TOKENOMICS
 
-* [♾️ Tokenomics](dao-and-tokenomics/tokenomics.md)
+* [♾️ Tokenomics](dao-and-tokenomics/tokenomics/README.md)
+  * [ZF Token Minters](dao-and-tokenomics/tokenomics/zf-token-minters.md)
 * [🔆 Token Utilities](dao-and-tokenomics/token-utilities.md)
 * [🤝 Governance via yZF](dao-and-tokenomics/governance-via-yzf.md)
 * [🗒️ DAO Proposal Guidelines](dao-and-tokenomics/dao-proposal-guidelines.md)
@@ -20,7 +21,6 @@
     * [DEX - ZKsync](contracts-and-audits/contracts-addresses/zksync-era/dex-zksync.md)
     * [Farming, Staking, S2E](contracts-and-audits/contracts-addresses/zksync-era/farming-staking-s2e.md)
     * [Protocol Funds & Timelocks](contracts-and-audits/contracts-addresses/zksync-era/protocol-funds-and-timelocks.md)
-    * [ZF Token Minters](contracts-and-audits/contracts-addresses/zksync-era/zf-token-minters.md)
     * [ZF Paymasters](contracts-and-audits/contracts-addresses/zksync-era/zf-paymasters.md)
   * [2️⃣ Sonic](contracts-and-audits/contracts-addresses/sonic/README.md)
     * [DEX - Sonic](contracts-and-audits/contracts-addresses/sonic/dex-sonic.md)

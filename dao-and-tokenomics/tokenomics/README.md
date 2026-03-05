@@ -8,7 +8,7 @@
 The Circulating Supply is calculated according to the following formula:
 
 ```
-circulatingSupply = totalSupply - zfBurned - zfStakedInGovernanceV1Pool - zfStakedInGovernanceV2Pool - zfInTreasury - zfInTeamFund
+circulatingSupply = totalSupply - zfBurned - zfStakedInGovernanceV1Pool - zfStakedInGovernanceV2Pool - zfStakedInGovernanceV3Pool - zfInTreasury - zfInVestingContracts
 
 ```
 {% endhint %}

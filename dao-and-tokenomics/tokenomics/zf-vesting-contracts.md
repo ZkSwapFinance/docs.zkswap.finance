@@ -1,7 +1,5 @@
 ---
-description: >-
-  ABIs can be directly copied from the block explorer. If not, then they are
-  attached here.
+description: Verified - Linear Vesting - Timelock 14 days
 icon: books
 ---
 

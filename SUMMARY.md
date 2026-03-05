@@ -9,7 +9,7 @@
 ## DAO & TOKENOMICS
 
 * [♾️ Tokenomics](dao-and-tokenomics/tokenomics/README.md)
-  * [ZF Token Minters](dao-and-tokenomics/tokenomics/zf-token-minters.md)
+  * [ZF Vesting Contracts](dao-and-tokenomics/tokenomics/zf-vesting-contracts.md)
 * [🔆 Token Utilities](dao-and-tokenomics/token-utilities.md)
 * [🤝 Governance via yZF](dao-and-tokenomics/governance-via-yzf.md)
 * [🗒️ DAO Proposal Guidelines](dao-and-tokenomics/dao-proposal-guidelines.md)

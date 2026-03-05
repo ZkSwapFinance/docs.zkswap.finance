@@ -10,7 +10,6 @@ Kindly reach out to us via these platforms:
 
 #### Link curators:
 
-* Link3: [https://link3.to/zkswapfinance](https://link3.to/zkswapfinance)
 * Linktree: [https://linktr.ee/zkswap\_finance](https://linktr.ee/zkswap_finance)
 
 #### Socials & Others
@@ -20,11 +19,8 @@ Kindly reach out to us via these platforms:
 * [x] Discord Server: [https://discord.gg/zkswap-finance](https://discord.gg/zkswap-finance)
 * [x] Telegram Announcements: [https://t.me/zkSwap\_Finance\_ANN](https://t.me/zkSwap_Finance_ANN)
 * [x] Telegram Support Group: [https://t.me/zkSwap\_Finance\_Official](https://t.me/zkSwap_Finance_Official)
-* [x] Zealy: [https://zealy.io/c/zkswapfinance](https://zealy.io/c/zkswapfinance)
-* [x] Galxe: [https://galxe.com/zkSwapFinance](https://galxe.com/zkSwapFinance)
 * [x] Youtube: [https://www.youtube.com/@zkSwap\_finance](https://www.youtube.com/@zkSwap_finance)
 * [x] Tiktok: [https://www.tiktok.com/@zkswap\_finance](https://www.tiktok.com/@zkswap_finance)
-* [x] Blog: [https://blog.zkswap.finance/](https://blog.zkswap.finance/)
 * [x] Mirror: [https://mirror.xyz/0x96f026aE1bD72F8881319541959018e6c1Fd3071](https://mirror.xyz/0x96f026aE1bD72F8881319541959018e6c1Fd3071)
 * [x] Medium: [https://medium.com/@zkswap\_finance](https://medium.com/@zkswap_finance)
 * [x] Youtube: [https://www.youtube.com/@zkSwap\_finance](https://www.youtube.com/@zkSwap_finance)

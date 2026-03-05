@@ -31,3 +31,6 @@ Any transaction requires 3 out of 5 signatures to be authorized.
 {% endtab %}
 {% endtabs %}
 
+#### zkSwap Finance Protocol Treasury
+
+Address: [0xffdEF45585b57E294487c72F01043D5dee3F069f](https://explorer.zksync.io/address/0xffdEF45585b57E294487c72F01043D5dee3F069f) (Owner: [Multisig Funds Wallet](https://app.safe.global/settings/setup?safe=zksync:0xF1802d9a70Bdc6F6EffD65d44b33226eE0E6A821))

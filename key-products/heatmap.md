@@ -2,6 +2,7 @@
 description: >-
   Your interactive gateway to the hottest tokens and trends on zkSync. Explore
   the zkSync ecosystem and uncover the latest trends with the familiar Heatmap.
+hidden: true
 ---
 
 # 🔥 Heatmap

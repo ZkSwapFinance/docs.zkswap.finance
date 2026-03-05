@@ -41,7 +41,7 @@
 * [🌿 Aggregator](key-products/aggregator.md)
 * [🚃 Bridge](key-products/bridge.md)
 * [🇹🇰 Tokenize NFT](key-products/tokenize-nft.md)
-* [🫧 Bubbles](key-products/bubbles.md)
+* [🫧 Bubbles, Heatmap, & Lens](key-products/bubbles-heatmap-and-lens.md)
 * [🔥 Heatmap](key-products/heatmap.md)
 * [💎 Lens](key-products/lens.md)
 * [🎇 ZF Paymaster](key-products/zf-paymaster.md)

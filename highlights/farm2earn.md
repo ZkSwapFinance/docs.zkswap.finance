@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🪙 Farm2Earn
 
 <figure><img src="../.gitbook/assets/Farming.png" alt=""><figcaption></figcaption></figure>

@@ -2,6 +2,7 @@
 description: >-
   Track your wallet and see Volume you traded on different protocols and
   blockchains
+hidden: true
 ---
 
 # 📖 zkFlow

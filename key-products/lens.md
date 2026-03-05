@@ -2,6 +2,7 @@
 description: >-
   A sleek table format, designed for quick overview of the tokens data on ZKsync
   Era
+hidden: true
 ---
 
 # 💎 Lens

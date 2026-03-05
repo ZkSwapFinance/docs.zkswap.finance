@@ -12,13 +12,13 @@ Kindly reach out to us via these platforms:
 #### Main Socials
 
 * [x] Twitter: [https://twitter.com/zkSwap\_finance](https://twitter.com/zkSwap_finance)
-* [x] Debank: [https://debank.com/official-account/111776](https://debank.com/official-account/111776)
 * [x] Discord Server: [https://discord.gg/zkswap-finance](https://discord.gg/zkswap-finance)
 * [x] Telegram Announcements: [https://t.me/zkSwap\_Finance\_ANN](https://t.me/zkSwap_Finance_ANN)
 * [x] Telegram Support Group: [https://t.me/zkSwap\_Finance\_Official](https://t.me/zkSwap_Finance_Official)
 
 #### Others
 
+* [x] Debank: [https://debank.com/official-account/111776](https://debank.com/official-account/111776)
 * [x] Youtube: [https://www.youtube.com/@zkSwap\_finance](https://www.youtube.com/@zkSwap_finance)
 * [x] Tiktok: [https://www.tiktok.com/@zkswap\_finance](https://www.tiktok.com/@zkswap_finance)
 * [x] Mirror: [https://mirror.xyz/0x96f026aE1bD72F8881319541959018e6c1Fd3071](https://mirror.xyz/0x96f026aE1bD72F8881319541959018e6c1Fd3071)

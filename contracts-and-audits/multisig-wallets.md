@@ -16,6 +16,7 @@ Any transaction requires 3 out of 5 signatures to be authorized.
 | Owner 3                    | [0x6F4fc76B34901275903a0e7EB27B32BeC5E4C215](https://explorer.zksync.io/address/0x6F4fc76B34901275903a0e7EB27B32BeC5E4C215)                 | [0x6F4fc76B34901275903a0e7EB27B32BeC5E4C215](https://explorer.zksync.io/address/0x6F4fc76B34901275903a0e7EB27B32BeC5E4C215)                 |
 | Owner 4                    | [0x4700347E98C9c8A0c63a865575dFf34088C473d5](https://explorer.zksync.io/address/0x4700347E98C9c8A0c63a865575dFf34088C473d5)                 | [0x4700347E98C9c8A0c63a865575dFf34088C473d5](https://explorer.zksync.io/address/0x4700347E98C9c8A0c63a865575dFf34088C473d5)                 |
 | Owner 5                    | [0x13BD7a61b46950fF0e9b41571Dc4C503eE854042](https://explorer.zksync.io/address/0x13BD7a61b46950fF0e9b41571Dc4C503eE854042)                 | [0x13BD7a61b46950fF0e9b41571Dc4C503eE854042](https://explorer.zksync.io/address/0x13BD7a61b46950fF0e9b41571Dc4C503eE854042)                 |
+| Protocol Treasury          | [0xffdEF45585b57E294487c72F01043D5dee3F069f](https://explorer.zksync.io/address/0xffdEF45585b57E294487c72F01043D5dee3F069f)                 | [Multisig Funds Wallet](https://app.safe.global/settings/setup?safe=zksync:0xF1802d9a70Bdc6F6EffD65d44b33226eE0E6A821)                      |
 {% endtab %}
 
 {% tab title="Sonic" %}

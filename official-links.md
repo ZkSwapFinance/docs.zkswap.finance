@@ -7,18 +7,18 @@ Kindly reach out to us via these platforms:
 * [x] Website: [https://zkswap.finance/](https://zkswap.finance/)
 * [x] Fully Decentralized Website: [https://zkswapfinance.eth.limo](https://zkswapfinance.eth.limo)
 * [x] $Long: [https://long.fun](https://long.fun/) & [https://linktr.ee/longxfun](https://linktr.ee/longxfun)
+* [x] Linktree: [https://linktr.ee/zkswap\_finance](https://linktr.ee/zkswap_finance)
 
-#### Link curators:
-
-* Linktree: [https://linktr.ee/zkswap\_finance](https://linktr.ee/zkswap_finance)
-
-#### Socials & Others
+#### Main Socials
 
 * [x] Twitter: [https://twitter.com/zkSwap\_finance](https://twitter.com/zkSwap_finance)
 * [x] Debank: [https://debank.com/official-account/111776](https://debank.com/official-account/111776)
 * [x] Discord Server: [https://discord.gg/zkswap-finance](https://discord.gg/zkswap-finance)
 * [x] Telegram Announcements: [https://t.me/zkSwap\_Finance\_ANN](https://t.me/zkSwap_Finance_ANN)
 * [x] Telegram Support Group: [https://t.me/zkSwap\_Finance\_Official](https://t.me/zkSwap_Finance_Official)
+
+#### Others
+
 * [x] Youtube: [https://www.youtube.com/@zkSwap\_finance](https://www.youtube.com/@zkSwap_finance)
 * [x] Tiktok: [https://www.tiktok.com/@zkswap\_finance](https://www.tiktok.com/@zkswap_finance)
 * [x] Mirror: [https://mirror.xyz/0x96f026aE1bD72F8881319541959018e6c1Fd3071](https://mirror.xyz/0x96f026aE1bD72F8881319541959018e6c1Fd3071)

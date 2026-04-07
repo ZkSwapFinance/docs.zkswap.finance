@@ -12,6 +12,7 @@ In this phase, zkSwap Finance aims to become a formidable DeFi competitor by exp
   * [x] zkSync Era
   * [x] Sonic
   * [x] Monad
+  * [x] Stable
   * [ ] ...\[New chain]...
 * [ ] Testnet
   * [x] Monad Testnet
